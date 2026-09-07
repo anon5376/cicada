@@ -1,0 +1,2321 @@
+{
+  "pages": [
+    {
+      "split": 15,
+      "onion": 0,
+      "rune_count": 262,
+      "n_words": 59,
+      "n_one_rune_words": 3,
+      "max_word": 11,
+      "first_words": [
+        8,
+        5,
+        4,
+        3,
+        3,
+        11,
+        5,
+        4,
+        3,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "split": 16,
+      "onion": 1,
+      "rune_count": 266,
+      "n_words": 63,
+      "n_one_rune_words": 1,
+      "max_word": 10,
+      "first_words": [
+        5,
+        8,
+        8,
+        4,
+        6,
+        4,
+        2,
+        3,
+        2,
+        9,
+        6,
+        3
+      ]
+    },
+    {
+      "split": 17,
+      "onion": 2,
+      "rune_count": 201,
+      "n_words": 38,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        2,
+        1,
+        2,
+        7,
+        3,
+        6,
+        7,
+        3,
+        5,
+        4,
+        7,
+        10
+      ]
+    },
+    {
+      "split": 18,
+      "onion": 3,
+      "rune_count": 217,
+      "n_words": 44,
+      "n_one_rune_words": 1,
+      "max_word": 12,
+      "first_words": [
+        2,
+        11,
+        3,
+        4,
+        7,
+        7,
+        7,
+        4,
+        6,
+        12,
+        1,
+        9
+      ]
+    },
+    {
+      "split": 19,
+      "onion": 4,
+      "rune_count": 261,
+      "n_words": 61,
+      "n_one_rune_words": 4,
+      "max_word": 10,
+      "first_words": [
+        2,
+        8,
+        7,
+        4,
+        1,
+        2,
+        3,
+        6,
+        3,
+        3,
+        5,
+        2
+      ]
+    },
+    {
+      "split": 20,
+      "onion": 5,
+      "rune_count": 263,
+      "n_words": 59,
+      "n_one_rune_words": 3,
+      "max_word": 10,
+      "first_words": [
+        2,
+        7,
+        3,
+        3,
+        8,
+        4,
+        6,
+        3,
+        3,
+        4,
+        1,
+        6
+      ]
+    },
+    {
+      "split": 21,
+      "onion": 6,
+      "rune_count": 196,
+      "n_words": 45,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        2,
+        10,
+        6,
+        5,
+        3,
+        7,
+        3
+      ]
+    },
+    {
+      "split": 22,
+      "onion": 7,
+      "rune_count": 208,
+      "n_words": 50,
+      "n_one_rune_words": 1,
+      "max_word": 12,
+      "first_words": [
+        2,
+        3,
+        6,
+        3,
+        5,
+        4,
+        5,
+        3,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "split": 23,
+      "onion": 8,
+      "rune_count": 255,
+      "n_words": 51,
+      "n_one_rune_words": 1,
+      "max_word": 12,
+      "first_words": [
+        4,
+        8,
+        3,
+        2,
+        3,
+        9,
+        4,
+        3,
+        4,
+        2,
+        2,
+        6
+      ]
+    },
+    {
+      "split": 24,
+      "onion": 9,
+      "rune_count": 268,
+      "n_words": 57,
+      "n_one_rune_words": 2,
+      "max_word": 12,
+      "first_words": [
+        5,
+        5,
+        3,
+        6,
+        1,
+        3,
+        3,
+        3,
+        2,
+        5,
+        11,
+        4
+      ]
+    },
+    {
+      "split": 25,
+      "onion": 10,
+      "rune_count": 263,
+      "n_words": 65,
+      "n_one_rune_words": 5,
+      "max_word": 11,
+      "first_words": [
+        1,
+        2,
+        5,
+        4,
+        7,
+        2,
+        3,
+        7,
+        1,
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "split": 26,
+      "onion": 11,
+      "rune_count": 273,
+      "n_words": 55,
+      "n_one_rune_words": 0,
+      "max_word": 13,
+      "first_words": [
+        4,
+        2,
+        3,
+        4,
+        7,
+        6,
+        4,
+        9,
+        2,
+        6,
+        2,
+        2
+      ]
+    },
+    {
+      "split": 27,
+      "onion": 12,
+      "rune_count": 261,
+      "n_words": 65,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        2,
+        3,
+        3,
+        4,
+        3,
+        3,
+        3,
+        5,
+        9,
+        9,
+        6,
+        10
+      ]
+    },
+    {
+      "split": 28,
+      "onion": 13,
+      "rune_count": 272,
+      "n_words": 61,
+      "n_one_rune_words": 3,
+      "max_word": 14,
+      "first_words": [
+        6,
+        7,
+        4,
+        6,
+        5,
+        1,
+        3,
+        3,
+        3,
+        2,
+        4,
+        4
+      ]
+    },
+    {
+      "split": 29,
+      "onion": 14,
+      "rune_count": 137,
+      "n_words": 31,
+      "n_one_rune_words": 0,
+      "max_word": 9,
+      "first_words": [
+        2,
+        4,
+        3,
+        3,
+        3,
+        6,
+        5,
+        2,
+        6,
+        7,
+        6,
+        4
+      ]
+    },
+    {
+      "split": 30,
+      "onion": 15,
+      "rune_count": 159,
+      "n_words": 37,
+      "n_one_rune_words": 1,
+      "max_word": 9,
+      "first_words": [
+        4,
+        5,
+        4,
+        2,
+        5,
+        4,
+        5,
+        6,
+        5,
+        6,
+        3,
+        3
+      ]
+    },
+    {
+      "split": 31,
+      "onion": 16,
+      "rune_count": 267,
+      "n_words": 60,
+      "n_one_rune_words": 3,
+      "max_word": 13,
+      "first_words": [
+        13,
+        8,
+        1,
+        5,
+        5,
+        2,
+        3,
+        3,
+        6,
+        5,
+        6,
+        3
+      ]
+    },
+    {
+      "split": 32,
+      "onion": 17,
+      "rune_count": 273,
+      "n_words": 69,
+      "n_one_rune_words": 5,
+      "max_word": 8,
+      "first_words": [
+        2,
+        2,
+        3,
+        4,
+        2,
+        8,
+        7,
+        4,
+        2,
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "split": 33,
+      "onion": 18,
+      "rune_count": 260,
+      "n_words": 61,
+      "n_one_rune_words": 3,
+      "max_word": 10,
+      "first_words": [
+        6,
+        3,
+        4,
+        2,
+        3,
+        3,
+        7,
+        2,
+        2,
+        6,
+        3,
+        4
+      ]
+    },
+    {
+      "split": 34,
+      "onion": 19,
+      "rune_count": 271,
+      "n_words": 66,
+      "n_one_rune_words": 4,
+      "max_word": 9,
+      "first_words": [
+        5,
+        6,
+        5,
+        4,
+        2,
+        4,
+        7,
+        3,
+        5,
+        6,
+        6,
+        3
+      ]
+    },
+    {
+      "split": 35,
+      "onion": 20,
+      "rune_count": 269,
+      "n_words": 65,
+      "n_one_rune_words": 1,
+      "max_word": 8,
+      "first_words": [
+        1,
+        3,
+        3,
+        3,
+        8,
+        8,
+        2,
+        2,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "split": 36,
+      "onion": 21,
+      "rune_count": 273,
+      "n_words": 55,
+      "n_one_rune_words": 3,
+      "max_word": 11,
+      "first_words": [
+        3,
+        3,
+        3,
+        8,
+        2,
+        4,
+        11,
+        3,
+        4,
+        5,
+        10,
+        6
+      ]
+    },
+    {
+      "split": 37,
+      "onion": 22,
+      "rune_count": 131,
+      "n_words": 28,
+      "n_one_rune_words": 0,
+      "max_word": 12,
+      "first_words": [
+        2,
+        2,
+        2,
+        6,
+        2,
+        6,
+        7,
+        4,
+        2,
+        2,
+        12,
+        7
+      ]
+    },
+    {
+      "split": 38,
+      "onion": 23,
+      "rune_count": 213,
+      "n_words": 46,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        2,
+        6,
+        3,
+        5,
+        8,
+        3,
+        3,
+        7,
+        5,
+        5,
+        7,
+        6
+      ]
+    },
+    {
+      "split": 39,
+      "onion": 24,
+      "rune_count": 270,
+      "n_words": 64,
+      "n_one_rune_words": 1,
+      "max_word": 10,
+      "first_words": [
+        3,
+        3,
+        4,
+        5,
+        2,
+        4,
+        3,
+        2,
+        7,
+        5,
+        4,
+        5
+      ]
+    },
+    {
+      "split": 40,
+      "onion": 25,
+      "rune_count": 273,
+      "n_words": 58,
+      "n_one_rune_words": 2,
+      "max_word": 14,
+      "first_words": [
+        2,
+        1,
+        5,
+        5,
+        6,
+        3,
+        2,
+        2,
+        3,
+        5,
+        5,
+        7
+      ]
+    },
+    {
+      "split": 41,
+      "onion": 26,
+      "rune_count": 265,
+      "n_words": 59,
+      "n_one_rune_words": 1,
+      "max_word": 10,
+      "first_words": [
+        1,
+        4,
+        7,
+        4,
+        5,
+        4,
+        2,
+        8,
+        2,
+        6,
+        2,
+        10
+      ]
+    },
+    {
+      "split": 42,
+      "onion": 27,
+      "rune_count": 234,
+      "n_words": 52,
+      "n_one_rune_words": 1,
+      "max_word": 12,
+      "first_words": [
+        3,
+        12,
+        4,
+        7,
+        2,
+        3,
+        3,
+        2,
+        1,
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "split": 43,
+      "onion": 28,
+      "rune_count": 269,
+      "n_words": 59,
+      "n_one_rune_words": 4,
+      "max_word": 11,
+      "first_words": [
+        2,
+        5,
+        7,
+        5,
+        7,
+        6,
+        1,
+        5,
+        2,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "split": 44,
+      "onion": 29,
+      "rune_count": 277,
+      "n_words": 71,
+      "n_one_rune_words": 2,
+      "max_word": 11,
+      "first_words": [
+        3,
+        5,
+        2,
+        4,
+        3,
+        3,
+        2,
+        6,
+        3,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "split": 45,
+      "onion": 30,
+      "rune_count": 263,
+      "n_words": 61,
+      "n_one_rune_words": 3,
+      "max_word": 11,
+      "first_words": [
+        4,
+        1,
+        5,
+        4,
+        5,
+        4,
+        7,
+        5,
+        6,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "split": 46,
+      "onion": 31,
+      "rune_count": 269,
+      "n_words": 64,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        8,
+        2,
+        2,
+        5,
+        6,
+        2,
+        4,
+        5,
+        4,
+        5,
+        6,
+        3
+      ]
+    },
+    {
+      "split": 47,
+      "onion": 32,
+      "rune_count": 121,
+      "n_words": 22,
+      "n_one_rune_words": 1,
+      "max_word": 11,
+      "first_words": [
+        1,
+        3,
+        5,
+        11,
+        5,
+        5,
+        3,
+        11,
+        6,
+        9,
+        5,
+        8
+      ]
+    },
+    {
+      "split": 48,
+      "onion": 33,
+      "rune_count": 214,
+      "n_words": 53,
+      "n_one_rune_words": 2,
+      "max_word": 9,
+      "first_words": [
+        2,
+        8,
+        2,
+        9,
+        6,
+        3,
+        3,
+        5,
+        3,
+        2,
+        7,
+        3
+      ]
+    },
+    {
+      "split": 49,
+      "onion": 34,
+      "rune_count": 261,
+      "n_words": 61,
+      "n_one_rune_words": 2,
+      "max_word": 12,
+      "first_words": [
+        2,
+        2,
+        2,
+        4,
+        3,
+        3,
+        6,
+        5,
+        4,
+        2,
+        7,
+        9
+      ]
+    },
+    {
+      "split": 50,
+      "onion": 35,
+      "rune_count": 271,
+      "n_words": 61,
+      "n_one_rune_words": 2,
+      "max_word": 11,
+      "first_words": [
+        4,
+        3,
+        10,
+        3,
+        2,
+        3,
+        2,
+        3,
+        4,
+        8,
+        2,
+        6
+      ]
+    },
+    {
+      "split": 51,
+      "onion": 36,
+      "rune_count": 238,
+      "n_words": 50,
+      "n_one_rune_words": 0,
+      "max_word": 11,
+      "first_words": [
+        2,
+        4,
+        3,
+        2,
+        3,
+        3,
+        5,
+        6,
+        2,
+        5,
+        6,
+        10
+      ]
+    },
+    {
+      "split": 52,
+      "onion": 37,
+      "rune_count": 228,
+      "n_words": 53,
+      "n_one_rune_words": 1,
+      "max_word": 10,
+      "first_words": [
+        4,
+        4,
+        6,
+        4,
+        10,
+        4,
+        7,
+        6,
+        5,
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "split": 53,
+      "onion": 38,
+      "rune_count": 228,
+      "n_words": 47,
+      "n_one_rune_words": 1,
+      "max_word": 12,
+      "first_words": [
+        6,
+        6,
+        2,
+        4,
+        10,
+        3,
+        4,
+        3,
+        11,
+        5,
+        3,
+        6
+      ]
+    },
+    {
+      "split": 54,
+      "onion": 39,
+      "rune_count": 240,
+      "n_words": 55,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        2,
+        1,
+        5,
+        3,
+        6,
+        5,
+        4,
+        4,
+        8,
+        5,
+        3,
+        6
+      ]
+    },
+    {
+      "split": 55,
+      "onion": 40,
+      "rune_count": 231,
+      "n_words": 55,
+      "n_one_rune_words": 1,
+      "max_word": 12,
+      "first_words": [
+        3,
+        5,
+        5,
+        4,
+        3,
+        5,
+        4,
+        2,
+        12,
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "split": 56,
+      "onion": 41,
+      "rune_count": 273,
+      "n_words": 62,
+      "n_one_rune_words": 1,
+      "max_word": 10,
+      "first_words": [
+        3,
+        6,
+        4,
+        4,
+        3,
+        4,
+        3,
+        3,
+        5,
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "split": 57,
+      "onion": 42,
+      "rune_count": 272,
+      "n_words": 58,
+      "n_one_rune_words": 1,
+      "max_word": 10,
+      "first_words": [
+        1,
+        4,
+        3,
+        9,
+        4,
+        5,
+        2,
+        3,
+        3,
+        10,
+        2,
+        5
+      ]
+    },
+    {
+      "split": 58,
+      "onion": 43,
+      "rune_count": 274,
+      "n_words": 59,
+      "n_one_rune_words": 0,
+      "max_word": 14,
+      "first_words": [
+        2,
+        4,
+        4,
+        8,
+        5,
+        2,
+        8,
+        4,
+        14,
+        4,
+        2,
+        10
+      ]
+    },
+    {
+      "split": 59,
+      "onion": 44,
+      "rune_count": 273,
+      "n_words": 57,
+      "n_one_rune_words": 1,
+      "max_word": 11,
+      "first_words": [
+        2,
+        3,
+        7,
+        11,
+        3,
+        2,
+        5,
+        6,
+        6,
+        6,
+        3,
+        7
+      ]
+    },
+    {
+      "split": 60,
+      "onion": 45,
+      "rune_count": 270,
+      "n_words": 64,
+      "n_one_rune_words": 4,
+      "max_word": 10,
+      "first_words": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        8,
+        6,
+        8,
+        1,
+        3,
+        7,
+        5
+      ]
+    },
+    {
+      "split": 61,
+      "onion": 46,
+      "rune_count": 270,
+      "n_words": 61,
+      "n_one_rune_words": 0,
+      "max_word": 12,
+      "first_words": [
+        7,
+        4,
+        5,
+        4,
+        3,
+        4,
+        3,
+        4,
+        2,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "split": 62,
+      "onion": 47,
+      "rune_count": 274,
+      "n_words": 59,
+      "n_one_rune_words": 2,
+      "max_word": 11,
+      "first_words": [
+        3,
+        8,
+        10,
+        2,
+        1,
+        7,
+        7,
+        4,
+        2,
+        6,
+        11,
+        7
+      ]
+    },
+    {
+      "split": 63,
+      "onion": 48,
+      "rune_count": 271,
+      "n_words": 67,
+      "n_one_rune_words": 2,
+      "max_word": 9,
+      "first_words": [
+        4,
+        2,
+        3,
+        3,
+        4,
+        2,
+        4,
+        3,
+        1,
+        5,
+        5,
+        4
+      ]
+    },
+    {
+      "split": 64,
+      "onion": 49,
+      "rune_count": 66,
+      "n_words": 18,
+      "n_one_rune_words": 1,
+      "max_word": 6,
+      "first_words": [
+        1,
+        2,
+        3,
+        2,
+        4,
+        6,
+        2,
+        4,
+        3,
+        4,
+        6,
+        3
+      ]
+    },
+    {
+      "split": 65,
+      "onion": 50,
+      "rune_count": 0,
+      "n_words": 0,
+      "n_one_rune_words": 0,
+      "max_word": 0,
+      "first_words": []
+    },
+    {
+      "split": 66,
+      "onion": 51,
+      "rune_count": 92,
+      "n_words": 20,
+      "n_one_rune_words": 1,
+      "max_word": 8,
+      "first_words": [
+        3,
+        6,
+        5,
+        5,
+        3,
+        4,
+        3,
+        3,
+        8,
+        3,
+        8,
+        1
+      ]
+    },
+    {
+      "split": 67,
+      "onion": 52,
+      "rune_count": 263,
+      "n_words": 60,
+      "n_one_rune_words": 3,
+      "max_word": 13,
+      "first_words": [
+        1,
+        2,
+        8,
+        7,
+        3,
+        6,
+        1,
+        3,
+        3,
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "split": 68,
+      "onion": 53,
+      "rune_count": 179,
+      "n_words": 40,
+      "n_one_rune_words": 0,
+      "max_word": 11,
+      "first_words": [
+        5,
+        3,
+        7,
+        3,
+        3,
+        4,
+        8,
+        6,
+        4,
+        4,
+        4,
+        2
+      ]
+    },
+    {
+      "split": 69,
+      "onion": 54,
+      "rune_count": 232,
+      "n_words": 50,
+      "n_one_rune_words": 2,
+      "max_word": 10,
+      "first_words": [
+        1,
+        8,
+        8,
+        3,
+        6,
+        2,
+        5,
+        3,
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "split": 70,
+      "onion": 55,
+      "rune_count": 76,
+      "n_words": 17,
+      "n_one_rune_words": 1,
+      "max_word": 13,
+      "first_words": [
+        1,
+        4,
+        2,
+        2,
+        6,
+        6,
+        2,
+        13,
+        6,
+        4,
+        2,
+        7
+      ]
+    }
+  ],
+  "crib_hits": [
+    [
+      {
+        "split": 68,
+        "n": 5,
+        "head": "TPWEOS"
+      },
+      {
+        "split": 68,
+        "n": 4,
+        "head": "WBEOTH"
+      },
+      {
+        "split": 68,
+        "n": 4,
+        "head": "NHGJ"
+      },
+      {
+        "split": 68,
+        "n": 11,
+        "head": "RIADIATHAIEOAEXL"
+      },
+      {
+        "split": 68,
+        "n": 2,
+        "head": "EOEA"
+      },
+      {
+        "split": 68,
+        "n": 3,
+        "head": "IAAJ"
+      },
+      {
+        "split": 68,
+        "n": 2,
+        "head": "HR"
+      },
+      {
+        "split": 68,
+        "n": 6,
+        "head": "THPDJNGO"
+      },
+      {
+        "split": 68,
+        "n": 5,
+        "head": "GFEOMC"
+      },
+      {
+        "split": 68,
+        "n": 5,
+        "head": "HDOTC"
+      },
+      {
+        "split": 68,
+        "n": 2,
+        "head": "VR"
+      },
+      {
+        "split": 68,
+        "n": 2,
+        "head": "PN"
+      }
+    ]
+  ],
+  "tails_ge_51": [
+    {
+      "split": 15,
+      "onion": 0,
+      "tail_shape": [
+        4,
+        3,
+        3,
+        7,
+        7,
+        2,
+        7,
+        1,
+        9,
+        3,
+        4,
+        1
+      ],
+      "acc": 51
+    },
+    {
+      "split": 16,
+      "onion": 1,
+      "tail_shape": [
+        3,
+        5,
+        3,
+        5,
+        2,
+        2,
+        2,
+        6,
+        4,
+        5,
+        3,
+        3,
+        7,
+        3
+      ],
+      "acc": 53
+    },
+    {
+      "split": 17,
+      "onion": 2,
+      "tail_shape": [
+        4,
+        3,
+        8,
+        8,
+        3,
+        2,
+        2,
+        10,
+        2,
+        9
+      ],
+      "acc": 51
+    },
+    {
+      "split": 18,
+      "onion": 3,
+      "tail_shape": [
+        5,
+        3,
+        3,
+        4,
+        5,
+        2,
+        7,
+        6,
+        8,
+        3,
+        5,
+        3
+      ],
+      "acc": 54
+    },
+    {
+      "split": 19,
+      "onion": 4,
+      "tail_shape": [
+        8,
+        5,
+        7,
+        3,
+        5,
+        4,
+        10,
+        4,
+        5,
+        3,
+        1
+      ],
+      "acc": 55
+    },
+    {
+      "split": 20,
+      "onion": 5,
+      "tail_shape": [
+        10,
+        2,
+        4,
+        7,
+        6,
+        3,
+        6,
+        4,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "acc": 54
+    },
+    {
+      "split": 21,
+      "onion": 6,
+      "tail_shape": [
+        4,
+        5,
+        3,
+        4,
+        2,
+        3,
+        2,
+        5,
+        6,
+        6,
+        4,
+        3,
+        6,
+        1
+      ],
+      "acc": 54
+    },
+    {
+      "split": 22,
+      "onion": 7,
+      "tail_shape": [
+        4,
+        3,
+        3,
+        6,
+        6,
+        2,
+        12,
+        3,
+        2,
+        4,
+        3,
+        2,
+        3
+      ],
+      "acc": 53
+    },
+    {
+      "split": 23,
+      "onion": 8,
+      "tail_shape": [
+        5,
+        6,
+        8,
+        8,
+        3,
+        2,
+        9,
+        6,
+        6,
+        1
+      ],
+      "acc": 54
+    },
+    {
+      "split": 24,
+      "onion": 9,
+      "tail_shape": [
+        6,
+        12,
+        8,
+        5,
+        3,
+        1,
+        3,
+        8,
+        10
+      ],
+      "acc": 56
+    },
+    {
+      "split": 25,
+      "onion": 10,
+      "tail_shape": [
+        7,
+        3,
+        3,
+        3,
+        3,
+        11,
+        4,
+        9,
+        7,
+        6,
+        1
+      ],
+      "acc": 57
+    },
+    {
+      "split": 26,
+      "onion": 11,
+      "tail_shape": [
+        11,
+        13,
+        5,
+        3,
+        3,
+        5,
+        3,
+        12,
+        3
+      ],
+      "acc": 58
+    },
+    {
+      "split": 27,
+      "onion": 12,
+      "tail_shape": [
+        3,
+        7,
+        9,
+        3,
+        4,
+        6,
+        10,
+        4,
+        3,
+        4
+      ],
+      "acc": 53
+    },
+    {
+      "split": 28,
+      "onion": 13,
+      "tail_shape": [
+        14,
+        6,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        7,
+        4,
+        6
+      ],
+      "acc": 61
+    },
+    {
+      "split": 29,
+      "onion": 14,
+      "tail_shape": [
+        9,
+        3,
+        4,
+        6,
+        8,
+        2,
+        3,
+        6,
+        8,
+        2,
+        6
+      ],
+      "acc": 57
+    },
+    {
+      "split": 30,
+      "onion": 15,
+      "tail_shape": [
+        4,
+        8,
+        4,
+        4,
+        3,
+        3,
+        2,
+        1,
+        4,
+        6,
+        4,
+        3,
+        6
+      ],
+      "acc": 52
+    },
+    {
+      "split": 31,
+      "onion": 16,
+      "tail_shape": [
+        5,
+        5,
+        2,
+        4,
+        7,
+        5,
+        1,
+        8,
+        4,
+        6,
+        2,
+        2
+      ],
+      "acc": 51
+    },
+    {
+      "split": 32,
+      "onion": 17,
+      "tail_shape": [
+        6,
+        8,
+        4,
+        3,
+        6,
+        5,
+        7,
+        3,
+        4,
+        2,
+        4
+      ],
+      "acc": 52
+    },
+    {
+      "split": 33,
+      "onion": 18,
+      "tail_shape": [
+        8,
+        4,
+        2,
+        6,
+        4,
+        4,
+        5,
+        5,
+        4,
+        9,
+        3,
+        1
+      ],
+      "acc": 55
+    },
+    {
+      "split": 34,
+      "onion": 19,
+      "tail_shape": [
+        2,
+        3,
+        2,
+        3,
+        3,
+        1,
+        3,
+        9,
+        2,
+        2,
+        4,
+        2,
+        4,
+        3,
+        7,
+        2
+      ],
+      "acc": 52
+    },
+    {
+      "split": 35,
+      "onion": 20,
+      "tail_shape": [
+        5,
+        4,
+        5,
+        8,
+        3,
+        3,
+        3,
+        3,
+        7,
+        2,
+        2,
+        6
+      ],
+      "acc": 51
+    },
+    {
+      "split": 36,
+      "onion": 21,
+      "tail_shape": [
+        4,
+        6,
+        2,
+        1,
+        5,
+        7,
+        2,
+        10,
+        6,
+        8
+      ],
+      "acc": 51
+    },
+    {
+      "split": 37,
+      "onion": 22,
+      "tail_shape": [
+        12,
+        3,
+        3,
+        4,
+        5,
+        4,
+        4,
+        3,
+        7,
+        5,
+        3,
+        3,
+        3
+      ],
+      "acc": 59
+    },
+    {
+      "split": 38,
+      "onion": 23,
+      "tail_shape": [
+        6,
+        3,
+        6,
+        3,
+        7,
+        6,
+        2,
+        1,
+        6,
+        3,
+        6,
+        4
+      ],
+      "acc": 53
+    },
+    {
+      "split": 39,
+      "onion": 24,
+      "tail_shape": [
+        9,
+        2,
+        2,
+        2,
+        3,
+        6,
+        2,
+        4,
+        4,
+        10,
+        2,
+        1,
+        4,
+        8
+      ],
+      "acc": 59
+    },
+    {
+      "split": 40,
+      "onion": 25,
+      "tail_shape": [
+        4,
+        2,
+        9,
+        4,
+        4,
+        9,
+        7,
+        4,
+        3,
+        1,
+        5
+      ],
+      "acc": 52
+    },
+    {
+      "split": 41,
+      "onion": 26,
+      "tail_shape": [
+        6,
+        3,
+        7,
+        4,
+        3,
+        2,
+        6,
+        8,
+        3,
+        3,
+        3,
+        6
+      ],
+      "acc": 54
+    },
+    {
+      "split": 42,
+      "onion": 27,
+      "tail_shape": [
+        10,
+        10,
+        4,
+        4,
+        10,
+        2,
+        4,
+        7,
+        3
+      ],
+      "acc": 54
+    },
+    {
+      "split": 43,
+      "onion": 28,
+      "tail_shape": [
+        11,
+        1,
+        3,
+        1,
+        2,
+        3,
+        4,
+        3,
+        2,
+        2,
+        8,
+        3,
+        8
+      ],
+      "acc": 51
+    },
+    {
+      "split": 44,
+      "onion": 29,
+      "tail_shape": [
+        6,
+        3,
+        2,
+        2,
+        3,
+        2,
+        8,
+        8,
+        9,
+        6,
+        2,
+        2,
+        3
+      ],
+      "acc": 56
+    },
+    {
+      "split": 45,
+      "onion": 30,
+      "tail_shape": [
+        3,
+        1,
+        11,
+        2,
+        3,
+        7,
+        7,
+        3,
+        2,
+        3,
+        9
+      ],
+      "acc": 51
+    },
+    {
+      "split": 46,
+      "onion": 31,
+      "tail_shape": [
+        4,
+        7,
+        2,
+        4,
+        6,
+        3,
+        10,
+        4,
+        8,
+        3
+      ],
+      "acc": 51
+    },
+    {
+      "split": 47,
+      "onion": 32,
+      "tail_shape": [
+        8,
+        4,
+        9,
+        4,
+        8,
+        2,
+        3,
+        2,
+        8,
+        5,
+        4
+      ],
+      "acc": 57
+    },
+    {
+      "split": 48,
+      "onion": 33,
+      "tail_shape": [
+        4,
+        9,
+        5,
+        5,
+        2,
+        4,
+        2,
+        4,
+        3,
+        7,
+        3,
+        5,
+        1
+      ],
+      "acc": 54
+    },
+    {
+      "split": 49,
+      "onion": 34,
+      "tail_shape": [
+        5,
+        2,
+        5,
+        4,
+        5,
+        4,
+        6,
+        12,
+        2,
+        5,
+        2,
+        3
+      ],
+      "acc": 55
+    },
+    {
+      "split": 50,
+      "onion": 35,
+      "tail_shape": [
+        3,
+        4,
+        5,
+        9,
+        3,
+        1,
+        8,
+        2,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "acc": 52
+    },
+    {
+      "split": 51,
+      "onion": 36,
+      "tail_shape": [
+        3,
+        2,
+        11,
+        8,
+        3,
+        8,
+        3,
+        2,
+        3,
+        4,
+        5
+      ],
+      "acc": 52
+    },
+    {
+      "split": 52,
+      "onion": 37,
+      "tail_shape": [
+        8,
+        4,
+        3,
+        7,
+        9,
+        7,
+        2,
+        3,
+        2,
+        5,
+        4
+      ],
+      "acc": 54
+    },
+    {
+      "split": 53,
+      "onion": 38,
+      "tail_shape": [
+        3,
+        5,
+        2,
+        6,
+        7,
+        3,
+        2,
+        10,
+        2,
+        7,
+        5
+      ],
+      "acc": 52
+    },
+    {
+      "split": 54,
+      "onion": 39,
+      "tail_shape": [
+        10,
+        5,
+        4,
+        3,
+        3,
+        3,
+        6,
+        2,
+        4,
+        3,
+        3,
+        5,
+        3
+      ],
+      "acc": 54
+    },
+    {
+      "split": 55,
+      "onion": 40,
+      "tail_shape": [
+        7,
+        2,
+        3,
+        4,
+        6,
+        4,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        4,
+        2
+      ],
+      "acc": 55
+    },
+    {
+      "split": 56,
+      "onion": 41,
+      "tail_shape": [
+        7,
+        3,
+        6,
+        3,
+        7,
+        4,
+        6,
+        8,
+        2,
+        3,
+        5
+      ],
+      "acc": 54
+    },
+    {
+      "split": 57,
+      "onion": 42,
+      "tail_shape": [
+        4,
+        7,
+        4,
+        4,
+        3,
+        2,
+        5,
+        3,
+        3,
+        6,
+        3,
+        9
+      ],
+      "acc": 53
+    },
+    {
+      "split": 58,
+      "onion": 43,
+      "tail_shape": [
+        3,
+        6,
+        3,
+        7,
+        2,
+        2,
+        2,
+        2,
+        6,
+        11,
+        2,
+        3,
+        2
+      ],
+      "acc": 51
+    },
+    {
+      "split": 59,
+      "onion": 44,
+      "tail_shape": [
+        8,
+        4,
+        9,
+        5,
+        3,
+        2,
+        3,
+        8,
+        6,
+        4
+      ],
+      "acc": 52
+    },
+    {
+      "split": 60,
+      "onion": 45,
+      "tail_shape": [
+        7,
+        3,
+        5,
+        4,
+        5,
+        7,
+        3,
+        2,
+        3,
+        2,
+        2,
+        9,
+        2
+      ],
+      "acc": 54
+    },
+    {
+      "split": 61,
+      "onion": 46,
+      "tail_shape": [
+        7,
+        3,
+        4,
+        2,
+        3,
+        8,
+        3,
+        9,
+        4,
+        8
+      ],
+      "acc": 51
+    },
+    {
+      "split": 62,
+      "onion": 47,
+      "tail_shape": [
+        3,
+        3,
+        6,
+        3,
+        10,
+        7,
+        3,
+        11,
+        3,
+        4
+      ],
+      "acc": 53
+    },
+    {
+      "split": 63,
+      "onion": 48,
+      "tail_shape": [
+        2,
+        8,
+        4,
+        5,
+        7,
+        5,
+        3,
+        3,
+        4,
+        3,
+        8
+      ],
+      "acc": 52
+    },
+    {
+      "split": 64,
+      "onion": 49,
+      "tail_shape": [
+        6,
+        2,
+        4,
+        3,
+        4,
+        6,
+        3,
+        3,
+        4,
+        6,
+        5,
+        2,
+        6
+      ],
+      "acc": 54
+    },
+    {
+      "split": 65,
+      "onion": 50,
+      "tail_shape": [],
+      "acc": 0
+    },
+    {
+      "split": 66,
+      "onion": 51,
+      "tail_shape": [
+        3,
+        8,
+        1,
+        3,
+        7,
+        4,
+        8,
+        3,
+        8,
+        4,
+        3
+      ],
+      "acc": 52
+    },
+    {
+      "split": 67,
+      "onion": 52,
+      "tail_shape": [
+        12,
+        5,
+        3,
+        8,
+        4,
+        5,
+        8,
+        3,
+        4,
+        5
+      ],
+      "acc": 57
+    },
+    {
+      "split": 68,
+      "onion": 53,
+      "tail_shape": [
+        5,
+        4,
+        4,
+        11,
+        2,
+        3,
+        2,
+        6,
+        5,
+        5,
+        2,
+        2
+      ],
+      "acc": 51
+    },
+    {
+      "split": 69,
+      "onion": 54,
+      "tail_shape": [
+        8,
+        2,
+        3,
+        4,
+        6,
+        6,
+        3,
+        2,
+        10,
+        2,
+        10
+      ],
+      "acc": 56
+    },
+    {
+      "split": 70,
+      "onion": 55,
+      "tail_shape": [
+        13,
+        6,
+        4,
+        2,
+        7,
+        7,
+        2,
+        6,
+        3,
+        3
+      ],
+      "acc": 53
+    }
+  ],
+  "total_words": 2928
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "hashblock": {
+      "body_len": 2015,
+      "hex_bytes": 991,
+      "body_head": "775d0481115f6e4f3ba8873ac66da1df6bbe3ff19389878f2ddb9423881b 5a95bb5dff35ebab119090c5c19678e58bf9cfe2a93694e23da86465cd1"
+    },
+    "onion5": {
+      "body_len": 24659,
+      "hex_bytes": 12052,
+      "body_head": "Very good.  You have done well to come this far.  ffd8ffe000104a46494600010101004800480000fffe0013437265617465 642077697"
+    },
+    "welcome": {
+      "body_len": 299,
+      "hex_bytes": 13,
+      "body_head": "Hello.  Your enlightenment awaits you.            ky2khlqdf7qdznac.onion                    We look forward to hearing f"
+    },
+    "final2014": {
+      "body_len": 1182,
+      "hex_bytes": 0,
+      "body_head": "-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA1   Hello.  Your enlightenment awaits you.            ky2khlqdf7qdznac.onion"
+    },
+    "pp2015": {
+      "body_len": 335,
+      "hex_bytes": 42,
+      "body_head": " Some news organisations have recently claimed that \"3301\" is tied to the illegal activities of a group that has claimed"
+    }
+  },
+  "verifs": {
+    "hashblock": {
+      "result": "VALID"
+    },
+    "onion5": {
+      "result": "VALID"
+    },
+    "welcome": {
+      "result": "VALID"
+    },
+    "final2014": {
+      "result": "VALID"
+    },
+    "pp2015": {
+      "result": "VALID"
+    }
+  },
+  "tested": 25,
+  "hits": [
+    {
+      "src": "welcome",
+      "kind": "otp_prefix",
+      "head": "NTHOETLRAJAEAEVEAR",
+      "ioc": 0.02564102564102564,
+      "doublet_rate": 0.08333333333333333,
+      "length": 18,
+      "common_trigram_hits": 1,
+      "trigram_per_100": 5.555555555555555,
+      "vowelish_ratio": 0.5
+    }
+  ]
+}

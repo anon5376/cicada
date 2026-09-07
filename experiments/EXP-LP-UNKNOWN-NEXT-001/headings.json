@@ -1,0 +1,62 @@
+{
+  "tested": 1980,
+  "hits": [],
+  "split015_samples": [
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "direct",
+      "n": 20,
+      "latin": "SHEOGMIAFSYENGCTHJGAEFJOE",
+      "trigram_per_100": 0.0
+    },
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "atbash",
+      "n": 20,
+      "latin": "PLIAEOENVEAPTHIWDYBOEOEABG",
+      "trigram_per_100": 0.0
+    },
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "atbash_plus_3",
+      "n": 20,
+      "latin": "TDPEAAEEORTHTCPIYFLAEGTHLN",
+      "trigram_per_100": 0.0
+    },
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "totient_prime",
+      "n": 20,
+      "latin": "XGXYAEWJJOEIABXDEDEOAEIAOI",
+      "trigram_per_100": 0.0
+    },
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "vigenere:[23, 10, 1, 10, 9, 10, 16, 26]",
+      "n": 20,
+      "latin": "NGIABOEYNJONGTBJAENGANTHMIEO",
+      "trigram_per_100": 3.5714285714285716
+    },
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "vigenere_skip_pt_f:[23, 10, 1, 10, 9, 10, 16, 26]",
+      "n": 20,
+      "latin": "NGIABOEYNJONGTBJAENGANTHMIEO",
+      "trigram_per_100": 3.5714285714285716
+    },
+    {
+      "split": 15,
+      "onion": 0,
+      "method": "vigenere:[0, 10, 4, 0, 1, 19, 0, 18, 4, 18, 9, 0, 18]",
+      "n": 20,
+      "latin": "SIAXOCFIAJJHNNGTTHVTHAEEANGOE",
+      "trigram_per_100": 3.4482758620689653
+    }
+  ]
+}

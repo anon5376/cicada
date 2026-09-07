@@ -1,0 +1,53 @@
+{
+  "experiment": "EXP-LP-RULE30-XOSHIRO-001",
+  "family": "marked-seed Wolfram Rule 30 CA + xoshiro256**",
+  "plant": {
+    "xoshiro256ss_rigid": true,
+    "xoshiro256ss_beam": {
+      "agree": 0.963,
+      "ok": true
+    },
+    "xoshiro256ss_wrong": true,
+    "xoshiro256ss_hi5_rigid": true,
+    "xoshiro256ss_hi5_beam": {
+      "agree": 0.9877,
+      "ok": true
+    },
+    "xoshiro256ss_hi5_wrong": true,
+    "rule30_c257_rigid": true,
+    "rule30_c257_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "rule30_c257_wrong": true,
+    "rule30_row64_rigid": true,
+    "rule30_row64_beam": {
+      "agree": 0.9136,
+      "ok": true
+    },
+    "rule30_row64_wrong": true,
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 4554,
+  "tested_beam": 88,
+  "tested": 4642,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "xoshiro256ss",
+    "seed": "int:1295",
+    "span": "split047",
+    "rel": "beau",
+    "head": "FFTEOGNGVTLNGWWVRNGTHOBHAHEOEPOBAIATITEAPGCMOIATLOEEAPYYEOTHEOPORPNDJGENOEFCOJTH",
+    "trigram_per_100": 3.2467532467532467,
+    "ioc": 0.0384297520661157
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "boundary": "not exhaustive over 2^256 / CA ICs; not other rule numbers"
+}

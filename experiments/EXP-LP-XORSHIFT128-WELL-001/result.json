@@ -1,0 +1,50 @@
+{
+  "experiment": "EXP-LP-XORSHIFT128-WELL-001",
+  "family": "xorshift128+ / WELL512a + skip-aware omitted heading titles",
+  "plant": {
+    "xorshift128p_rigid": true,
+    "xorshift128p_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "xorshift128p_wrong": true,
+    "xorshift128p_hi5_rigid": true,
+    "xorshift128p_hi5_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "xorshift128p_hi5_wrong": true,
+    "well512a_rigid": true,
+    "well512a_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "well512a_wrong": true,
+    "intus_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 4224,
+  "tested_beam": 104,
+  "tested": 4328,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "xorshift128p",
+    "seed": "int:56",
+    "span": "split069",
+    "rel": "add",
+    "head": "STHNREGTEAEORLXGFIEOPAPDIAAEOEECDOEHTHIGWEOFADTHAXLEOVIAEATINGYVOENGTNVIATHLJXEO",
+    "trigram_per_100": 3.6184210526315788,
+    "ioc": 0.03668457978802806
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0
+}

@@ -1,0 +1,36 @@
+{
+  "experiment": "EXP-LP-WORD-LOCAL-TOTIENT-001",
+  "family": "totient/caesar/reverse restarting at transcribed words; columnar-then-totient",
+  "plant": {
+    "tot0": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "rev": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "trans7_tot": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ok": true
+  },
+  "tested": 2385,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "split": 47,
+    "kind": "tot_skipF",
+    "head": "MVDOAEANNGAGMRVWWEARAEJYNGCIATHWYTHEOAEFFTHFWVSEORAWYIAFALSHNGIEOGNGCMRRIVPVCING",
+    "trigram_per_100": 3.3112582781456954,
+    "ioc": 0.03650137741046832,
+    "n": 121
+  },
+  "readable_after_ioc055": [],
+  "skeptic_review": {
+    "verdict": "null",
+    "why": "rigid unique decode; keep bar valid. Promote only if IoC>=0.055 and readable English."
+  },
+  "verified_new_unsolved_runes": 0
+}

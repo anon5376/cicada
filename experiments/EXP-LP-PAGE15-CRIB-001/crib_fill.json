@@ -1,0 +1,950 @@
+{
+  "ct_latin_direct": "TPWEOSWBEOTHNHGJRIADIATHAIEOAEXLEOEAIAAJHRTHPDJNGOGFEOMCHDOTCVRPN",
+  "top_fills": [
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "ACHER",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREACHERAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "ACHER",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREACHERAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AFORE",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREAFOREAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AFORE",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREAFOREAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AGENT",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREAGENTAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AGENT",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREAGENTAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AHINT",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREAHINTAGENTHATHE",
+      "ks_struct": {
+        "best_period": 12,
+        "period_agree": 0.077,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AHINT",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREAHINTAHINTHATHE",
+      "ks_struct": {
+        "best_period": 12,
+        "period_agree": 0.077,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "ALAND",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREALANDAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "ALAND",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHEADHEREALANDAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HA",
+        "ADHERE",
+        "ACHER",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHAADHEREACHERAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HA",
+        "ADHERE",
+        "ACHER",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHAADHEREACHERAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HA",
+        "ADHERE",
+        "AFORE",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHAADHEREAFOREAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HA",
+        "ADHERE",
+        "AFORE",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHAADHEREAFOREAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 45.45454545454545,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ADHERESCENT",
+        "HA",
+        "THAT",
+        "HA",
+        "ADHERE",
+        "AGENT",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREADHERESCENTHATHATHAADHEREAGENTAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.075,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          9,
+          4,
+          15
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "ACHER",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREACHERAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.05,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "ACHER",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREACHERAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.05,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AFORE",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREAFOREAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.05,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AFORE",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREAFOREAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.05,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AGENT",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREAGENTAGENTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.05,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AGENT",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREAGENTAHINTHATHE",
+      "ks_struct": {
+        "best_period": 11,
+        "period_agree": 0.05,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AHINT",
+        "AGENT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREAHINTAGENTHATHE",
+      "ks_struct": {
+        "best_period": 4,
+        "period_agree": 0.064,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    },
+    {
+      "score": 38.18181818181818,
+      "words": [
+        "ABRIN",
+        "THERE",
+        "THERE",
+        "ENLIGHTENED",
+        "IN",
+        "THAT",
+        "HE",
+        "ADHERE",
+        "AHINT",
+        "AHINT",
+        "HA",
+        "THE"
+      ],
+      "pt": "ABRINTHERETHEREENLIGHTENEDINTHATHEADHEREAHINTAHINTHATHE",
+      "ks_struct": {
+        "best_period": 4,
+        "period_agree": 0.064,
+        "head": [
+          21,
+          25,
+          3,
+          2,
+          6,
+          5,
+          28,
+          8,
+          13,
+          7,
+          19,
+          2,
+          22,
+          15,
+          18,
+          3
+        ]
+      },
+      "extend_tail": ""
+    }
+  ],
+  "beam_width": 220,
+  "note": "fills are hypothesized plains matching word lengths only; not decrypts unless keystream extends"
+}

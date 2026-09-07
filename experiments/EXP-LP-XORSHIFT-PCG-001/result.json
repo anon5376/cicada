@@ -1,0 +1,69 @@
+{
+  "experiment": "EXP-LP-XORSHIFT-PCG-001",
+  "family": "marked-seed xorshift32 / xoroshiro64** / PCG-XSH-RR / Galois LFSR",
+  "plant": {
+    "xoroshiro64ss_rigid": true,
+    "xoroshiro64ss_beam": {
+      "agree": 0.9259,
+      "ok": true
+    },
+    "pcg32_rigid": true,
+    "pcg32_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "galois32_rigid": true,
+    "galois32_beam": {
+      "agree": 0.9012,
+      "ok": true
+    },
+    "xs32_13_17_5_rigid": true,
+    "xs32_13_17_5_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "xs32_5_14_1_rigid": true,
+    "xs32_5_14_1_beam": {
+      "agree": 0.9136,
+      "ok": true
+    },
+    "xs32_9_7_13_rigid": true,
+    "xs32_9_7_13_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "xs32_7_1_9_rigid": true,
+    "xs32_7_1_9_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ok": true
+  },
+  "n_seeds": 22,
+  "n_gens_primary": [
+    "xoroshiro64ss",
+    "pcg32",
+    "galois32",
+    "xs32_13_17_5"
+  ],
+  "tested_rigid": 1320,
+  "tested_beam": 176,
+  "tested": 1496,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "xoroshiro64ss",
+    "seed": "int:57",
+    "span": "split017",
+    "rel": "beau",
+    "head": "PTHELGIARIASLHOEIMJRBOEAEAJBTXNGEOAFTHVGBTVEOLFOEMDLAECIADTHAETVNGNPNGACWYNIYOET",
+    "trigram_per_100": 3.5573122529644268,
+    "ioc": 0.03522388059701492
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0,
+  "boundary": "not exhaustive over 2^32 seeds; not other output maps (high bits)"
+}

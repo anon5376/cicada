@@ -1,0 +1,17 @@
+[
+  {
+    "onion": 57,
+    "start": 59,
+    "n": 5,
+    "method": "c27",
+    "latin": "IATTHTW",
+    "body_key": true,
+    "ioc": 0.05093632958801498,
+    "doublet_rate": 0.02247191011235955,
+    "length": 121,
+    "common_trigram_hits": 5,
+    "trigram_per_100": 4.132231404958677,
+    "vowelish_ratio": 0.36363636363636365,
+    "body_head": "SHTHHIOETHEDIALSTDTHBFHTHFXTHJTHECNCSTEADGPOEEJNTHBXHEEAGTHTCXTHTFTHWDTHEDNGETEA"
+  }
+]

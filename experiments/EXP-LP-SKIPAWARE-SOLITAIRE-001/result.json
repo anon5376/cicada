@@ -1,0 +1,44 @@
+{
+  "keeps": [],
+  "plant": {
+    "agree": 0.8889,
+    "kslen": 324,
+    "ok": false
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.02506265664160401,
+      "head": "THWVOEEOICOENAEIPOEHCDDAOECTYMLYJCLONEAIANHEOAEBSYOEEAGOEOEEEAOSGCEFPJHIASDBHSLT",
+      "ioc": 0.033847117794486216,
+      "length": 502,
+      "pass": "CICADA3301",
+      "span": "prefix400",
+      "trigram_per_100": 1.1952191235059761,
+      "vowelish_ratio": 0.448207171314741
+    },
+    {
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.02681992337164751,
+      "head": "THWVOEEOICOENAEIPOEHCDDAOECTYMLYJCLONEAIANHEOAEBSYOEEAGOEOEEEAOSGCEFPJHIASDBHSLT",
+      "ioc": 0.03328361264660291,
+      "length": 329,
+      "pass": "CICADA3301",
+      "span": "split015",
+      "trigram_per_100": 1.21580547112462,
+      "vowelish_ratio": 0.45288753799392095
+    },
+    {
+      "common_trigram_hits": 10,
+      "doublet_rate": 0.02756892230576441,
+      "head": "XNGFAEOXWDNGLEACVVWYBDYDJNGEORAVDOEDTTGVFPNMBEAXNMEHDNGMGAENGJNTHIRXMAEOESYJWIAE",
+      "ioc": 0.03380952380952381,
+      "length": 500,
+      "pass": "DIVINITY",
+      "span": "prefix400",
+      "trigram_per_100": 2.0,
+      "vowelish_ratio": 0.442
+    }
+  ],
+  "tested": 18
+}

@@ -1,0 +1,9 @@
+{
+  "transcription": "rtkd master e21743ccd9a07f3845d52a329c61b9fa69e9ca6a44ee3ba0db8f28a0d7065004",
+  "unsolved_splits": "15-70 hypothesized onion 0-55",
+  "adjacent_pairs": 12901,
+  "observed_doublets": 86,
+  "expected_if_iid_uniform": 444.86206896551727,
+  "ratio_obs_over_exp": 0.19331834741492906,
+  "status": "VERIFIED as a measurement on this transcription. Novelty UNKNOWN (community already discusses anti-repeat). Not a decryption."
+}

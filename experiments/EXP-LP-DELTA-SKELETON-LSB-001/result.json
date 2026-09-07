@@ -1,0 +1,87 @@
+{
+  "unsolved_n": 12956,
+  "tested": 24,
+  "delta_hits": [],
+  "skeleton_keeps": [
+    {
+      "split": 63,
+      "hay": "gitenberg_alice",
+      "run": 8,
+      "pos": 6810,
+      "needle_n": 67,
+      "hay_n": 30203
+    }
+  ],
+  "fetch_log": [
+    {
+      "name": "wiki_cicada",
+      "ok": true,
+      "chars": 22226,
+      "words": 3070,
+      "sha": "ade52e6f3e1849089803d46269731b7302f0fe651783c02152aca92c219f371e"
+    },
+    {
+      "name": "wiki_liber_al",
+      "ok": true,
+      "chars": 92,
+      "words": 13,
+      "sha": "b143aaf813feb7575cba720ae4cb64b739bb2dc8c8844782399932c919245277"
+    },
+    {
+      "name": "wiki_emerald",
+      "ok": true,
+      "chars": 116727,
+      "words": 16709,
+      "sha": "46934309fd976512d34d7ce5feb1bd94c0e70a62b7de691f78a0e33fb280231c"
+    },
+    {
+      "name": "wiki_totient",
+      "ok": true,
+      "chars": 44727,
+      "words": 6212,
+      "sha": "f42ef424a2bbfb0ca40a5f200a33d9bab460090bed87ba7e847d8f29bb2ce5b2"
+    },
+    {
+      "name": "gitenberg_alice",
+      "ok": true,
+      "chars": 163810,
+      "words": 30203,
+      "sha": "0f9ea0b148d553177962a25edd2f56d36342c22576a3253a127b4fbeffa5687d"
+    },
+    {
+      "name": "kjv_sample",
+      "ok": false,
+      "status": 404
+    }
+  ],
+  "hay_sizes": {
+    "warning": 45,
+    "wisdom": 18,
+    "parable": 20,
+    "anend": 25,
+    "welcome": 59,
+    "rtkd000": 45,
+    "rtkd001": 62,
+    "rtkd002": 62,
+    "rtkd003": 31,
+    "rtkd004": 61,
+    "rtkd005": 58,
+    "rtkd006": 55,
+    "rtkd007": 36,
+    "rtkd008": 40,
+    "rtkd009": 55,
+    "rtkd010": 49,
+    "rtkd011": 38,
+    "rtkd012": 63,
+    "rtkd013": 25,
+    "rtkd014": 18,
+    "rtkd071": 25,
+    "rtkd072": 20,
+    "wiki_cicada": 3070,
+    "wiki_liber_al": 13,
+    "wiki_emerald": 16709,
+    "wiki_totient": 6212,
+    "gitenberg_alice": 30203
+  },
+  "lsb_hits": []
+}

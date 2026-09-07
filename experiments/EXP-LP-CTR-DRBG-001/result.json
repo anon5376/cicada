@@ -1,0 +1,50 @@
+{
+  "experiment": "EXP-LP-CTR-DRBG-001",
+  "family": "NIST CTR_DRBG AES-128/256 (`%29` + hi5); rigid + skip-aware beam",
+  "plant": {
+    "det": true,
+    "ne_256": true,
+    "ne_hi": true,
+    "ctr_aes128_rigid": true,
+    "ctr_aes128_beam": {
+      "agree": 0.9506,
+      "ok": true
+    },
+    "ctr_aes128_wrong": true,
+    "ctr_aes256_rigid": true,
+    "ctr_aes256_beam": {
+      "agree": 0.9506,
+      "ok": true
+    },
+    "ctr_aes256_wrong": true,
+    "ctr_aes128_hi5_rigid": true,
+    "ctr_aes128_hi5_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ctr_aes128_hi5_wrong": true,
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 7458,
+  "tested_beam": 88,
+  "tested": 7546,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "ctr_aes256",
+    "seed": "sha32:CICADA3301",
+    "span": "split037",
+    "rel": "beau",
+    "head": "WFABOELIEOEYNGVLAHEOALNAEIAWFEAAEVIPTEATHAOAAAEEXTNIVODLCHTHWTHJVITHATJJDEAEFIAJ",
+    "trigram_per_100": 4.2682926829268295,
+    "ioc": 0.03499706400469759
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "boundary": "HMAC-DRBG and Hash_DRBG already closed; AES-CTR password keys already closed; not a 2^128 grind"
+}

@@ -1,0 +1,87 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-NEW-WIKI-001",
+  "family": "skip-aware unused Wikipedia raw pads + file-SHA CTR",
+  "plant": {
+    "pad_beam": {
+      "agree": 0.9753,
+      "ok": true
+    },
+    "sha_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ok": true
+  },
+  "docs": {
+    "Sefer_Yetzirah": {
+      "url": "https://en.wikipedia.org/wiki/Sefer_Yetzirah?action=raw",
+      "sha256": "d5a18b97f3d060dc7d64b63572409ba0c51a76b3004bad9722eb85e2a9f27b59",
+      "runes": 26859,
+      "bytes": 39314
+    },
+    "Gematria": {
+      "url": "https://en.wikipedia.org/wiki/Gematria?action=raw",
+      "sha256": "03a55d6560381a53686f7cb5c62a0b27e10d3c0675534f24d5481687346f4208",
+      "runes": 35193,
+      "bytes": 55444
+    },
+    "Heinrich_Cornelius_Agrippa": {
+      "url": "https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa?action=raw",
+      "sha256": "aae85719c983ce1db3b229947af71b90f59affb9557203e006866dd1808c3901",
+      "runes": 20047,
+      "bytes": 29150
+    },
+    "The_Book_of_the_Law": {
+      "url": "https://en.wikipedia.org/wiki/The_Book_of_the_Law?action=raw",
+      "sha256": "b55da80399add1dc16aae344b37eb9fd7d908b18f722e42be3e4e30f52069943",
+      "runes": 24387,
+      "bytes": 35845
+    },
+    "Book_of_Soyga": {
+      "url": "https://en.wikipedia.org/wiki/Book_of_Soyga?action=raw",
+      "sha256": "1438982419470ee1b1a83160ce4d1f2d1e6b99828a6765e01981b8f6b271d97a",
+      "runes": 5992,
+      "bytes": 8484
+    },
+    "Atbash": {
+      "url": "https://en.wikipedia.org/wiki/Atbash?action=raw",
+      "sha256": "9bdc7d9316388961ec47b87b1a2de93d7dfd70646070593d66fd35c63069604b",
+      "runes": 4115,
+      "bytes": 6806
+    },
+    "John_Dee": {
+      "url": "https://en.wikipedia.org/wiki/John_Dee?action=raw",
+      "sha256": "23e3383c37b4b12924553bce6303f5f75cb746b43e73dc68f7f39b9b4a33b1e9",
+      "runes": 49908,
+      "bytes": 73978
+    },
+    "Magic_square": {
+      "url": "https://en.wikipedia.org/wiki/Magic_square?action=raw",
+      "sha256": "4181786948158d41a9e47ae395859d561c732a9eff4786bb07e0e3a585cd692c",
+      "runes": 84193,
+      "bytes": 135311
+    }
+  },
+  "errors": [
+    {
+      "title": "Liber_Primus",
+      "error": "only 14 runes"
+    }
+  ],
+  "tested": 32,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "family": "pad",
+    "key": "Gematria",
+    "span": "split015",
+    "head": "FFSEAMAENXIOEHHERTHYAIOEEFEEAOHTHOERJIAWDJAEYAETHJHTOETHANDGHIADLYJSTHEARBHEOAET",
+    "trigram_per_100": 2.4691358024691357,
+    "ioc": 0.03492147056242871
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0
+}

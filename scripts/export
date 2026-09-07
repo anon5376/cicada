@@ -1,0 +1,17 @@
+#!/bin/sh
+set -e
+cd "$(dirname "$0")/.."
+export PYTHONPATH=src
+python3 - <<'PY'
+import json, sqlite3
+from pathlib import Path
+from cicada.paths import ROOT
+from cicada.db import connect
+conn = connect()
+for table, name in [("blobs","artifacts"),("retrievals","sources"),("signature_attempts","claims")]:
+    rows = [dict(r) for r in conn.execute(f"select * from {table}")]
+    dest = ROOT/"exports"/f"{name}.jsonl"
+    dest.write_text("".join(json.dumps(r, ensure_ascii=False)+"\n" for r in rows), encoding="utf-8")
+    print(dest, len(rows))
+conn.close()
+PY

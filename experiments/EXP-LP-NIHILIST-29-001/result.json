@@ -1,0 +1,32 @@
+{
+  "experiment": "EXP-LP-NIHILIST-29-001",
+  "family": "Nihilist 5\u00d76 Polybius + repeating numeric key",
+  "plant": {
+    "num_3301": true,
+    "roundtrip_3301": true,
+    "num_primes": true,
+    "roundtrip_primes": true,
+    "num_divinity": true,
+    "roundtrip_divinity": true,
+    "num_totient": true,
+    "roundtrip_totient": true,
+    "num_ones_p": true,
+    "roundtrip_ones_p": true,
+    "ok": true
+  },
+  "tested": 540,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "key": "3301",
+    "span": "split067",
+    "mode": "coord",
+    "head": "FFMLFFNNGFFXAEFFDNGVXIAOMFTFVHEIAFFDWFVTHAEFFEAEOFFAAFXPXFPAERFEWVFAEDTHHFSTHAET",
+    "trigram_per_100": 2.43161094224924,
+    "ioc": 0.12852291527588308
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

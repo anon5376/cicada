@@ -1,0 +1,50 @@
+[
+  {
+    "stage_id": "lp1.warning",
+    "ok": true,
+    "reasons": [],
+    "method": "atbash",
+    "input_rune_count": 184,
+    "got_normalized": "AWARNNGBELIEVENOTHNGFROMTHISBOOCEXCEPTWHATYOVCNOWTOBETRVETESTTHECNOWLEDGEFINDYOVRTRVTHEXPERIENCEYOVRDEATHDONOTEDITORCHANGETHISBOOCORTHEMESSAGECONTAINEDWITHINEITHERTHEWORDSORTHEIRNVMBERSFORALLISSACRED",
+    "expected_normalized": "AWARNNGBELIEVENOTHNGFROMTHISBOOCEXCEPTWHATYOVCNOWTOBETRVETESTTHECNOWLEDGEFINDYOVRTRVTHEXPERIENCEYOVRDEATHDONOTEDITORCHANGETHISBOOCORTHEMESSAGECONTAINEDWITHINEITHERTHEWORDSORTHEIRNVMBERSFORALLISSACRED",
+    "mapping_version": "mapping-v1-wiki-2026-09-07",
+    "reproduction_status": "REPRODUCED_FROM_RECONSTRUCTION",
+    "limitation": "ciphertext is a community transcription, not independently re-derived from page image bytes in this replay"
+  },
+  {
+    "stage_id": "lp1.wisdom",
+    "ok": true,
+    "reasons": [],
+    "method": "direct",
+    "input_rune_count": 157,
+    "got_normalized": "SOMEWISDOMTHEPRIMESARESACREDTHETOTIENTFVNCTIANISSACREDALLTHNGSSHOVLDBEENCRYPTEDCNOWTHISSHADOWSAETHEREALBVFFERSVOIDCARNALOBSCVRAFORMMOBIVSANALOGVOIDMOVRNFVLAETHEREALCABAL",
+    "expected_normalized": null,
+    "mapping_version": "mapping-v1-wiki-2026-09-07",
+    "reproduction_status": "REPRODUCED_FROM_RECONSTRUCTION",
+    "limitation": "ciphertext is a community transcription, not independently re-derived from page image bytes in this replay"
+  },
+  {
+    "stage_id": "lp2.page57_parable",
+    "ok": true,
+    "reasons": [],
+    "method": "direct",
+    "input_rune_count": 95,
+    "got_normalized": "PARABLELICETHEINSTARTVNNELNGTOTHESVRFACEWEMVSTSHEDOVROWNCIRCVMFERENCESFINDTHEDIVINITYWITHINANDEMERGE",
+    "expected_normalized": "PARABLELICETHEINSTARTVNNELNGTOTHESVRFACEWEMVSTSHEDOVROWNCIRCVMFERENCESFINDTHEDIVINITYWITHINANDEMERGE",
+    "mapping_version": "mapping-v1-wiki-2026-09-07",
+    "reproduction_status": "REPRODUCED_FROM_RECONSTRUCTION",
+    "limitation": "ciphertext is a community transcription, not independently re-derived from page image bytes in this replay"
+  },
+  {
+    "stage_id": "lp2.page56_an_end",
+    "ok": true,
+    "reasons": [],
+    "method": "totient_prime_skip_4th_ct_f",
+    "input_rune_count": 85,
+    "got_normalized": "ANENDWITHINTHEDEEPWEBTHEREEXISTSAPAGETHATHASHESTOITISTHEDVTYOFEVERYPILGRIMTOSEECOVTTHISPAGE",
+    "expected_normalized": "ANENDWITHINTHEDEEPWEBTHEREEXISTSAPAGETHATHASHESTOITISTHEDVTYOFEVERYPILGRIMTOSEECOVTTHISPAGE",
+    "mapping_version": "mapping-v1-wiki-2026-09-07",
+    "reproduction_status": "REPRODUCED_FROM_RECONSTRUCTION",
+    "limitation": "ciphertext is a community transcription, not independently re-derived from page image bytes in this replay"
+  }
+]

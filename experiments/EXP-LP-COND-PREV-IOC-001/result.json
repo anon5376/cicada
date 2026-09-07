@@ -1,0 +1,17 @@
+{
+  "n": 12956,
+  "ioc": 0.0345,
+  "delta_ioc": 0.0353,
+  "sum_ioc": 0.0345,
+  "cond_prev_ioc_mean": 0.0354,
+  "cond_prev_ioc_min": 0.0343,
+  "cond_prev_ioc_max": 0.0366,
+  "n_per_prev_class": 444,
+  "cond_next_ioc_mean": 0.0354,
+  "wordpos_ioc": [0.0344, 0.0344, 0.0344, 0.0343, 0.0346, 0.0343, 0.034, 0.0343, 0.0332, 0.0362],
+  "global_period_top": [[0.0349, 60], [0.0348, 56], [0.0348, 52]],
+  "doublets": 86,
+  "doublet_rate": 0.00667,
+  "uniform_rate": 0.03448,
+  "verdict": "Previous-CT-selects-alphabet (any Latin-square CT-autokey) is excluded: per-class IoC stays at chance. Word-position and period columns also chance. English running-key plant on solved plains has doublet rate 0.0426 (above uniform), not the observed 0.00667."
+}

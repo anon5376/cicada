@@ -1,0 +1,114 @@
+{
+  "beam_capped": true,
+  "beam_samples": [
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.02506265664160401,
+      "head": "MJIMAEPWFOIABIAVRNGBEIAGPHDEAOERSGWMAERYJAEAEDJVXPMLJEOFBAEEAHWCOFIATIXMHSFOXSGN",
+      "ioc": 0.03347117794486216,
+      "key": [
+        11,
+        12,
+        25
+      ],
+      "kind": "lcg",
+      "length": 485,
+      "pass": "beam",
+      "span": "prefix400",
+      "trigram_per_100": 1.443298969072165,
+      "vowelish_ratio": 0.38762886597938145
+    },
+    {
+      "common_trigram_hits": 3,
+      "doublet_rate": 0.03065134099616858,
+      "head": "MJIMAEPWFOIABIAVRNGBEIAGPHDEAOERSGWMAERYJAEAEDJVXPMLJEOFBAEEAHWCOFIATIXMHSFOXSGN",
+      "ioc": 0.03269866339095084,
+      "key": [
+        11,
+        12,
+        25
+      ],
+      "kind": "lcg",
+      "length": 319,
+      "pass": "beam",
+      "span": "split015",
+      "trigram_per_100": 0.9404388714733543,
+      "vowelish_ratio": 0.4106583072100313
+    },
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.03508771929824561,
+      "head": "FCYNSNTHEOSSNNEOAAEORGLEOWNGTHIANAABFMLTVLPHGEAOEAEATHEOIAESNGVGWNGSCCVGOAHLSMMA",
+      "ioc": 0.034348370927318295,
+      "key": [
+        13,
+        11,
+        15
+      ],
+      "kind": "lcg",
+      "length": 499,
+      "pass": "beam",
+      "span": "prefix400",
+      "trigram_per_100": 1.8036072144288577,
+      "vowelish_ratio": 0.39478957915831664
+    },
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.05363984674329502,
+      "head": "FCYNSNTHEOSSNNEOAAEORGLEOWNGTHIANAABFMLTVLPHGEAOEAEATHEOIAESNGVGWNGSCCVGOAHLSMMA",
+      "ioc": 0.034628995934602676,
+      "key": [
+        13,
+        11,
+        15
+      ],
+      "kind": "lcg",
+      "length": 328,
+      "pass": "beam",
+      "span": "split015",
+      "trigram_per_100": 2.1341463414634148,
+      "vowelish_ratio": 0.39634146341463417
+    }
+  ],
+  "beam_scope": "skip-aware sub decoder on promoted + named + all a=1 APs + lagfib/multiplicative reps, prefix400+split015",
+  "beam_tested": 520,
+  "best_rigid_sample": {
+    "common_trigram_hits": 13,
+    "doublet_rate": 0.022058823529411766,
+    "head": "AAERVEFAEJBNGCSEABPYJTFEAYIPTHEOBNYFPAEDHTOEGEWGNGYIAEAOEOECJIAC",
+    "ioc": 0.03455613014436544,
+    "key": [
+      17,
+      12,
+      3
+    ],
+    "kind": "lcg",
+    "length": 336,
+    "rel": "beau",
+    "span": "split040",
+    "trigram_per_100": 3.869047619047619,
+    "vowelish_ratio": 0.38392857142857145
+  },
+  "boundary": "Exhaustive skip-aware over all 24k LCG params x 3 rel is the tractability limit; rigid is complete, beam is a prioritised distinct subset. Does not exclude external pads or non-LCG short seeds.",
+  "distinct_lagfib_keystreams": 841,
+  "distinct_lcg_keystreams": 23577,
+  "experiment_id": "EXP-LP-LCG-MOD29-001",
+  "family": "affine LCG (x->a*x+c mod29) and lagged-Fibonacci (x_i=x_{i-1}+x_{i-2} mod29) keystreams",
+  "keeps": [],
+  "plants": {
+    "lagfib_1_1": {
+      "agree": 0.9506,
+      "ok": true,
+      "recovered_head": "THEPRIMESARESACREDTHETOTIENTFVNCTIANISSACREDALLTHNGSSHOFNGDEMENC"
+    },
+    "lcg_a2_c1_x1": {
+      "agree": 0.9877,
+      "ok": true,
+      "recovered_head": "THEPRIMESARESACREDTHETOTIENTFVNCTIANICSACREDALLTHNGSSHOVLDBEENCR"
+    }
+  },
+  "rigid_scope": "EXHAUSTIVE over every distinct keystream x sub/add/beau x 5 targets",
+  "rigid_tested": 366270,
+  "verified_new_unsolved_runes": 0,
+  "why": "ledger open gap: short-seed generator not in tested lists; number-theoretic; flat-IoC keystream"
+}

@@ -1,0 +1,118 @@
+{
+  "streams": {
+    "first_page_latin_direct": "SAOELLRXHXYCIACGTFELEANPCNGVDHIAMPTHDTHLDMNGYNVSFEADHEACHEAHIAWPEOANG",
+    "first_word_latin_direct": "SHEOGMIAFAIMSNOEMLJLIARAEXCTHDEOHNGXIXMYWAEGJCIASCECIGTHFJGCTJFVLMEDAAETOEAEEAXCEATLTHEAAJEOEALNOOENFPCAEEANGMVADRFHNIAMPYPCTHDGDAPETHCBNGTXIADLDEOMBNGTCAYNNYEXVAECEOCYSWFNMEAIADHJEAVCHTXAEIJVEAITHHCI",
+    "n_pages_with_runes": 55
+  },
+  "rows": [
+    {
+      "stream": "first_rune_page",
+      "method": "atb_c_11",
+      "latin": "ASBMMGAETHAEPCEOCRDINGMJVYCENTTHEOLYHTHMTLEPVNAIJTTHJCTHJTHEOOYIASE",
+      "ioc": 0.035016835016835016,
+      "doublet_rate": 0.018518518518518517,
+      "length": 67,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 7.462686567164179,
+      "vowelish_ratio": 0.34328358208955223,
+      "keep": true
+    },
+    {
+      "stream": "first_rune_page",
+      "method": "atb_c_11",
+      "latin": "ASBMMGAETHAEPCEOCRDINGMJVYCENTTHEOLYHTHMTLEPVNAIJTTHJCTHJTHEOOYIASE",
+      "ioc": 0.035016835016835016,
+      "doublet_rate": 0.018518518518518517,
+      "length": 67,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 7.462686567164179,
+      "vowelish_ratio": 0.34328358208955223,
+      "keep": false,
+      "note": "best-of-stream"
+    },
+    {
+      "stream": "last_rune_page",
+      "method": "caesar_7",
+      "latin": "XBXSHDOEYMNBHFFSLPWPMAEINGNBHEAWDYMIMALMTHEOVECEODOEEAOOWVWSTRB",
+      "ioc": 0.030303030303030304,
+      "doublet_rate": 0.037037037037037035,
+      "length": 63,
+      "common_trigram_hits": 2,
+      "trigram_per_100": 3.1746031746031744,
+      "vowelish_ratio": 0.3492063492063492,
+      "keep": false,
+      "note": "best-of-stream"
+    },
+    {
+      "stream": "first_word_concat",
+      "method": "atb_c_8",
+      "latin": "NGEAERVBNWEOYBNGIAXBTAETNOJOETHLEAPAEASOEYOEBIFJVAETHNNGTHETHYVCWAEVTHLAEWGTBEPEOJLRHEHOETHHLTCHEOAEAHTIARXIAWDTHJHSBGEOPOWEAIANBDIDTHCPVPEODECTHMSLOENPTPABMSLTHEOIIAIAIEOEGJTHATHINGFWIABHYEOPEAAEHGTHEALOEJYAEGHYCEATHYCNFFDDAJHJIEOS",
+      "ioc": 0.0345965847775027,
+      "doublet_rate": 0.01694915254237288,
+      "length": 232,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 2.1551724137931036,
+      "vowelish_ratio": 0.4224137931034483,
+      "keep": false,
+      "note": "best-of-stream"
+    },
+    {
+      "stream": "last_word_concat",
+      "method": "atb_c_25",
+      "latin": "BRIXTVSYDJNDBTAETDHNEAECEOBYAELEABYVFOEXIFDJEOTHFGXEOWTHNFDFJTICWNGAEJTHEAERWAECEOICEANMGXJFONVTHNGASIFTAEOEFIEOONGEOXYGHAEDPEHOPOSJANCFYAEEOOHETCDOETHEGFTHEOEOAECNGFEWEOWAOEJEAAEEOVIAWSFBEAFMTHAEFVWNPJYTHTHMHPVAEDSOASGEAPHLCVNBOORCMYEOAEAFNGFEAEOADVIAFRATHEOBPJVJRATHETIATJSENGHOEIGAELEIAWGX",
+      "ioc": 0.03502454991816694,
+      "doublet_rate": 0.01282051282051282,
+      "length": 292,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 2.0547945205479454,
+      "vowelish_ratio": 0.4349315068493151,
+      "keep": false,
+      "note": "best-of-stream"
+    },
+    {
+      "stream": "first_of_line",
+      "method": "atb_c_11",
+      "latin": "ASBMMGAETHAEPCEOCRDINGMJVYCENTTHEOLYHTHMTLEPVNAIJTTHJCTHJTHEOOYIASE",
+      "ioc": 0.035016835016835016,
+      "doublet_rate": 0.018518518518518517,
+      "length": 67,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 7.462686567164179,
+      "vowelish_ratio": 0.34328358208955223,
+      "keep": true
+    },
+    {
+      "stream": "first_of_line",
+      "method": "atb_c_11",
+      "latin": "ASBMMGAETHAEPCEOCRDINGMJVYCENTTHEOLYHTHMTLEPVNAIJTTHJCTHJTHEOOYIASE",
+      "ioc": 0.035016835016835016,
+      "doublet_rate": 0.018518518518518517,
+      "length": 67,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 7.462686567164179,
+      "vowelish_ratio": 0.34328358208955223,
+      "keep": false,
+      "note": "best-of-stream"
+    },
+    {
+      "stream": "last_of_line",
+      "method": "atb_c_2",
+      "latin": "XSAETBNFWHATBMFHORRYGEORDFSYSBTBPOVMTHJNGTHTHJVTSNTHWJACEAPTHFTHAE",
+      "ioc": 0.037037037037037035,
+      "doublet_rate": 0.037037037037037035,
+      "length": 66,
+      "common_trigram_hits": 2,
+      "trigram_per_100": 3.0303030303030303,
+      "vowelish_ratio": 0.21212121212121213,
+      "keep": false,
+      "note": "best-of-stream"
+    }
+  ],
+  "djubei": {
+    "locs": [
+      6555,
+      12950
+    ],
+    "note": "identical-ct-slices-imply-identical-key-slices-if-same-function"
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "controls": {
+    "p57_n": 75,
+    "p57_first_red": 6,
+    "p56_n": 73,
+    "p56_first_red": 4,
+    "p57_ok": false,
+    "p56_ok": false
+  },
+  "overlays": [
+    {
+      "onion": 0,
+      "trans": 262,
+      "n": 222,
+      "n_red": 11,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 10
+        },
+        {
+          "start": 11,
+          "len": 1
+        }
+      ],
+      "line_counts": [
+        19,
+        22,
+        24,
+        21,
+        21,
+        23,
+        24,
+        20,
+        24,
+        23
+      ]
+    },
+    {
+      "onion": 3,
+      "trans": 217,
+      "n": 145,
+      "n_red": 18,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 3
+        },
+        {
+          "start": 5,
+          "len": 5
+        },
+        {
+          "start": 11,
+          "len": 2
+        },
+        {
+          "start": 14,
+          "len": 4
+        },
+        {
+          "start": 81,
+          "len": 4
+        }
+      ],
+      "line_counts": [
+        20,
+        22,
+        23,
+        15,
+        19,
+        21,
+        23
+      ]
+    },
+    {
+      "onion": 6,
+      "trans": 196,
+      "n": 169,
+      "n_red": 10,
+      "red_runs": [
+        {
+          "start": 76,
+          "len": 3
+        },
+        {
+          "start": 80,
+          "len": 6
+        },
+        {
+          "start": 88,
+          "len": 1
+        }
+      ],
+      "line_counts": [
+        21,
+        25,
+        27,
+        3,
+        22,
+        25,
+        22,
+        23
+      ]
+    },
+    {
+      "onion": 7,
+      "trans": 208,
+      "n": 219,
+      "n_red": 14,
+      "red_runs": [
+        {
+          "start": 202,
+          "len": 14
+        }
+      ],
+      "line_counts": [
+        21,
+        22,
+        24,
+        22,
+        23,
+        24,
+        22,
+        23,
+        21,
+        14,
+        3
+      ]
+    },
+    {
+      "onion": 8,
+      "trans": 255,
+      "n": 228,
+      "n_red": 11,
+      "red_runs": [
+        {
+          "start": 1,
+          "len": 2
+        },
+        {
+          "start": 4,
+          "len": 2
+        },
+        {
+          "start": 8,
+          "len": 7
+        }
+      ],
+      "line_counts": [
+        21,
+        22,
+        22,
+        23,
+        21,
+        23,
+        22,
+        24,
+        24,
+        25
+      ]
+    },
+    {
+      "onion": 15,
+      "trans": 159,
+      "n": 125,
+      "n_red": 23,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 9
+        },
+        {
+          "start": 10,
+          "len": 4
+        },
+        {
+          "start": 15,
+          "len": 1
+        },
+        {
+          "start": 17,
+          "len": 5
+        },
+        {
+          "start": 23,
+          "len": 4
+        }
+      ],
+      "line_counts": [
+        9,
+        1,
+        24,
+        23,
+        23,
+        22,
+        22
+      ]
+    },
+    {
+      "onion": 23,
+      "trans": 213,
+      "n": 178,
+      "n_red": 11,
+      "red_runs": [
+        {
+          "start": 3,
+          "len": 10
+        },
+        {
+          "start": 14,
+          "len": 1
+        }
+      ],
+      "line_counts": [
+        3,
+        15,
+        23,
+        23,
+        23,
+        22,
+        22,
+        25,
+        21
+      ]
+    },
+    {
+      "onion": 27,
+      "trans": 234,
+      "n": 198,
+      "n_red": 14,
+      "red_runs": [
+        {
+          "start": 1,
+          "len": 3
+        },
+        {
+          "start": 5,
+          "len": 1
+        },
+        {
+          "start": 7,
+          "len": 8
+        },
+        {
+          "start": 16,
+          "len": 2
+        }
+      ],
+      "line_counts": [
+        1,
+        17,
+        22,
+        21,
+        22,
+        25,
+        21,
+        24,
+        22,
+        22
+      ]
+    },
+    {
+      "onion": 33,
+      "trans": 214,
+      "n": 150,
+      "n_red": 14,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 2
+        },
+        {
+          "start": 3,
+          "len": 2
+        },
+        {
+          "start": 6,
+          "len": 6
+        },
+        {
+          "start": 60,
+          "len": 4
+        }
+      ],
+      "line_counts": [
+        20,
+        23,
+        16,
+        16,
+        22,
+        22,
+        24,
+        3,
+        3
+      ]
+    },
+    {
+      "onion": 39,
+      "trans": 240,
+      "n": 210,
+      "n_red": 2,
+      "red_runs": [
+        {
+          "start": 125,
+          "len": 2
+        }
+      ],
+      "line_counts": [
+        3,
+        3,
+        23,
+        22,
+        24,
+        22,
+        23,
+        5,
+        19,
+        26,
+        23,
+        17
+      ]
+    },
+    {
+      "onion": 40,
+      "trans": 231,
+      "n": 199,
+      "n_red": 9,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 9
+        }
+      ],
+      "line_counts": [
+        24,
+        20,
+        21,
+        23,
+        24,
+        24,
+        20,
+        23,
+        19
+      ]
+    },
+    {
+      "onion": 53,
+      "trans": 179,
+      "n": 185,
+      "n_red": 51,
+      "red_runs": [
+        {
+          "start": 130,
+          "len": 1
+        },
+        {
+          "start": 132,
+          "len": 50
+        }
+      ],
+      "line_counts": [
+        22,
+        23,
+        20,
+        23,
+        23,
+        19,
+        25,
+        22,
+        4,
+        2
+      ]
+    },
+    {
+      "onion": 54,
+      "trans": 232,
+      "n": 198,
+      "n_red": 11,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 7
+        },
+        {
+          "start": 8,
+          "len": 4
+        }
+      ],
+      "line_counts": [
+        21,
+        23,
+        22,
+        23,
+        21,
+        23,
+        21,
+        22,
+        21
+      ]
+    },
+    {
+      "onion": 56,
+      "trans": 85,
+      "n": 73,
+      "n_red": 5,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 4
+        },
+        {
+          "start": 5,
+          "len": 1
+        }
+      ],
+      "line_counts": [
+        29,
+        22,
+        18,
+        3
+      ]
+    },
+    {
+      "onion": 57,
+      "trans": 95,
+      "n": 75,
+      "n_red": 9,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 6
+        },
+        {
+          "start": 7,
+          "len": 3
+        }
+      ],
+      "line_counts": [
+        25,
+        18,
+        23,
+        7,
+        1
+      ]
+    }
+  ],
+  "heading_hits": [],
+  "tested": 269,
+  "hits": []
+}

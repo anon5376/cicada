@@ -1,0 +1,83 @@
+{
+  "fetch_errors": [
+    {
+      "error": "https://web.archive.org/web/20230101000000id_/https://uncovering-cicada.fandom.com/wiki/How_the_solved_pages_of_the_Liber_Primus_were_solved status 503",
+      "name": "how_solved"
+    },
+    {
+      "error": "https://web.archive.org/web/20230101000000id_/https://uncovering-cicada.fandom.com/wiki/Liber_Primus status 503",
+      "name": "liber_primus"
+    },
+    {
+      "error": "https://web.archive.org/web/20230101000000id_/https://uncovering-cicada.fandom.com/wiki/PGP_Signed_Message_April_2017 status 503",
+      "name": "pgp_2017"
+    }
+  ],
+  "fetched": [],
+  "flat_n": 12956,
+  "keeps": [],
+  "lags": [
+    6395,
+    1279,
+    15,
+    29,
+    56,
+    3301,
+    1033
+  ],
+  "plant": {
+    "agree": 0.9136,
+    "ok": false
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 3,
+      "doublet_rate": 0.042606516290726815,
+      "head": "BXTEAXHILEAFTHGBOESCWMHANGYVWIATHEARCCJIYYIGETBETIJTOEIAEAIEAEALAMREODHHBHJEAAVC",
+      "ioc": 0.035701754385964915,
+      "length": 495,
+      "mode": "self_ct",
+      "span": "prefix400",
+      "src": "lag6395",
+      "trigram_per_100": 0.6060606060606061,
+      "vowelish_ratio": 0.3878787878787879
+    },
+    {
+      "common_trigram_hits": 2,
+      "doublet_rate": 0.04980842911877394,
+      "head": "BXTEAXHILEAFTHGBOESCWMHANGYVWIATHEARCCJIYYIGETBETIJTOEIAEAIEAEALAMREODHHBHJEAAVC",
+      "ioc": 0.034628995934602676,
+      "length": 322,
+      "mode": "self_ct",
+      "span": "split015",
+      "src": "lag6395",
+      "trigram_per_100": 0.6211180124223602,
+      "vowelish_ratio": 0.36024844720496896
+    },
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.03759398496240601,
+      "head": "MPNGJGOEIAGGGRCAEGAEAEOEAIAEDOEAERDOEMEOPJSEAVHLCNYRMITSROEVEEATOEAXEOGNGNBOEVMC",
+      "ioc": 0.03412280701754386,
+      "length": 496,
+      "mode": "self_ct",
+      "span": "prefix400",
+      "src": "lag1279",
+      "trigram_per_100": 1.2096774193548387,
+      "vowelish_ratio": 0.4375
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.0421455938697318,
+      "head": "MPNGJGOEIAGGGRCAEGAEAEOEAIAEDOEAERDOEMEOPJSEAVHLCNYRMITSROEVEEATOEAXEOGNGNBOEVMC",
+      "ioc": 0.034073294141733206,
+      "length": 330,
+      "mode": "self_ct",
+      "span": "split015",
+      "src": "lag1279",
+      "trigram_per_100": 1.5151515151515151,
+      "vowelish_ratio": 0.47878787878787876
+    }
+  ],
+  "tested": 14
+}

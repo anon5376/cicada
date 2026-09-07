@@ -1,0 +1,85 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-OFFSET-001",
+  "family": "prefix-crop then same-start match/gap forward",
+  "plant": {
+    "ok": false,
+    "rows": [
+      {
+        "n": 400,
+        "shift": 0,
+        "lens": [
+          400,
+          400
+        ],
+        "true": -0.59,
+        "where": "B+0",
+        "shuffle_max": 2.337,
+        "sep": 0.07,
+        "beats": false
+      },
+      {
+        "n": 400,
+        "shift": 15,
+        "lens": [
+          400,
+          400
+        ],
+        "true": -1.154,
+        "where": "B+15",
+        "shuffle_max": 0.947,
+        "sep": 0.18,
+        "beats": false
+      },
+      {
+        "n": 400,
+        "shift": 37,
+        "lens": [
+          400,
+          400
+        ],
+        "true": -0.589,
+        "where": "B+37",
+        "shuffle_max": -0.049,
+        "sep": 0.96,
+        "beats": false
+      },
+      {
+        "n": 800,
+        "shift": 37,
+        "lens": [
+          800,
+          800
+        ],
+        "true": 1.303,
+        "where": "B+29",
+        "shuffle_max": -0.122,
+        "sep": 2.67,
+        "beats": true
+      },
+      {
+        "n": 400,
+        "shift": 56,
+        "lens": [
+          400,
+          400
+        ],
+        "true": -1.5,
+        "where": "B+42",
+        "shuffle_max": 0.047,
+        "sep": 0.01,
+        "beats": false
+      }
+    ],
+    "offsets": [
+      0,
+      8,
+      15,
+      29,
+      37,
+      42,
+      56
+    ]
+  },
+  "verified_new_unsolved_runes": 0,
+  "aborted": "offset plant failed"
+}

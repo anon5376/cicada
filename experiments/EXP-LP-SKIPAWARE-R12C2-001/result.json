@@ -1,0 +1,129 @@
+{
+  "fetch_errors": [
+    {
+      "error": "https://web.archive.org/web/2024id_/https://www.gutenberg.org/cache/epub/71455/pg71455.txt status 503",
+      "name": "plotinus_enneads"
+    },
+    {
+      "error": "https://web.archive.org/web/2024id_/https://www.gutenberg.org/cache/epub/56075/pg56075.txt status 503",
+      "name": "seneca_letters"
+    },
+    {
+      "error": "https://web.archive.org/web/2024id_/https://www.gutenberg.org/cache/epub/1658/pg1658.txt status 503",
+      "name": "plato_phaedo"
+    },
+    {
+      "error": "https://archive.org/stream/iamblichusonmyst00iamb/iamblichusonmyst00iamb_djvu.txt status 404",
+      "name": "iamblichus_mysteries"
+    },
+    {
+      "error": "https://archive.org/stream/johndeeshierogly00deejuoft/johndeeshierogly00deejuoft_djvu.txt status 404",
+      "name": "dee_hieroglyphic_monad"
+    },
+    {
+      "error": "https://archive.org/stream/meistereckhartfr00eckh/meistereckhartfr00eckh_djvu.txt status 404",
+      "name": "meister_eckhart"
+    }
+  ],
+  "fetched": [
+    {
+      "byte_length": 467374,
+      "name": "apuleius_golden_ass",
+      "sha256": "022ce235dc9e43263994d088ea3dd0eb9144a1e57cbec8db5939f42bb0b6b9b4"
+    },
+    {
+      "byte_length": 351932,
+      "name": "epictetus_discourses",
+      "sha256": "282a62036b0b6c9d2d73de505844396d703e53d5f0287fd42b97a63e9d93861b"
+    },
+    {
+      "byte_length": 235404,
+      "name": "plato_phaedrus",
+      "sha256": "117f19bef9841bc4b1e4fa7e41d6767a77fe8336e67565b46a3efe8e7d3de481"
+    },
+    {
+      "byte_length": 48781,
+      "name": "swedenborg_heaven_hell",
+      "sha256": "008a63c590350448a7cdde86c27774d32e150d81cd46ae56c32df126fdce78b6"
+    },
+    {
+      "byte_length": 222362,
+      "name": "boehme_aurora",
+      "sha256": "f4ea54fd362cf17a92fca5cf4970b68ae327e4d5663361e4405dbafe6eab0599"
+    },
+    {
+      "byte_length": 374998,
+      "name": "kempis_imitation",
+      "sha256": "f917173ab2b68c360f6d2d452595f8fd08a9b8e0a4453cfe9f4186526c4b0d14"
+    },
+    {
+      "byte_length": 1048576,
+      "name": "james_varieties",
+      "sha256": "b13bd622a806de4675e63cd8fb73c2e9bda1162d84f79beb665fef64a626a9fc"
+    },
+    {
+      "byte_length": 1048576,
+      "name": "augustine_city_of_god",
+      "sha256": "16fa56dfaf8bce72aaaf4880cc1a0a307e78a2f8aafff130c105095230f5288a"
+    },
+    {
+      "byte_length": 2331510,
+      "name": "frazer_golden_bough",
+      "sha256": "a89bd170e9004cc3c381adc84fc44c380804e21435adabb212850ef3f56569aa"
+    },
+    {
+      "byte_length": 181677,
+      "name": "bruno_heroic",
+      "sha256": "f3d32202bf7a9ac9b37750343f7e2e1d6ed8738570deed7536a75b512487a24d"
+    },
+    {
+      "byte_length": 437403,
+      "name": "theologia_germanica",
+      "sha256": "f4da67057f663e69783b05d17c8de8880121f81c37b7c220e269e4db0b0d6f42"
+    }
+  ],
+  "keeps": [],
+  "plant": {
+    "agree": 0.9012,
+    "ok": false
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 8,
+      "doublet_rate": 0.040100250626566414,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGECEAEEOTHENGEOGDIBHNGOEEANGAIEOEAYJEALMHPTHJPDEOJYV",
+      "ioc": 0.03399749373433584,
+      "length": 507,
+      "runes": 4000,
+      "span": "prefix400",
+      "text": "apuleius_golden_ass",
+      "trigram_per_100": 1.5779092702169626,
+      "vowelish_ratio": 0.4161735700197239
+    },
+    {
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.038314176245210725,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGECEAEEOTHENGEOGDIBHNGOEEANGAIEOEAYJEALMHPTHJPDEOJYV",
+      "ioc": 0.03495071802521131,
+      "length": 330,
+      "runes": 4000,
+      "span": "split015",
+      "text": "apuleius_golden_ass",
+      "trigram_per_100": 1.2121212121212122,
+      "vowelish_ratio": 0.4090909090909091
+    },
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.040100250626566414,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGEEOTHGARWDDNGNNGOLFMDEAEOHXHHAEPNEYAERPHTHNPPLOECJX",
+      "ioc": 0.03481203007518797,
+      "length": 516,
+      "runes": 4000,
+      "span": "prefix400",
+      "text": "epictetus_discourses",
+      "trigram_per_100": 1.744186046511628,
+      "vowelish_ratio": 0.46124031007751937
+    }
+  ],
+  "tested": 22
+}

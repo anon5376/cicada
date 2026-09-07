@@ -1,0 +1,66 @@
+[
+  {
+    "stage_id": "lp1.warning",
+    "aliases": [
+      "LP1 01.jpg",
+      "A warning"
+    ],
+    "collection": "LP1_early_2014",
+    "ciphertext": "ᚱ-ᛝᚱᚪᛗᚹ.ᛄᛁᚻᛖᛁᛡᛁ-ᛗᚫᚣᚹ-ᛠᚪᚫᚾ-/\nᚣᛖᛈ-ᛄᚫᚫᛞ.ᛁᛉᛞᛁᛋᛇ-ᛝᛚᚱᛇ-ᚦᚫᛡ/\n-ᛞᛗᚫᛝ-ᛇᚫ-ᛄᛁ-ᛇᚪᛡᛁ.ᛇᛁᛈᛇ-ᚣᛁ-ᛞ/\nᛗᚫᛝᚻᛁᚳᛟᛁ.ᛠᛖᛗᚳ-ᚦᚫᛡᚪ-ᛇᚪᛡᚣ.ᛁᛉ/\nᛋᛁᚪᛖᛁᛗᛞᛁ-ᚦᚫᛡᚪ-ᚳᚠᚣ.ᚳᚫ-ᛗᚫᛇ-ᛁᚳᛖᛇ-ᚫ/\nᚪ-ᛞᛚᚱᚹᛁ-ᚣᛖᛈ-ᛄᚫᚫᛞ.ᚫᚪ-ᚣᛁ-ᚾᛁᛈᛈᚱᛟᛁ-/\nᛞᚫᛗᛇᚱᛖᛗᛁᚳ-ᛝᛖᚣᛖᛗ.ᛁᛖᚣᛁᚪ-ᚣᛁ-ᛝᚫ/\nᚪᚳᛈ-ᚫᚪ-ᚣᛁᛖᚪ-ᛗᛡᚾᛄᛁᚪᛈ.ᛠᚫᚪ-ᚱᚻᚻ-ᛖ/\nᛈ-ᛈᚱᛞᚪᛁᚳ./",
+    "method": "atbash",
+    "key": null,
+    "expected_latin_normalized": "AWARNNGBELIEVENOTHNGFROMTHISBOOCEXCEPTWHATYOVCNOWTOBETRVETESTTHECNOWLEDGEFINDYOVRTRVTHEXPERIENCEYOVRDEATHDONOTEDITORCHANGETHISBOOCORTHEMESSAGECONTAINEDWITHINEITHERTHEWORDSORTHEIRNVMBERSFORALLISSACRED",
+    "claim_source": "uncovering-cicada-wiki-how-solved-2026-09-07"
+  },
+  {
+    "stage_id": "lp1.wisdom",
+    "aliases": [
+      "LP1 05.jpg",
+      "Some wisdom"
+    ],
+    "collection": "LP1_early_2014",
+    "ciphertext": "ᛋᚩᛗᛖ-ᚹᛁᛋᛞᚩᛗ.ᚦᛖ-ᛈᚱᛁᛗᛖᛋ-ᚪᚱᛖ-ᛋᚪᚳ/\nᚱᛖᛞ.ᚦᛖ-ᛏᚩᛏᛁᛖᚾᛏ-ᚠᚢᚾᚳᛏᛡᚾ-ᛁᛋ-ᛋᚪ/\nᚳᚱᛖᛞ.ᚪᛚᛚ-ᚦᛝᛋ-ᛋᚻᚩᚢᛚᛞ-ᛒᛖ-ᛖᚾᚳᚱᚣ/\nᛈᛏᛖᛞ./\n&\nᚳᚾᚩᚹ-ᚦᛁᛋ./\n272\t\t138\t\tᛋᚻᚪᛞᚩᚹᛋ\t\t131\t\t151./\nᚫᚦᛖᚱᛠᛚ\t\tᛒᚢᚠᚠᛖᚱᛋ\t\tᚢᚩᛁᛞ\t\tᚳᚪᚱᚾᚪᛚ\t\t18./\n226\t\tᚩᛒᛋᚳᚢᚱᚪ\t\tᚠᚩᚱᛗ\t\t245\t\tᛗᚩᛒᛁᚢᛋ./\n18\t\tᚪᚾᚪᛚᚩᚷ\t\tᚢᚩᛁᛞ\t\tᛗᚩᚢᚱᚾᚠᚢᛚ\t\tᚫᚦᛖᚱᛠᛚ./\n151\t\t131\t\tᚳᚪᛒᚪᛚ\t\t138\t\t272./",
+    "method": "direct",
+    "key": null,
+    "expected_contains": [
+      "SOMEWISDOM",
+      "THEPRIMESARESACRED",
+      "THETOTIENTFVNCTIANISSACRED",
+      "ALLTHNGSSHOVLDBEENCRYPTED"
+    ],
+    "claim_source": "uncovering-cicada-wiki-how-solved-2026-09-07"
+  },
+  {
+    "stage_id": "lp2.page57_parable",
+    "aliases": [
+      "LP2 57.jpg",
+      "PAGE 57"
+    ],
+    "collection": "LP2_onion_0_57",
+    "ciphertext": "ᛈᚪᚱᚪᛒᛚᛖ.ᛚᛁᚳᛖ-ᚦᛖ-ᛁᚾᛋᛏᚪᚱ-ᛏ/\nᚢᚾᚾᛖᛚᛝ-ᛏᚩ-ᚦᛖ-ᛋᚢᚱᚠᚪᚳᛖ./\nᚹᛖ-ᛗᚢᛋᛏ-ᛋᚻᛖᛞ-ᚩᚢᚱ-ᚩᚹᚾ-ᚳ/\nᛁᚱᚳᚢᛗᚠᛖᚱᛖᚾᚳᛖᛋ.ᚠᛁᚾᛞ-ᚦ/\nᛖ-ᛞᛁᚢᛁᚾᛁᛏᚣ-ᚹᛁᚦᛁᚾ-ᚪᚾᛞ-ᛖᛗᛖᚱᚷᛖ./",
+    "method": "direct",
+    "key": null,
+    "expected_latin_normalized": "PARABLELICETHEINSTARTVNNELNGTOTHESVRFACEWEMVSTSHEDOVROWNCIRCVMFERENCESFINDTHEDIVINITYWITHINANDEMERGE",
+    "claim_source": "uncovering-cicada-wiki-how-solved-2026-09-07"
+  },
+  {
+    "stage_id": "lp2.page56_an_end",
+    "aliases": [
+      "LP2 56.jpg",
+      "An end"
+    ],
+    "collection": "LP2_onion_0_57",
+    "ciphertext": "ᚫᛄ-ᛟᛋᚱ.ᛗᚣᛚᚩᚻ-ᚩᚫ-ᚳᚦᚷᚹ-ᚹᛚᚫ.ᛉ/\nᚩᚪᛈ-ᛗᛞᛞᚢᚷᚹ-ᛚ-ᛞᚾᚣᛄ-ᚳᚠᛡ-ᚫᛏ/\nᛈᛇᚪᚦ-ᚳᚫ./\n&\n36367763ab73783c7af284446c/\n59466b4cd653239a311cb7116/\nd4618dee09a8425893dc7500b/\n464fdaf1672d7bef5e891c6e227/\n4568926a49fb4f45132c2a8b4/\n&\nᚳᛞ-ᚠᚾ-ᛡᛖ-ᚠᚾᚳᛝ-ᚱᚠ-ᚫᛁᚱᛞᛖ-ᛋᚣᛄᛠᚢ/\nᛝᚹ-ᛉᚩ-ᛗᛠᚹᚠ-ᚱᚷᛡ-ᛝᚱᛒ-ᚫᚾᚢᛋ./",
+    "method": "totient_prime_skip_4th_ct_f",
+    "key": null,
+    "expected_latin_normalized": "ANENDWITHINTHEDEEPWEBTHEREEXISTSAPAGETHATHASHESTOITISTHEDVTYOFEVERYPILGRIMTOSEECOVTTHISPAGE",
+    "expected_contains": [
+      "ANEND",
+      "WITHINTHEDEEPWEB",
+      "THEREEXISTSAPAGETHATHASHESTO",
+      "ITISTHEDVTYOFEVERYPILGRIMTOSEECOVTTHISPAGE"
+    ],
+    "notes": "85/85 under totient p-1 with the fourth ciphertext F (0-based index 56) left unshifted and not consuming a prime. Wiki / boards.net; replayed in this lab 2026-09-07.",
+    "claim_source": "uncovering-cicada-wiki-how-solved-2026-09-07"
+  }
+]

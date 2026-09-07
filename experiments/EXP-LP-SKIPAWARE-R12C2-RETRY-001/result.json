@@ -1,0 +1,82 @@
+{
+  "fetch_errors": [],
+  "fetched": [
+    {
+      "byte_length": 257019,
+      "name": "phaedo",
+      "sha256": "255b4eb8564d0d44fb62db73d75522520969872d6d7083217dd9287af7019b51"
+    },
+    {
+      "byte_length": 543248,
+      "name": "iamblichus",
+      "sha256": "b510cf7c8a1e7b1e254c2d8a1501def64dd0bc5aa58cf0aadd757d44645931f8"
+    },
+    {
+      "byte_length": 1001822,
+      "name": "plotinus_ethical",
+      "sha256": "8a2c06a7528f6515ec1872e547aec52954bb2f8df79ef117434791eee64e24a1"
+    },
+    {
+      "byte_length": 2119157,
+      "name": "eckhart_deutsche",
+      "sha256": "2309945c168c6db7f898faaa354e08c69063a4bddf34048f09be9ab957ec13b0"
+    },
+    {
+      "byte_length": 638324,
+      "name": "seneca_56075",
+      "sha256": "a7bda32fa4d563fa64aef41726a04b2c4aed5bdfd02d86e09680c9f25a078c2d"
+    }
+  ],
+  "keeps": [],
+  "samples": [
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.03258145363408521,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGEDNEANGMAPHIXOERFTMFGAHWDEOHIAOEOAEEACDENVYCWLEGHJN",
+      "ioc": 0.03392230576441103,
+      "length": 506,
+      "runes": 182595,
+      "span": "prefix400",
+      "text": "phaedo",
+      "trigram_per_100": 0.9881422924901185,
+      "vowelish_ratio": 0.43280632411067194
+    },
+    {
+      "common_trigram_hits": 2,
+      "doublet_rate": 0.034482758620689655,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGEDNEANGMAPHIXOERFTMFGAHWDEOHIAOEOAEEACDENVYCWLEGHJN",
+      "ioc": 0.03316662279547249,
+      "length": 327,
+      "runes": 182595,
+      "span": "split015",
+      "text": "phaedo",
+      "trigram_per_100": 0.6116207951070336,
+      "vowelish_ratio": 0.42813455657492355
+    },
+    {
+      "common_trigram_hits": 10,
+      "doublet_rate": 0.015037593984962405,
+      "head": "NCSYSVAEMFTOYJNGCAENCLBMEOEANDMXNGILBDXGDEOTHNGTMPHNMBGHCPSOOEMVAEROALDAEEOJEEOO",
+      "ioc": 0.03531328320802005,
+      "length": 499,
+      "runes": 385291,
+      "span": "prefix400",
+      "text": "iamblichus",
+      "trigram_per_100": 2.004008016032064,
+      "vowelish_ratio": 0.4148296593186373
+    },
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.007662835249042145,
+      "head": "NCSYSVAEMFTOYJNGCAENCLBMEOEANDMXNGILBDXGDEOTHNGTMPHNMBGHCPSOOEMVAEROALDAEEOJEEOO",
+      "ioc": 0.03477523324851569,
+      "length": 325,
+      "runes": 385291,
+      "span": "split015",
+      "text": "iamblichus",
+      "trigram_per_100": 1.8461538461538463,
+      "vowelish_ratio": 0.39384615384615385
+    }
+  ],
+  "tested": 10
+}

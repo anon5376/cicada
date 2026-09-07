@@ -1,0 +1,69 @@
+{
+  "keeps": [],
+  "missing": [],
+  "n_books": 11,
+  "offsets": [
+    0,
+    15,
+    56,
+    3301,
+    2012,
+    2014
+  ],
+  "plant": {
+    "agree": 0.8765,
+    "books": [
+      "alice",
+      "canterbury",
+      "faust",
+      "inferno",
+      "kafka",
+      "kjv",
+      "moby",
+      "plost",
+      "quixote",
+      "shakespeare",
+      "ulysses"
+    ],
+    "ok": false
+  },
+  "samples": [
+    {
+      "book": "kjv",
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.02506265664160401,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGECEAMDJBLOSNGSEMPGWDNIXRTHAETHNGBAAETHVEOLBOLTRMOEC",
+      "ioc": 0.03503759398496241,
+      "length": 491,
+      "offset": 0,
+      "span": "prefix400",
+      "trigram_per_100": 1.2219959266802445,
+      "vowelish_ratio": 0.42362525458248473
+    },
+    {
+      "book": "kjv",
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.03065134099616858,
+      "head": "PMCEAOHNAEALBCTOEDBNGDOECFGYGECEAMDJBLOSNGSEMPGWDNIXRTHAETHNGBAAETHVEOLBOLTRMOEC",
+      "ioc": 0.035418677429732974,
+      "length": 320,
+      "offset": 0,
+      "span": "split015",
+      "trigram_per_100": 1.25,
+      "vowelish_ratio": 0.415625
+    },
+    {
+      "book": "kjv",
+      "common_trigram_hits": 8,
+      "doublet_rate": 0.03508771929824561,
+      "head": "YREOXETAAEOYTOFIFJGJAECOENGJLTYTHGIAMNCJSNOETHHPWTHYIAEHEONTHOSAMGEAMXTHEYNOXEAE",
+      "ioc": 0.03464912280701754,
+      "length": 514,
+      "offset": 15,
+      "span": "prefix400",
+      "trigram_per_100": 1.556420233463035,
+      "vowelish_ratio": 0.48443579766536965
+    }
+  ],
+  "tested": 132
+}

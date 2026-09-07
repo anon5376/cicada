@@ -1,0 +1,29 @@
+{
+  "keeps": [],
+  "n_jpeg": 58,
+  "sample": [
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.02756892230576441,
+      "head": "NGINGRIVJATPOEWIAIADOTEASJCFTHPDIALTHNGMEIAGGPTHETHDFOEDHEOSNGTHTWVSASIASHHJVMGA",
+      "ioc": 0.03451127819548872,
+      "length": 504,
+      "seed": "anend_hex",
+      "span": "prefix400",
+      "trigram_per_100": 1.1904761904761905,
+      "vowelish_ratio": 0.44246031746031744
+    },
+    {
+      "common_trigram_hits": 2,
+      "doublet_rate": 0.022988505747126436,
+      "head": "GRFDHBJYNVEOATHMVOOEOEHAFBRIANGNGGRECEAJEOOWPIAYIAWEOOEFYEOFEOOTHRWOEYNGICIABSGA",
+      "ioc": 0.03340060249773332,
+      "length": 325,
+      "seed": "jpg0_raw",
+      "span": "split015",
+      "trigram_per_100": 0.6153846153846154,
+      "vowelish_ratio": 0.4246153846153846
+    }
+  ],
+  "tested": 77
+}

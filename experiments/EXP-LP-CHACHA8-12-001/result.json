@@ -1,0 +1,55 @@
+{
+  "experiment": "EXP-LP-CHACHA8-12-001",
+  "family": "marked-seed ChaCha8 / ChaCha12 (`%29` + hi5)",
+  "plant": {
+    "det": true,
+    "8ne12": true,
+    "chacha8_rigid": true,
+    "chacha8_beam": {
+      "agree": 0.9012,
+      "ok": true
+    },
+    "chacha8_wrong": true,
+    "chacha8_hi5_rigid": true,
+    "chacha8_hi5_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "chacha8_hi5_wrong": true,
+    "chacha12_rigid": true,
+    "chacha12_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "chacha12_wrong": true,
+    "chacha12_hi5_rigid": true,
+    "chacha12_hi5_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "chacha12_hi5_wrong": true,
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 7788,
+  "tested_beam": 88,
+  "tested": 7876,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "chacha12",
+    "seed": "int:1033",
+    "span": "split047",
+    "rel": "beau",
+    "head": "JOEATHTJNGCDYAYREOTEOFEARYHDTHAEYRNTHEOVHFXONNAVEADIAJAEBNTHEOEACNTHLCIAPEINGTDO",
+    "trigram_per_100": 4.697986577181208,
+    "ioc": 0.03347107438016529
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "boundary": "ChaCha20 already closed; not a 2^256 grind"
+}

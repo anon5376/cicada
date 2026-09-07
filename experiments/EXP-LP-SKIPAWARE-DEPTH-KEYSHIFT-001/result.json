@@ -1,0 +1,325 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-KEYSHIFT-001",
+  "family": "skip-aware depth: key-prefix accept-count (not CT-crop=S), tight-band match/gap",
+  "plant": {
+    "ok": false,
+    "threshold": "n=400 shift=37 shared wins>=5/6 AND indep wins<=1/6",
+    "accept_window_37": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "n400_s37_shared": {
+      "n": 400,
+      "shift": 37,
+      "shared": true,
+      "wins": 2,
+      "n_trial": 6,
+      "ok": false,
+      "rows": [
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": true,
+          "seed": 3301,
+          "nB": 36,
+          "score": 3.322,
+          "shuffle_max": 0.167,
+          "beats": true,
+          "sep": 3.19
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": true,
+          "seed": 3302,
+          "nB": 34,
+          "score": -1.299,
+          "shuffle_max": 0.249,
+          "beats": false,
+          "sep": 0.86
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": true,
+          "seed": 3303,
+          "nB": 33,
+          "score": -2.48,
+          "shuffle_max": -0.805,
+          "beats": false,
+          "sep": 0.66
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": true,
+          "seed": 3304,
+          "nB": 33,
+          "score": -3.431,
+          "shuffle_max": 1.223,
+          "beats": false,
+          "sep": 0.02
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": true,
+          "seed": 3305,
+          "nB": 37,
+          "score": 0.511,
+          "shuffle_max": -1.661,
+          "beats": true,
+          "sep": 2.36
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": true,
+          "seed": 3306,
+          "nB": 36,
+          "score": -0.331,
+          "shuffle_max": 0.813,
+          "beats": false,
+          "sep": 1.23
+        }
+      ]
+    },
+    "n400_s37_indep": {
+      "n": 400,
+      "shift": 37,
+      "shared": false,
+      "wins": 0,
+      "n_trial": 6,
+      "ok": true,
+      "rows": [
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": false,
+          "seed": 4301,
+          "nB": 33,
+          "score": -3.527,
+          "shuffle_max": -1.439,
+          "beats": false,
+          "sep": 0.43
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": false,
+          "seed": 4302,
+          "nB": 37,
+          "score": -2.4,
+          "shuffle_max": -0.07,
+          "beats": false,
+          "sep": 0.29
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": false,
+          "seed": 4303,
+          "nB": 34,
+          "score": -5.53,
+          "shuffle_max": -0.046,
+          "beats": false,
+          "sep": -1.33
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": false,
+          "seed": 4304,
+          "nB": 34,
+          "score": -3.272,
+          "shuffle_max": 1.953,
+          "beats": false,
+          "sep": -0.03
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": false,
+          "seed": 4305,
+          "nB": 36,
+          "score": -5.091,
+          "shuffle_max": -1.984,
+          "beats": false,
+          "sep": -1.03
+        },
+        {
+          "n": 400,
+          "shift": 37,
+          "shared": false,
+          "seed": 4306,
+          "nB": 36,
+          "score": -3.691,
+          "shuffle_max": -0.519,
+          "beats": false,
+          "sep": -0.44
+        }
+      ]
+    },
+    "n277_s37_shared": {
+      "n": 277,
+      "shift": 37,
+      "shared": true,
+      "wins": 4,
+      "n_trial": 6,
+      "ok": false,
+      "rows": [
+        {
+          "n": 277,
+          "shift": 37,
+          "shared": true,
+          "seed": 5301,
+          "nB": 37,
+          "score": 4.572,
+          "shuffle_max": 2.555,
+          "beats": true,
+          "sep": 3.1
+        },
+        {
+          "n": 277,
+          "shift": 37,
+          "shared": true,
+          "seed": 5302,
+          "nB": 35,
+          "score": -1.605,
+          "shuffle_max": -2.037,
+          "beats": true,
+          "sep": 2.08
+        },
+        {
+          "n": 277,
+          "shift": 37,
+          "shared": true,
+          "seed": 5303,
+          "nB": 36,
+          "score": -0.653,
+          "shuffle_max": -0.626,
+          "beats": false,
+          "sep": 1.34
+        },
+        {
+          "n": 277,
+          "shift": 37,
+          "shared": true,
+          "seed": 5304,
+          "nB": 36,
+          "score": -3.428,
+          "shuffle_max": -0.507,
+          "beats": false,
+          "sep": -0.99
+        },
+        {
+          "n": 277,
+          "shift": 37,
+          "shared": true,
+          "seed": 5305,
+          "nB": 37,
+          "score": 1.153,
+          "shuffle_max": -0.41,
+          "beats": true,
+          "sep": 3.82
+        },
+        {
+          "n": 277,
+          "shift": 37,
+          "shared": true,
+          "seed": 5306,
+          "nB": 37,
+          "score": -0.536,
+          "shuffle_max": -0.864,
+          "beats": true,
+          "sep": 2.65
+        }
+      ]
+    },
+    "n400_s0_shared": {
+      "n": 400,
+      "shift": 0,
+      "shared": true,
+      "wins": 4,
+      "n_trial": 6,
+      "ok": false,
+      "rows": [
+        {
+          "n": 400,
+          "shift": 0,
+          "shared": true,
+          "seed": 6301,
+          "nB": 0,
+          "score": 3.974,
+          "shuffle_max": -2.675,
+          "beats": true,
+          "sep": 4.88
+        },
+        {
+          "n": 400,
+          "shift": 0,
+          "shared": true,
+          "seed": 6302,
+          "nB": 0,
+          "score": 4.516,
+          "shuffle_max": 0.687,
+          "beats": true,
+          "sep": 3.26
+        },
+        {
+          "n": 400,
+          "shift": 0,
+          "shared": true,
+          "seed": 6303,
+          "nB": 0,
+          "score": 1.656,
+          "shuffle_max": -2.575,
+          "beats": true,
+          "sep": 5.39
+        },
+        {
+          "n": 400,
+          "shift": 0,
+          "shared": true,
+          "seed": 6304,
+          "nB": 0,
+          "score": 1.241,
+          "shuffle_max": -0.498,
+          "beats": true,
+          "sep": 2.29
+        },
+        {
+          "n": 400,
+          "shift": 0,
+          "shared": true,
+          "seed": 6305,
+          "nB": 0,
+          "score": -2.496,
+          "shuffle_max": -1.046,
+          "beats": false,
+          "sep": 0.89
+        },
+        {
+          "n": 400,
+          "shift": 0,
+          "shared": true,
+          "seed": 6306,
+          "nB": 0,
+          "score": -0.849,
+          "shuffle_max": -0.359,
+          "beats": false,
+          "sep": 1.22
+        }
+      ]
+    },
+    "note": "n=277 is LP page max; not required for plant_ok (prefix400 scale is n=400)"
+  },
+  "tested": 0,
+  "keep_bar_hits": 0,
+  "verified_new_unsolved_runes": 0,
+  "aborted": "plant failed \u2014 decoder does not majority-beat shuffle on reject-filtered shift-37 at n=400, or independent pads fire",
+  "unsolved_runes_total": 12956
+}

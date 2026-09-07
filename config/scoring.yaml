@@ -1,0 +1,6 @@
+uncalibrated_english_like:
+  trigram_per_100_min: 8
+  vowelish_ratio_min: 0.28
+  vowelish_ratio_max: 0.52
+  ioc_min: 0.045
+note: "These thresholds are uncalibrated ranking aids, not p-values."

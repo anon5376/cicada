@@ -1,0 +1,22 @@
+{
+  "experiment": "EXP-LP-RECOVER-057-059-001",
+  "family": "word-depth recovery on ALIGN-001 flagged pair (rigid reverse)",
+  "n": 272,
+  "stage2": -3.634,
+  "stage2_z": 0.77,
+  "stage2_shuffle_max": -0.245,
+  "stage3": -1395.383,
+  "stage3_z": -1.83,
+  "stage3_shuffle_max": -1339.106,
+  "head_a": "TVNTOTHOVTHERTELANDIMVNMEDIMISHADANDNORYOVERTHEMYIREWHOMENSSAYHASCHELEOVSEORMTHEERDHANTEITSFTHEY",
+  "head_b": "HIMVTBVTOEANOFORTALLMYMENANDMAENABVTOVLISWINTANTTHESINEELANBREEDVINDTHEROFTOREWIMETOISTSBEGRESTE",
+  "beats_pair_shuffle_s2": false,
+  "beats_pair_shuffle_s3": false,
+  "clears_word_depth_family_z": false,
+  "readable_english": false,
+  "skeptic_review": {
+    "verdict": "null",
+    "why": "stage3 emits word-salad on any input; only z vs shuffle counts. Family threshold from WORD-DEPTH-001 is 5.10."
+  },
+  "verified_new_unsolved_runes": 0
+}

@@ -1,0 +1,100 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-SHA3-DEE-001",
+  "family": "skip-aware SHA3-256/BLAKE2s CTR + Dee Monad DjVuTXT pad",
+  "dee_url": "https://archive.org/download/monas-hieroglyphica/MONAS%20HIEROGLYPHICA_djvu.txt",
+  "dee_http": 200,
+  "dee_chars": 53349,
+  "dee_runes": 38642,
+  "plants": {
+    "sha3": {
+      "agree": 0.9506,
+      "ok": true
+    },
+    "blake2s": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "dee_pad": {
+      "agree": 0.9136,
+      "ok": true,
+      "pad_runes": 38642
+    }
+  },
+  "tested": 34,
+  "keeps": [],
+  "samples": [
+    {
+      "stream": "sha3:CICADA3301",
+      "rel": "sub",
+      "span": "prefix400",
+      "head": "NHXVNGRNTAELGOESCLACEOXGSPGEAXAEIOEOELIAXEAAEPAEEAPWEOJLAMEPEOEXAESEAYPNEOEATIME",
+      "ioc": 0.03459899749373434,
+      "doublet_rate": 0.022556390977443608,
+      "length": 510,
+      "common_trigram_hits": 8,
+      "trigram_per_100": 1.5686274509803921,
+      "vowelish_ratio": 0.45294117647058824
+    },
+    {
+      "stream": "sha3:CICADA3301",
+      "rel": "sub",
+      "span": "split015",
+      "head": "NHXVNGRNTAELGOESCLACEOXGSPGEAXAEIOEOELIAXEAAEPAEEAPWEOJLAMEPEOEXAESEAYPNEOEATIME",
+      "ioc": 0.03556491474364599,
+      "doublet_rate": 0.022988505747126436,
+      "length": 333,
+      "common_trigram_hits": 2,
+      "trigram_per_100": 0.6006006006006006,
+      "vowelish_ratio": 0.5195195195195195
+    },
+    {
+      "stream": "blake2s:CICADA3301",
+      "rel": "sub",
+      "span": "prefix400",
+      "head": "AFGIGIVEOIADLGFHGFHJGAENGTNGVGIADCEAHEOAVMNGRNGAEBEAEYIAXYSVIAOFAETOEYXAEOWYAWEA",
+      "ioc": 0.034711779448621555,
+      "doublet_rate": 0.02506265664160401,
+      "length": 524,
+      "common_trigram_hits": 9,
+      "trigram_per_100": 1.717557251908397,
+      "vowelish_ratio": 0.4904580152671756
+    },
+    {
+      "stream": "blake2s:CICADA3301",
+      "rel": "sub",
+      "span": "split015",
+      "head": "AFGIGIVEOIADLGFHGFHJGAENGTNGVGIADCEAHEOAVMNGRNGAEBEAEYIAXYSVIAOFAETOEYXAEOWYAWEA",
+      "ioc": 0.03468749086016788,
+      "doublet_rate": 0.01532567049808429,
+      "length": 339,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 1.4749262536873156,
+      "vowelish_ratio": 0.4808259587020649
+    },
+    {
+      "stream": "sha3:3301",
+      "rel": "sub",
+      "span": "prefix400",
+      "head": "THRCWAEIALVEAGEACEXIAEMYAEJVEAIALXXIANGIBHREOEOPRTYNGNAJNVLHEAACOCAFTOERGWEOTHAE",
+      "ioc": 0.03479949874686717,
+      "doublet_rate": 0.022556390977443608,
+      "length": 510,
+      "common_trigram_hits": 8,
+      "trigram_per_100": 1.5686274509803921,
+      "vowelish_ratio": 0.4411764705882353
+    },
+    {
+      "stream": "sha3:3301",
+      "rel": "sub",
+      "span": "split015",
+      "head": "THRCWAEIALVEAGEACEXIAEMYAEJVEAIALXXIANGIBHREOEOPRTYNGNAJNVLHEAACOCAFTOERGWEOTHAE",
+      "ioc": 0.03427802638121143,
+      "doublet_rate": 0.019157088122605363,
+      "length": 339,
+      "common_trigram_hits": 4,
+      "trigram_per_100": 1.1799410029498525,
+      "vowelish_ratio": 0.45132743362831856
+    }
+  ],
+  "verified_new_unsolved_runes": 0
+}

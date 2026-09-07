@@ -1,0 +1,64 @@
+{
+  "keeps": [],
+  "pads": [
+    "kjv",
+    "shakespeare",
+    "cicada_wiki",
+    "how_solved_wb",
+    "bits01",
+    "gall1",
+    "plain:lp1.warning",
+    "plain:lp1.wisdom",
+    "plain:lp2.page57_parable",
+    "plain:lp2.page56_an_end"
+  ],
+  "plants": {
+    "add": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "beau": {
+      "agree": 1.0,
+      "ok": true
+    }
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.03007518796992481,
+      "head": "BYTHWNVTCTHOMHDJEAAFGFIGEOWEOENGFWRWFITYGDVLIIAATVLEOBNGBAAVTGAEAVIAADOOAEOAEYLN",
+      "ioc": 0.03443609022556391,
+      "length": 500,
+      "pad": "kjv",
+      "rel": "add",
+      "span": "prefix400",
+      "trigram_per_100": 1.8,
+      "vowelish_ratio": 0.44
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.03065134099616858,
+      "head": "BYTHWNVTCTHOMHDJEAAFGFIGEOWEOENGFWRWFITYGDVLIIAATVLEOBNGBAAVTGAEAVIAADOOAEOAEYLN",
+      "ioc": 0.03427802638121143,
+      "length": 330,
+      "pad": "kjv",
+      "rel": "add",
+      "span": "split015",
+      "trigram_per_100": 1.5151515151515151,
+      "vowelish_ratio": 0.45151515151515154
+    },
+    {
+      "common_trigram_hits": 8,
+      "doublet_rate": 0.020050125313283207,
+      "head": "TIAVYNGLCVNEOAPWGEOHGWAFDODJAVIGEEONYXHXJITDOEGLRSDOEEAPCJWBVWTHDTHAALODSOEYDWYW",
+      "ioc": 0.035476190476190474,
+      "length": 499,
+      "pad": "kjv",
+      "rel": "beau",
+      "span": "prefix400",
+      "trigram_per_100": 1.6032064128256514,
+      "vowelish_ratio": 0.4348697394789579
+    }
+  ],
+  "tested": 40
+}

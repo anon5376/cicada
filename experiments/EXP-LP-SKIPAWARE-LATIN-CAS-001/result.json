@@ -1,0 +1,72 @@
+{
+  "keeps": [],
+  "n_docs": 29,
+  "plant": {
+    "agree": 0.8272,
+    "n_docs": 29,
+    "ok": false
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 7,
+      "doc": "onion:q4utgdi2n4m4",
+      "doublet_rate": 0.020050125313283207,
+      "head": "IAMEOOEYGNGTFTEOEOTHNGBIXTTXVWDINGNFIREONGNGVNHECYOEOXTHHEOXWGWWTNGNOEEAEPOCNJCI",
+      "ioc": 0.036541353383458645,
+      "latin_fn": 13,
+      "length": 516,
+      "span": "prefix400",
+      "trigram_per_100": 1.3565891472868217,
+      "vowelish_ratio": 0.42441860465116277
+    },
+    {
+      "common_trigram_hits": 6,
+      "doc": "onion:q4utgdi2n4m4",
+      "doublet_rate": 0.03065134099616858,
+      "head": "IAMEOOEYGNGTFTEOEOTHNGBIXTTXVWDINGNFIREONGNGVNHECYOEOXTHHEOXWGWWTNGNOEEAEPOCNJCI",
+      "ioc": 0.03837267117077593,
+      "latin_fn": 11,
+      "length": 336,
+      "span": "split015",
+      "trigram_per_100": 1.7857142857142858,
+      "vowelish_ratio": 0.4255952380952381
+    },
+    {
+      "common_trigram_hits": 2,
+      "doc": "onion:ut3qtzbrvs7d",
+      "doublet_rate": 0.005012531328320802,
+      "head": "SHAOGLIAFNGNDTJYDELFBIAOLHXPTHEAMIBWITEONAEEOOEYLEOSRHBNWOETHATYMFDPPIGMEANGPNGC",
+      "ioc": 0.03418546365914787,
+      "latin_fn": 17,
+      "length": 496,
+      "span": "prefix400",
+      "trigram_per_100": 0.4032258064516129,
+      "vowelish_ratio": 0.41330645161290325
+    },
+    {
+      "common_trigram_hits": 2,
+      "doc": "onion:ut3qtzbrvs7d",
+      "doublet_rate": 0.007662835249042145,
+      "head": "SHAOGLIAFNGNDTJYDELFBIAOLHXPTHEAMIBWITEONAEEOOEYLEOSRHBNWOETHATYMFDPPIGMEANGPNGC",
+      "ioc": 0.034073294141733206,
+      "latin_fn": 8,
+      "length": 322,
+      "span": "split015",
+      "trigram_per_100": 0.6211180124223602,
+      "vowelish_ratio": 0.40062111801242234
+    },
+    {
+      "common_trigram_hits": 5,
+      "doc": "lat:gall1.txt",
+      "doublet_rate": 0.03759398496240601,
+      "head": "IIABEOAEXTHXLOEHGFEANGTWLAIAEAJIAHEAPEAWYTHNGWSGECAECEABWNGNNRCTHNGVNTTPYPHOEOAE",
+      "ioc": 0.03548872180451128,
+      "latin_fn": 12,
+      "length": 532,
+      "span": "prefix400",
+      "trigram_per_100": 0.9398496240601504,
+      "vowelish_ratio": 0.4718045112781955
+    }
+  ],
+  "tested": 58
+}

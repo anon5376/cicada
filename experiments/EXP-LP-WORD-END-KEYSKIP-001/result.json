@@ -1,0 +1,73 @@
+{
+  "experiment": "EXP-LP-WORD-END-KEYSKIP-001",
+  "family": "rigid extra key consumes at transcribed word ends/starts (not a beam)",
+  "plant": {
+    "sub_after_extra1": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "sub_before_extra1": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "add_after_extra1": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "add_before_extra1": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "beau_after_extra1": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "beau_before_extra1": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "sub_after_extra2": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "sub_before_extra2": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "add_after_extra2": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "add_before_extra2": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "beau_after_extra2": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "beau_before_extra2": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "wrong_extra_breaks": true,
+    "ok": true
+  },
+  "tested": 5088,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "split": 29,
+    "stream": "tot1",
+    "extra": 2,
+    "rel": "sub",
+    "phase": "after",
+    "head": "XWBTTHVTHANGLRJHWFWEBYTPNOSWNGOEAEAENJEJPEOXYOEIMJFREARVETOOLWEOINGEAENTHWEOTHVW",
+    "trigram_per_100": 4.49438202247191,
+    "ioc": 0.03595963933018463
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

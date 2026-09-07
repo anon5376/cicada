@@ -1,0 +1,97 @@
+{
+  "experiment": "EXP-LP-GLYPH-LINECLASS-001",
+  "family": "rune-height line classification + drop-cap (hex/art excluded)",
+  "controls": {
+    "56": {
+      "n_bands": 12,
+      "n_rune_bands": 8,
+      "band_h": [
+        114,
+        114,
+        114,
+        65,
+        65,
+        65,
+        66,
+        66,
+        115,
+        115,
+        139,
+        131
+      ],
+      "rune_h": [
+        114,
+        114,
+        114,
+        115,
+        115,
+        65,
+        74,
+        131
+      ],
+      "n_glyphs": 84,
+      "per_line": [
+        18,
+        18,
+        7,
+        22,
+        18,
+        0,
+        0,
+        0
+      ],
+      "n_red": 5,
+      "first_red_run": 4,
+      "has_drop": true,
+      "expect_n": 85,
+      "expect_red": 5,
+      "ok_n": false,
+      "ok_red": false,
+      "ok": false
+    },
+    "57": {
+      "n_bands": 12,
+      "n_rune_bands": 5,
+      "band_h": [
+        114,
+        115,
+        115,
+        115,
+        115,
+        12,
+        529,
+        42,
+        117,
+        38,
+        83,
+        17
+      ],
+      "rune_h": [
+        114,
+        115,
+        115,
+        115,
+        115
+      ],
+      "n_glyphs": 94,
+      "per_line": [
+        18,
+        17,
+        17,
+        18,
+        23
+      ],
+      "n_red": 6,
+      "first_red_run": 6,
+      "has_drop": true,
+      "expect_n": 95,
+      "expect_red": 7,
+      "ok_n": false,
+      "ok_red": false,
+      "ok": false
+    }
+  },
+  "controls_pass": false,
+  "verified_new_unsolved_runes": 0,
+  "aborted": "p56/57 controls failed; headings not used as keys"
+}

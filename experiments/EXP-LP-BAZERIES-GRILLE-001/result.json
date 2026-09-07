@@ -1,0 +1,31 @@
+{
+  "experiment": "EXP-LP-BAZERIES-GRILLE-001",
+  "family": "Bazeries cylinder-29 (independent disks) + Fleissner turning grille",
+  "plant": {
+    "baz_1": true,
+    "baz_5": true,
+    "baz_14": true,
+    "baz_wrong": true,
+    "grille_10": true,
+    "grille_wrong": true,
+    "ok": true
+  },
+  "tested": 4319,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "family": "grille",
+    "key": "DIVINITY",
+    "add": "n10",
+    "span": "split059",
+    "head": "NTHFXTNHOSREOTHAIIBFIXLTIAEAVTHEHSIAIFEOLLYMDOEAOEENHLSOEAETEAYIANGOEEOLFHCHDEAY",
+    "trigram_per_100": 3.90625,
+    "ioc": 0.03494949494949495
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "note": "Quagmire already closed; disks here are independently mixed, not one mixed alphabet + periodic Caesar."
+}

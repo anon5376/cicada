@@ -1,0 +1,54 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-KEYSKIP-001",
+  "family": "key-consumption suffix crop + same-start forward (HANDOFF 5c)",
+  "plant": {
+    "oracle_ok": false,
+    "blind_ok": false,
+    "oracle_majority": {
+      "n242_s15": {
+        "wins": 3,
+        "n": 6,
+        "ok": false
+      },
+      "n242_s37": {
+        "wins": 2,
+        "n": 6,
+        "ok": false
+      },
+      "n277_s15": {
+        "wins": 4,
+        "n": 6,
+        "ok": true
+      },
+      "n277_s37": {
+        "wins": 1,
+        "n": 6,
+        "ok": false
+      }
+    },
+    "blind_majority": {
+      "n242_s15": {
+        "wins": 4,
+        "n": 6,
+        "ok": true
+      },
+      "n242_s37": {
+        "wins": 5,
+        "n": 6,
+        "ok": true
+      },
+      "n277_s15": {
+        "wins": 2,
+        "n": 6,
+        "ok": false
+      },
+      "n277_s37": {
+        "wins": 2,
+        "n": 6,
+        "ok": false
+      }
+    }
+  },
+  "verified_new_unsolved_runes": 0,
+  "aborted": "oracle-T same-start suffix does not majority-plant at page length"
+}

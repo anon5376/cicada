@@ -1,0 +1,10 @@
+{
+  "first8_hex": "3636776359466b4cd4618dee464fdaf14568926a",
+  "base32": "gy3hoy2zizvuzvdbrxxemt626fcwretk",
+  "onion_claim_matches": false,
+  "leftover_n": 44,
+  "tested": 25,
+  "hits": [],
+  "aes_note": "pycrypto AES-CTR ran",
+  "onion_note": "v2 address derived only; not fetched (onion probing disallowed; v2 retired)"
+}

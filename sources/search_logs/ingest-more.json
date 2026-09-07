@@ -1,0 +1,108 @@
+{
+  "pgp": [
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2012-01-book-code-poem.asc",
+      "sha256": "737127ccf950ef84c213026cbe39bad5a3ef0081114fee16959254f2ae02b906",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2012-01-coordinates.asc",
+      "sha256": "56013e89d00c5dc8a755f06da8c860c2cf20486ab1e02a5d58f134baa540f69e",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2012-01-end-of-puzzle.asc",
+      "sha256": "db68f6e38d5f8eab3f13cd3296465a5b562c84d581cc1121dda6ef9da9a8cb6b",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2012-01-final-message.asc",
+      "sha256": "9580bf80f70b304d8bf0fc16a519839661d85ce436fa56ab888ea579149dc564",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2012-01-key-in-front-of-you.asc",
+      "sha256": "f7d8e962db5f34a3e2300312c5ed150216974cae3b398fbc867b9dae727e1dab",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2012-01-second-chance.asc",
+      "sha256": "82b49ba4fe46ac32a80382ccd49d49f29371b787bc84409378ff25e2d45729cc",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2013-01-cicada-os-message.asc",
+      "sha256": "4401b6536f99d9716e91b10bf99777d4a75dce58fe50533cb847238af17eaf6e",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2013-01-opening-book-code.asc",
+      "sha256": "cbc0abbea8f36fdf30433806a3418b30ad06f21f60eeee212b1692e2d5c9811b",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2013-01-rune-table-morse.asc",
+      "sha256": "685aeec4217b1c76bb1cf64ba8f1c537e05895f4971d5c31ab6ed42d4460bd8b",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2013-01-telnet-hello.asc",
+      "sha256": "58dff034fdeb23b8f7da1fcdc8542bab6411d13c410146e09b861dc9253c0bcc",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2013-cicada-os-message.asc",
+      "sha256": "4401b6536f99d9716e91b10bf99777d4a75dce58fe50533cb847238af17eaf6e",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2014-01-final-message.asc",
+      "sha256": "a48a4753cc12fd2d5110c50765a4b58294077a0af64f678c14bdd773451ef71e",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2014-01-liber-primus-hash-block.asc",
+      "sha256": "2efba5e2283fa16592bedb7c339223bf2db94f07cf2d42188684aa393c12d180",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2014-01-onion-welcome.asc",
+      "sha256": "d5473236dee152c7744f561e5ace95908876ec01d43467c28af1b0c1aa14cc54",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2014-01-onion5-liber-primus.asc",
+      "sha256": "55904a90db0b3fb1af059097617ee5d411867c7a940a3f978bf56fe875e82d18",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2014-01-opening-book-code.asc",
+      "sha256": "cba64781bd461b17039316ef97426f912aae987fde131f62e883f7f9e9f0118e",
+      "http_status": 200,
+      "access_status": "OK"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/messages/2015-07-planned-parenthood-denial.asc",
+      "sha256": "3e9b0ddcfaed0b76f83f7fc491eece21052ebf8c26402f086a96c491ab9d0703",
+      "http_status": 200,
+      "access_status": "OK"
+    }
+  ],
+  "lp2_ok": 55,
+  "lp2_fail": []
+}

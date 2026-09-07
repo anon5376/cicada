@@ -1,0 +1,28 @@
+.cursor/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Immutable evidence and derived working data stay local
+corpus/objects/
+corpus/raw/
+corpus/normalized/
+corpus/derived/
+db/*.sqlite
+db/*.sqlite-journal
+state/EVENTS.jsonl
+state/queue.sqlite
+state/checkpoints/
+sources/captures/
+experiments/*/logs/
+experiments/*/candidates/
+exports/
+reports/human_packets/
+
+# Keep empty dir placeholders
+!corpus/objects/.gitkeep
+!db/.gitkeep

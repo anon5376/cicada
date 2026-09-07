@@ -1,0 +1,109 @@
+{
+  "experiment": "EXP-LP-HILL-PHI-BOOK-001",
+  "family": "Hill \u03c6/totient-entry book matrices (wisdom 5\u00d75, C15 4\u00d74)",
+  "plant": {
+    "roundtrip": true,
+    "wrong": true,
+    "plant_matrix": "wisdom_mod",
+    "ok": true
+  },
+  "invertibility": {
+    "wisdom_mod": {
+      "det": 3,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_phi": {
+      "det": 28,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_m1": {
+      "det": 7,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_phi_m1": {
+      "det": 20,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_modT": {
+      "det": 3,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_phiT": {
+      "det": 28,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_m1T": {
+      "det": 7,
+      "ok": true,
+      "n": 5
+    },
+    "wisdom_phi_m1T": {
+      "det": 20,
+      "ok": true,
+      "n": 5
+    },
+    "c15_mod": {
+      "det": 17,
+      "ok": true,
+      "n": 4
+    },
+    "c15_phi": {
+      "det": 11,
+      "ok": true,
+      "n": 4
+    },
+    "c15_m1": {
+      "det": 24,
+      "ok": true,
+      "n": 4
+    },
+    "c15_phi_m1": {
+      "det": 5,
+      "ok": true,
+      "n": 4
+    },
+    "c15_modT": {
+      "det": 17,
+      "ok": true,
+      "n": 4
+    },
+    "c15_phiT": {
+      "det": 11,
+      "ok": true,
+      "n": 4
+    },
+    "c15_m1T": {
+      "det": 24,
+      "ok": true,
+      "n": 4
+    },
+    "c15_phi_m1T": {
+      "det": 5,
+      "ok": true,
+      "n": 4
+    }
+  },
+  "n_invertible": 16,
+  "tested": 864,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "K": "wisdom_phi",
+    "span": "split066",
+    "head": "FBPYXJYTHREONGMOFERLVVPVRVVNGNGPHYAEFINGATHAELRNGTAENTHSNGIXJCAIANTHANGJNGEOVIAL",
+    "trigram_per_100": 6.779661016949152,
+    "ioc": 0.041947565543071164
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "note": "Raw-mod-29 wisdom/C15 already closed; this adds \u03c6(entry) and entry-1. No in-repo 3301-trace 5\u00d75 \u2014 not invented."
+}

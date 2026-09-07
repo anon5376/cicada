@@ -1,0 +1,79 @@
+{
+  "fetches": [
+    {
+      "name": "how_solved",
+      "sha256": null,
+      "status": "ACCESS_DENIED",
+      "url": "https://uncovering-cicada.fandom.com/wiki/How_the_solved_pages_of_the_Liber_Primus_were_solved"
+    },
+    {
+      "name": "liber_primus",
+      "sha256": null,
+      "status": "ACCESS_DENIED",
+      "url": "https://uncovering-cicada.fandom.com/wiki/Liber_Primus"
+    },
+    {
+      "name": "pgp_2017",
+      "sha256": null,
+      "status": "ACCESS_DENIED",
+      "url": "https://uncovering-cicada.fandom.com/wiki/PGP_Signed_Message_April_2017"
+    }
+  ],
+  "keeps": [],
+  "plant": {
+    "agree": 1.0,
+    "family": "thue_morse",
+    "ok": true
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.03007518796992481,
+      "head": "SWBVCBAEYXATEOEAHTHAIANMVGEACTRXLEOEHCLEAWOERWEARSGANXCHGFNGEOEJPMHSDAENTHAIWSIA",
+      "ioc": 0.03349624060150376,
+      "length": 493,
+      "mode": "automatic",
+      "span": "prefix400",
+      "src": "thue_morse",
+      "trigram_per_100": 1.8255578093306288,
+      "vowelish_ratio": 0.4198782961460446
+    },
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.02681992337164751,
+      "head": "SWBVCBAEYXATEOEAHTHAIANMVGEACTRXLEOEHCLEAWOERWEARSGANXCHGFNGEOEJPMHSDAENTHAIWSIA",
+      "ioc": 0.03416103653008101,
+      "length": 323,
+      "mode": "automatic",
+      "span": "split015",
+      "src": "thue_morse",
+      "trigram_per_100": 2.1671826625387,
+      "vowelish_ratio": 0.4086687306501548
+    },
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.020050125313283207,
+      "head": "SGSFVXNGNGGBHNOEBAELHEOOETHEOTHSDIMYSOEJWBYREEAVNGIAGAEPEAVOEANGEOOEARMOEIASMEAI",
+      "ioc": 0.03363408521303258,
+      "length": 510,
+      "mode": "automatic",
+      "span": "prefix400",
+      "src": "thue_morse_bit",
+      "trigram_per_100": 1.3725490196078431,
+      "vowelish_ratio": 0.4392156862745098
+    },
+    {
+      "common_trigram_hits": 3,
+      "doublet_rate": 0.019157088122605363,
+      "head": "SGSFVXNGNGGBHNOEBAELHEOOETHEOTHSDIMYSOEJWBYREEAVNGIAGAEPEAVOEANGEOOEARMOEIASMEAI",
+      "ioc": 0.03337135503495072,
+      "length": 334,
+      "mode": "automatic",
+      "span": "split015",
+      "src": "thue_morse_bit",
+      "trigram_per_100": 0.8982035928143712,
+      "vowelish_ratio": 0.4341317365269461
+    }
+  ],
+  "tested": 12
+}

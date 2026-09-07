@@ -1,0 +1,184 @@
+[
+  {
+    "section": "0",
+    "heading": "prefix5",
+    "method": "caesar_2",
+    "latin": "BILCH",
+    "n": 5
+  },
+  {
+    "section": "3",
+    "heading": "prefix7",
+    "method": "atb_c_16",
+    "latin": "AROWDIP",
+    "n": 7
+  },
+  {
+    "section": "3",
+    "heading": "prefix8",
+    "method": "atb_c_16",
+    "latin": "AROWDIPEA",
+    "n": 8
+  },
+  {
+    "section": "3",
+    "heading": "prefix9",
+    "method": "atb_c_16",
+    "latin": "AROWDIPEAM",
+    "n": 9
+  },
+  {
+    "section": "15",
+    "heading": "prefix5",
+    "method": "atb_c_24",
+    "latin": "DOEOREA",
+    "n": 5
+  },
+  {
+    "section": "15",
+    "heading": "prefix6",
+    "method": "atb_c_24",
+    "latin": "DOEOREAA",
+    "n": 6
+  },
+  {
+    "section": "23",
+    "heading": "prefix5",
+    "method": "caesar_3",
+    "latin": "RIAIAN",
+    "n": 5
+  },
+  {
+    "section": "23",
+    "heading": "prefix5",
+    "method": "atb_c_21",
+    "latin": "MAEPEAX",
+    "n": 5
+  },
+  {
+    "section": "23",
+    "heading": "prefix6",
+    "method": "caesar_3",
+    "latin": "RIAIANB",
+    "n": 6
+  },
+  {
+    "section": "23",
+    "heading": "prefix6",
+    "method": "atb_c_21",
+    "latin": "MAEPEAXG",
+    "n": 6
+  },
+  {
+    "section": "23",
+    "heading": "prefix7",
+    "method": "caesar_3",
+    "latin": "RIAIANBY",
+    "n": 7
+  },
+  {
+    "section": "40",
+    "heading": "words0-1",
+    "method": "caesar_1",
+    "latin": "VILIAWAYN",
+    "n": 8
+  },
+  {
+    "section": "40",
+    "heading": "prefix5",
+    "method": "caesar_15",
+    "latin": "SACEONG",
+    "n": 5
+  },
+  {
+    "section": "40",
+    "heading": "prefix6",
+    "method": "caesar_1",
+    "latin": "VILIAWA",
+    "n": 6
+  },
+  {
+    "section": "40",
+    "heading": "prefix6",
+    "method": "caesar_15",
+    "latin": "SACEONGN",
+    "n": 6
+  },
+  {
+    "section": "40",
+    "heading": "prefix7",
+    "method": "caesar_1",
+    "latin": "VILIAWAY",
+    "n": 7
+  },
+  {
+    "section": "40",
+    "heading": "prefix9",
+    "method": "caesar_1",
+    "latin": "VILIAWAYNAE",
+    "n": 9
+  },
+  {
+    "section": "40",
+    "heading": "prefix10",
+    "method": "caesar_1",
+    "latin": "VILIAWAYNAEX",
+    "n": 10
+  },
+  {
+    "section": "40",
+    "heading": "prefix11",
+    "method": "caesar_1",
+    "latin": "VILIAWAYNAEXS",
+    "n": 11
+  },
+  {
+    "section": "40",
+    "heading": "prefix12",
+    "method": "caesar_1",
+    "latin": "VILIAWAYNAEXSIA",
+    "n": 12
+  },
+  {
+    "section": "54",
+    "heading": "prefix5",
+    "method": "caesar_9",
+    "latin": "REAVOW",
+    "n": 5
+  },
+  {
+    "section": "54",
+    "heading": "prefix5",
+    "method": "atb_c_15",
+    "latin": "MAOELT",
+    "n": 5
+  },
+  {
+    "section": "54",
+    "heading": "prefix5",
+    "method": "atb_c_24",
+    "latin": "EARTHFAE",
+    "n": 5
+  },
+  {
+    "section": "54",
+    "heading": "prefix6",
+    "method": "atb_c_15",
+    "latin": "MAOELTEO",
+    "n": 6
+  },
+  {
+    "section": "54",
+    "heading": "prefix6",
+    "method": "atb_c_24",
+    "latin": "EARTHFAENG",
+    "n": 6
+  },
+  {
+    "section": "54",
+    "heading": "prefix7",
+    "method": "atb_c_24",
+    "latin": "EARTHFAENGN",
+    "n": 7
+  }
+]

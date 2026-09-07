@@ -1,0 +1,27 @@
+{
+  "keeps": [],
+  "plant": {
+    "agree": 1.0,
+    "ct_n": 81,
+    "extra_skips": 1,
+    "known_js_ok": true,
+    "n": 81,
+    "ok": true,
+    "recovered_head": "THEPRIMESARESACREDTHETOTIENTFVNCTIANISSACREDALLTHNGSSHOVLDBEENCRYPTEDAWARNNGBELI"
+  },
+  "sample": [
+    {
+      "common_trigram_hits": 10,
+      "doublet_rate": 0.05012531328320802,
+      "head": "SWFFGWMOELIAAYEBYFNGEADOEOERCHOPVDLYRIVTIGNGDITJPAEOEDEOOCYJBLEOIAPODVOEAEOMVIAA",
+      "ioc": 0.03451127819548872,
+      "length": 517,
+      "mode": "beam",
+      "seed": "CICADA3301",
+      "span": "prefix400",
+      "trigram_per_100": 1.9342359767891684,
+      "vowelish_ratio": 0.4835589941972921
+    }
+  ],
+  "tested": 200
+}

@@ -1,0 +1,278 @@
+{
+  "keys": [
+    {
+      "key_id": "6e397c5c6ceeeb4d",
+      "sha256": "6e397c5c6ceeeb4da08535db74874989f193c914b8d2d87972dd282b24ea809f",
+      "primary_fingerprint": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "short_key_id": "7A35090F",
+      "user_ids": "[\"Cicada 3301 (845145127)\"]",
+      "algorithm": "1",
+      "created_at_key": "1325734783",
+      "notes": "https://raw.githubusercontent.com/krisyotam/cicada3301/main/pgp/key/cicada-3301-public-key.asc"
+    },
+    {
+      "key_id": "8ff42a7f4089e2be",
+      "sha256": "8ff42a7f4089e2be2de14cf83717d6027bae2bbfe919fa668e45934b2289dd2b",
+      "primary_fingerprint": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "short_key_id": "7A35090F",
+      "user_ids": "[\"Cicada 3301 (845145127)\"]",
+      "algorithm": "1",
+      "created_at_key": "1325734783",
+      "notes": "https://raw.githubusercontent.com/iBotPeaches/cicada_3301/master/keys/67F363C61BA8FB6FDBA9C47D0670B0E57A35090F.asc"
+    }
+  ],
+  "attempts_summary": [
+    {
+      "attempt_id": "sig-99b2506ce63d",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:24:52Z"
+    },
+    {
+      "attempt_id": "sig-3a3d50ad15c3",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:24:53Z"
+    },
+    {
+      "attempt_id": "sig-427091102216",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:24:53Z"
+    },
+    {
+      "attempt_id": "sig-0e53ce0112bd",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:24:53Z"
+    },
+    {
+      "attempt_id": "sig-4ae0972b1ef9",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:10Z"
+    },
+    {
+      "attempt_id": "sig-2c3bbd4ec61a",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:10Z"
+    },
+    {
+      "attempt_id": "sig-c4ac3d9fa614",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:10Z"
+    },
+    {
+      "attempt_id": "sig-3b97a9fc32e5",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:11Z"
+    },
+    {
+      "attempt_id": "sig-b10467befea4",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:11Z"
+    },
+    {
+      "attempt_id": "sig-e52d4ad5b9e8",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:11Z"
+    },
+    {
+      "attempt_id": "sig-d0a8188d845c",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:12Z"
+    },
+    {
+      "attempt_id": "sig-5e37c1440c25",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:12Z"
+    },
+    {
+      "attempt_id": "sig-96b2719ae309",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:12Z"
+    },
+    {
+      "attempt_id": "sig-59bb19306452",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:13Z"
+    },
+    {
+      "attempt_id": "sig-35098b1314f8",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:13Z"
+    },
+    {
+      "attempt_id": "sig-78cbf552715a",
+      "result": "INVALID",
+      "signing_fpr": null,
+      "primary_fpr": null,
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:13Z"
+    },
+    {
+      "attempt_id": "sig-ef466757879e",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:14Z"
+    },
+    {
+      "attempt_id": "sig-96b33d2c931f",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:14Z"
+    },
+    {
+      "attempt_id": "sig-7021bc3bf7f0",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:14Z"
+    },
+    {
+      "attempt_id": "sig-870fd6fb5e9b",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:15Z"
+    },
+    {
+      "attempt_id": "sig-7e0e881bd15a",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:15Z"
+    },
+    {
+      "attempt_id": "sig-d16467309119",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:16Z"
+    },
+    {
+      "attempt_id": "sig-198f57dce389",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:16Z"
+    },
+    {
+      "attempt_id": "sig-995f1e9ed275",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:16Z"
+    },
+    {
+      "attempt_id": "sig-75e9b5232fc0",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:17Z"
+    },
+    {
+      "attempt_id": "sig-4af78ca2471b",
+      "result": "INVALID",
+      "signing_fpr": null,
+      "primary_fpr": null,
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:48Z"
+    },
+    {
+      "attempt_id": "sig-6912b8125da0",
+      "result": "VALID",
+      "signing_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "primary_fpr": "6D854CD7933322A601C3286D181F01E57A35090F",
+      "tool": "gpg",
+      "tool_version": "gpg (GnuPG) 2.5.22",
+      "created_at": "2026-09-07T04:26:48Z"
+    }
+  ],
+  "primary_fingerprint_from_bytes": "6D854CD7933322A601C3286D181F01E57A35090F",
+  "short_id": "7A35090F",
+  "latest_valid_messages": [
+    "2017-04-final-message.asc",
+    "2017-04-final-warning.asc"
+  ],
+  "copy_damage": {
+    "2013-01-opening-book-code.asc": "INVALID as stored (missing blank line after Hash header). VALID after inserting the RFC-required blank line. Labeled compatibility repair."
+  }
+}

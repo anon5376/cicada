@@ -1,0 +1,323 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-PAGESHIFT-001",
+  "family": "known-shift CT-crop forward at n<=277 (no max-over-crops)",
+  "plant": {
+    "ok": false,
+    "majority": {
+      "n242_s15": {
+        "wins": 3,
+        "n": 6,
+        "ok": false
+      },
+      "n242_s37": {
+        "wins": 3,
+        "n": 6,
+        "ok": false
+      },
+      "n277_s15": {
+        "wins": 4,
+        "n": 6,
+        "ok": true
+      },
+      "n277_s37": {
+        "wins": 2,
+        "n": 6,
+        "ok": false
+      }
+    },
+    "rows": [
+      {
+        "n": 242,
+        "shift": 15,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -1.847,
+        "shuffle_max": -2.09,
+        "sep": 1.98,
+        "beats": true
+      },
+      {
+        "n": 242,
+        "shift": 15,
+        "lens": [
+          242,
+          242
+        ],
+        "true": 0.383,
+        "shuffle_max": -0.396,
+        "sep": 2.42,
+        "beats": true
+      },
+      {
+        "n": 242,
+        "shift": 15,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -2.152,
+        "shuffle_max": -0.11,
+        "sep": 0.81,
+        "beats": false
+      },
+      {
+        "n": 242,
+        "shift": 15,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -4.159,
+        "shuffle_max": 1.037,
+        "sep": -0.44,
+        "beats": false
+      },
+      {
+        "n": 242,
+        "shift": 15,
+        "lens": [
+          242,
+          242
+        ],
+        "true": 0.528,
+        "shuffle_max": 0.981,
+        "sep": 1.88,
+        "beats": false
+      },
+      {
+        "n": 242,
+        "shift": 15,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -2.031,
+        "shuffle_max": -2.568,
+        "sep": 1.9,
+        "beats": true
+      },
+      {
+        "n": 242,
+        "shift": 37,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -0.404,
+        "shuffle_max": -0.673,
+        "sep": 1.78,
+        "beats": true
+      },
+      {
+        "n": 242,
+        "shift": 37,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -1.262,
+        "shuffle_max": -2.178,
+        "sep": 2.5,
+        "beats": true
+      },
+      {
+        "n": 242,
+        "shift": 37,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -4.764,
+        "shuffle_max": -1.291,
+        "sep": -1.16,
+        "beats": false
+      },
+      {
+        "n": 242,
+        "shift": 37,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -1.959,
+        "shuffle_max": 0.289,
+        "sep": 0.67,
+        "beats": false
+      },
+      {
+        "n": 242,
+        "shift": 37,
+        "lens": [
+          242,
+          242
+        ],
+        "true": 0.085,
+        "shuffle_max": -0.531,
+        "sep": 2.22,
+        "beats": true
+      },
+      {
+        "n": 242,
+        "shift": 37,
+        "lens": [
+          242,
+          242
+        ],
+        "true": -2.003,
+        "shuffle_max": -1.426,
+        "sep": 1.45,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 15,
+        "lens": [
+          277,
+          277
+        ],
+        "true": 2.157,
+        "shuffle_max": 0.433,
+        "sep": 3.65,
+        "beats": true
+      },
+      {
+        "n": 277,
+        "shift": 15,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -0.455,
+        "shuffle_max": -0.459,
+        "sep": 1.54,
+        "beats": true
+      },
+      {
+        "n": 277,
+        "shift": 15,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -2.877,
+        "shuffle_max": 0.185,
+        "sep": 0.68,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 15,
+        "lens": [
+          277,
+          277
+        ],
+        "true": 2.741,
+        "shuffle_max": -1.252,
+        "sep": 4.04,
+        "beats": true
+      },
+      {
+        "n": 277,
+        "shift": 15,
+        "lens": [
+          277,
+          277
+        ],
+        "true": 3.307,
+        "shuffle_max": -0.641,
+        "sep": 3.97,
+        "beats": true
+      },
+      {
+        "n": 277,
+        "shift": 15,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -2.038,
+        "shuffle_max": -0.289,
+        "sep": 1.26,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 37,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -2.277,
+        "shuffle_max": -2.869,
+        "sep": 1.82,
+        "beats": true
+      },
+      {
+        "n": 277,
+        "shift": 37,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -2.299,
+        "shuffle_max": -0.069,
+        "sep": 0.92,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 37,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -5.336,
+        "shuffle_max": -2.904,
+        "sep": -0.94,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 37,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -3.971,
+        "shuffle_max": -1.436,
+        "sep": 0.1,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 37,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -6.093,
+        "shuffle_max": 0.252,
+        "sep": -2.89,
+        "beats": false
+      },
+      {
+        "n": 277,
+        "shift": 37,
+        "lens": [
+          277,
+          277
+        ],
+        "true": -0.462,
+        "shuffle_max": -0.786,
+        "sep": 2.24,
+        "beats": true
+      }
+    ],
+    "n_plant": 6
+  },
+  "verified_new_unsolved_runes": 0,
+  "aborted": "shifted CT-crop does not majority-plant at page length",
+  "note": "First-seed 15/37 wins were not stable across 6 trials."
+}

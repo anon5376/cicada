@@ -1,0 +1,550 @@
+{
+  "controls": {
+    "p56_n": 83,
+    "p56_first_red": 4,
+    "p57_n": 98,
+    "p57_first_red": 8,
+    "p56_ok": false,
+    "p57_ok": false
+  },
+  "overlays": [
+    {
+      "onion": 0,
+      "trans": 262,
+      "n": 259,
+      "n_red": 12,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 12
+        }
+      ],
+      "line_counts": [
+        18,
+        21,
+        17,
+        22,
+        24,
+        21,
+        21,
+        23,
+        24,
+        20,
+        24,
+        23
+      ]
+    },
+    {
+      "onion": 3,
+      "trans": 217,
+      "n": 218,
+      "n_red": 18,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 15
+        },
+        {
+          "start": 119,
+          "len": 3
+        }
+      ],
+      "line_counts": [
+        18,
+        19,
+        21,
+        22,
+        23,
+        15,
+        16,
+        18,
+        20,
+        21,
+        23
+      ]
+    },
+    {
+      "onion": 6,
+      "trans": 196,
+      "n": 200,
+      "n_red": 10,
+      "red_runs": [
+        {
+          "start": 76,
+          "len": 10
+        }
+      ],
+      "line_counts": [
+        21,
+        25,
+        27,
+        3,
+        16,
+        18,
+        19,
+        25,
+        22,
+        23
+      ]
+    },
+    {
+      "onion": 7,
+      "trans": 208,
+      "n": 219,
+      "n_red": 14,
+      "red_runs": [
+        {
+          "start": 202,
+          "len": 14
+        }
+      ],
+      "line_counts": [
+        21,
+        22,
+        24,
+        22,
+        23,
+        24,
+        22,
+        23,
+        21,
+        14,
+        3
+      ]
+    },
+    {
+      "onion": 8,
+      "trans": 255,
+      "n": 256,
+      "n_red": 12,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 12
+        }
+      ],
+      "line_counts": [
+        16,
+        16,
+        17,
+        22,
+        22,
+        23,
+        21,
+        23,
+        22,
+        24,
+        24,
+        25
+      ]
+    },
+    {
+      "onion": 15,
+      "trans": 159,
+      "n": 155,
+      "n_red": 19,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 9
+        },
+        {
+          "start": 10,
+          "len": 10
+        }
+      ],
+      "line_counts": [
+        9,
+        1,
+        19,
+        15,
+        20,
+        23,
+        23,
+        22,
+        22
+      ]
+    },
+    {
+      "onion": 23,
+      "trans": 213,
+      "n": 216,
+      "n_red": 16,
+      "red_runs": [
+        {
+          "start": 3,
+          "len": 16
+        }
+      ],
+      "line_counts": [
+        3,
+        19,
+        17,
+        17,
+        23,
+        23,
+        23,
+        22,
+        22,
+        25,
+        21
+      ]
+    },
+    {
+      "onion": 27,
+      "trans": 234,
+      "n": 235,
+      "n_red": 19,
+      "red_runs": [
+        {
+          "start": 1,
+          "len": 19
+        }
+      ],
+      "line_counts": [
+        19,
+        17,
+        18,
+        22,
+        21,
+        22,
+        25,
+        21,
+        24,
+        22,
+        22
+      ]
+    },
+    {
+      "onion": 33,
+      "trans": 214,
+      "n": 221,
+      "n_red": 18,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 10
+        },
+        {
+          "start": 91,
+          "len": 8
+        }
+      ],
+      "line_counts": [
+        17,
+        16,
+        18,
+        23,
+        16,
+        18,
+        18,
+        18,
+        22,
+        22,
+        24,
+        4,
+        3
+      ]
+    },
+    {
+      "onion": 39,
+      "trans": 240,
+      "n": 247,
+      "n_red": 3,
+      "red_runs": [
+        {
+          "start": 126,
+          "len": 3
+        }
+      ],
+      "line_counts": [
+        4,
+        3,
+        23,
+        22,
+        24,
+        22,
+        23,
+        5,
+        18,
+        18,
+        18,
+        26,
+        23,
+        17
+      ]
+    },
+    {
+      "onion": 40,
+      "trans": 231,
+      "n": 228,
+      "n_red": 6,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 6
+        }
+      ],
+      "line_counts": [
+        16,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        24,
+        20,
+        23,
+        19
+      ]
+    },
+    {
+      "onion": 53,
+      "trans": 179,
+      "n": 173,
+      "n_red": 51,
+      "red_runs": [
+        {
+          "start": 120,
+          "len": 1
+        },
+        {
+          "start": 122,
+          "len": 50
+        }
+      ],
+      "line_counts": [
+        22,
+        18,
+        15,
+        23,
+        23,
+        19,
+        25,
+        22,
+        4
+      ]
+    },
+    {
+      "onion": 54,
+      "trans": 232,
+      "n": 230,
+      "n_red": 8,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 8
+        }
+      ],
+      "line_counts": [
+        18,
+        20,
+        15,
+        23,
+        22,
+        23,
+        21,
+        23,
+        21,
+        22,
+        21
+      ]
+    },
+    {
+      "onion": 56,
+      "trans": 85,
+      "n": 83,
+      "n_red": 4,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 4
+        }
+      ],
+      "line_counts": [
+        18,
+        17,
+        4,
+        22,
+        18,
+        3
+      ]
+    },
+    {
+      "onion": 57,
+      "trans": 95,
+      "n": 98,
+      "n_red": 9,
+      "red_runs": [
+        {
+          "start": 0,
+          "len": 8
+        },
+        {
+          "start": 38,
+          "len": 1
+        }
+      ],
+      "line_counts": [
+        20,
+        17,
+        18,
+        18,
+        23,
+        1
+      ]
+    }
+  ],
+  "heading_hits": [],
+  "skel_keeps": [],
+  "skel_top": [
+    {
+      "run": 8,
+      "split": 63,
+      "hay": "liber_al",
+      "pos": 1416,
+      "needle_n": 67
+    },
+    {
+      "run": 8,
+      "split": 39,
+      "hay": "moby",
+      "pos": 50454,
+      "needle_n": 64
+    },
+    {
+      "run": 8,
+      "split": 24,
+      "hay": "liber_al",
+      "pos": 5459,
+      "needle_n": 57
+    },
+    {
+      "run": 7,
+      "split": 68,
+      "hay": "wiki_enoch",
+      "pos": 16040,
+      "needle_n": 40
+    },
+    {
+      "run": 7,
+      "split": 63,
+      "hay": "moby",
+      "pos": 12224,
+      "needle_n": 67
+    },
+    {
+      "run": 7,
+      "split": 56,
+      "hay": "moby",
+      "pos": 33255,
+      "needle_n": 62
+    },
+    {
+      "run": 7,
+      "split": 51,
+      "hay": "moby",
+      "pos": 69039,
+      "needle_n": 50
+    },
+    {
+      "run": 7,
+      "split": 51,
+      "hay": "liber_al",
+      "pos": 3676,
+      "needle_n": 50
+    },
+    {
+      "run": 7,
+      "split": 44,
+      "hay": "moby",
+      "pos": 16287,
+      "needle_n": 71
+    },
+    {
+      "run": 7,
+      "split": 37,
+      "hay": "wiki_discordia",
+      "pos": 1022,
+      "needle_n": 28
+    },
+    {
+      "run": 7,
+      "split": 33,
+      "hay": "moby",
+      "pos": 24554,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 27,
+      "hay": "moby",
+      "pos": 22237,
+      "needle_n": 65
+    },
+    {
+      "run": 6,
+      "split": 68,
+      "hay": "wiki_discordia",
+      "pos": 1225,
+      "needle_n": 40
+    },
+    {
+      "run": 6,
+      "split": 63,
+      "hay": "wiki_hermetica",
+      "pos": 705,
+      "needle_n": 67
+    },
+    {
+      "run": 6,
+      "split": 63,
+      "hay": "wiki_enoch",
+      "pos": 1567,
+      "needle_n": 67
+    },
+    {
+      "run": 6,
+      "split": 61,
+      "hay": "wiki_enoch",
+      "pos": 4337,
+      "needle_n": 61
+    },
+    {
+      "run": 6,
+      "split": 61,
+      "hay": "moby",
+      "pos": 49029,
+      "needle_n": 61
+    },
+    {
+      "run": 6,
+      "split": 51,
+      "hay": "wiki_enoch",
+      "pos": 6594,
+      "needle_n": 50
+    },
+    {
+      "run": 6,
+      "split": 50,
+      "hay": "moby",
+      "pos": 46737,
+      "needle_n": 61
+    },
+    {
+      "run": 6,
+      "split": 49,
+      "hay": "moby",
+      "pos": 26400,
+      "needle_n": 61
+    }
+  ],
+  "hay_n": {
+    "moby": 71509,
+    "wiki_enoch": 16263,
+    "wiki_hermetica": 10685,
+    "wiki_discordia": 3151,
+    "liber_al": 6103
+  }
+}

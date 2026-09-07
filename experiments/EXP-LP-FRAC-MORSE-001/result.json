@@ -1,0 +1,27 @@
+{
+  "experiment": "EXP-LP-FRAC-MORSE-001",
+  "family": "fractionated Morse (variable Latin Morse + X, keyed 27-table)",
+  "plant": {
+    "roundtrip": true,
+    "wrong": true,
+    "want_head": "THEPRIMESARESACREDTHETOTIENTFVNCTIANISSA",
+    "got_head": "THEPRIMESARESACREDTHETOTIENTFVNCTIANISSA",
+    "ok": true
+  },
+  "tested": 324,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "key": "ANEND",
+    "span": "split066",
+    "head": "NNTYOEEEMRXVMRAENTKMTERMTETTETEPSIENTENTGNTWETT",
+    "trigram_per_100": 6.382978723404255,
+    "ioc": 0.12727272727272726
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "note": "Distinct from Trifid-27 (fixed 3-trit). Runes 27\u201328 dropped on decrypt."
+}

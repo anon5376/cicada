@@ -1,0 +1,5 @@
+{
+  "rule": "PLAUSIBLE: rtkd split_index = 15 + onion_index for onion 0.jpg..",
+  "support": "split_015 begins with the same rune prefix the wiki uses for 0.jpg; 56/57 prefixes located as printed above",
+  "status": "PLAUSIBLE_NOT_VERIFIED_AGAINST_IMAGE_OVERLAY"
+}

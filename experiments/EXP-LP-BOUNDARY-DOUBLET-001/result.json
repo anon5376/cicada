@@ -1,0 +1,1077 @@
+{
+  "experiment_id": "EXP-LP-BOUNDARY-DOUBLET-001",
+  "question": "Does the anti-doublet rule apply to the whole rune stream, or does it reset at transcribed word / line boundaries?",
+  "null": "2000 within-page rune shuffles (marginals and layout fixed)",
+  "mapping_version": "mapping-v1-wiki-2026-09-07",
+  "corpora": [
+    {
+      "corpus": "unsolved_15_70",
+      "splits": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "pages": 55,
+      "runes": 12956,
+      "ioc": 0.03455,
+      "lags": {
+        "1": {
+          "none": {
+            "pairs": 9640,
+            "observed": 60,
+            "rate": 0.00622,
+            "null_mean": 328.0,
+            "null_sd": 18.36,
+            "null_rate": 0.03402,
+            "z": -14.59,
+            "ratio_obs_over_null": 0.183
+          },
+          "sep": {
+            "pairs": 2588,
+            "observed": 21,
+            "rate": 0.00811,
+            "null_mean": 88.1,
+            "null_sd": 9.17,
+            "null_rate": 0.03404,
+            "z": -7.32,
+            "ratio_obs_over_null": 0.238
+          },
+          "brk": {
+            "pairs": 515,
+            "observed": 4,
+            "rate": 0.00777,
+            "null_mean": 17.55,
+            "null_sd": 4.14,
+            "null_rate": 0.03408,
+            "z": -3.28,
+            "ratio_obs_over_null": 0.228
+          },
+          "punct": {
+            "pairs": 148,
+            "observed": 1,
+            "rate": 0.00676,
+            "null_mean": 5.07,
+            "null_sd": 2.18,
+            "null_rate": 0.03425,
+            "z": -1.86,
+            "ratio_obs_over_null": 0.197
+          },
+          "ALL": {
+            "pairs": 12891,
+            "observed": 86,
+            "rate": 0.00667,
+            "null_mean": 438.73,
+            "null_sd": 21.18,
+            "z": -16.65,
+            "ratio_obs_over_null": 0.196
+          }
+        },
+        "2": {
+          "none": {
+            "pairs": 9593,
+            "observed": 336,
+            "rate": 0.03503,
+            "null_mean": 327.05,
+            "null_sd": 17.47,
+            "null_rate": 0.03409,
+            "z": 0.51,
+            "ratio_obs_over_null": 1.027
+          },
+          "sep": {
+            "pairs": 2580,
+            "observed": 79,
+            "rate": 0.03062,
+            "null_mean": 87.79,
+            "null_sd": 9.12,
+            "null_rate": 0.03403,
+            "z": -0.96,
+            "ratio_obs_over_null": 0.9
+          },
+          "brk": {
+            "pairs": 515,
+            "observed": 17,
+            "rate": 0.03301,
+            "null_mean": 17.5,
+            "null_sd": 4.07,
+            "null_rate": 0.03398,
+            "z": -0.12,
+            "ratio_obs_over_null": 0.971
+          },
+          "punct": {
+            "pairs": 148,
+            "observed": 3,
+            "rate": 0.02027,
+            "null_mean": 5.09,
+            "null_sd": 2.26,
+            "null_rate": 0.03442,
+            "z": -0.93,
+            "ratio_obs_over_null": 0.589
+          },
+          "ALL": {
+            "pairs": 12836,
+            "observed": 435,
+            "rate": 0.03389,
+            "null_mean": 437.43,
+            "null_sd": 20.4,
+            "z": -0.12,
+            "ratio_obs_over_null": 0.994
+          }
+        },
+        "3": {
+          "none": {
+            "pairs": 9544,
+            "observed": 320,
+            "rate": 0.03353,
+            "null_mean": 325.23,
+            "null_sd": 17.6,
+            "null_rate": 0.03408,
+            "z": -0.3,
+            "ratio_obs_over_null": 0.984
+          },
+          "sep": {
+            "pairs": 2575,
+            "observed": 84,
+            "rate": 0.03262,
+            "null_mean": 87.89,
+            "null_sd": 9.0,
+            "null_rate": 0.03413,
+            "z": -0.43,
+            "ratio_obs_over_null": 0.956
+          },
+          "brk": {
+            "pairs": 515,
+            "observed": 23,
+            "rate": 0.04466,
+            "null_mean": 17.45,
+            "null_sd": 4.08,
+            "null_rate": 0.03388,
+            "z": 1.36,
+            "ratio_obs_over_null": 1.318
+          },
+          "punct": {
+            "pairs": 147,
+            "observed": 7,
+            "rate": 0.04762,
+            "null_mean": 4.96,
+            "null_sd": 2.13,
+            "null_rate": 0.03376,
+            "z": 0.95,
+            "ratio_obs_over_null": 1.411
+          },
+          "ALL": {
+            "pairs": 12781,
+            "observed": 434,
+            "rate": 0.03396,
+            "null_mean": 435.53,
+            "null_sd": 20.1,
+            "z": -0.08,
+            "ratio_obs_over_null": 0.996
+          }
+        }
+      }
+    },
+    {
+      "corpus": "solved_early_0_14",
+      "splits": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "pages": 15,
+      "runes": 2797,
+      "ioc": 0.04016,
+      "lags": {
+        "1": {
+          "none": {
+            "pairs": 2025,
+            "observed": 47,
+            "rate": 0.02321,
+            "null_mean": 112.59,
+            "null_sd": 9.9,
+            "null_rate": 0.0556,
+            "z": -6.63,
+            "ratio_obs_over_null": 0.417
+          },
+          "sep": {
+            "pairs": 563,
+            "observed": 17,
+            "rate": 0.0302,
+            "null_mean": 31.38,
+            "null_sd": 5.58,
+            "null_rate": 0.05574,
+            "z": -2.58,
+            "ratio_obs_over_null": 0.542
+          },
+          "brk": {
+            "pairs": 111,
+            "observed": 5,
+            "rate": 0.04505,
+            "null_mean": 6.11,
+            "null_sd": 2.4,
+            "null_rate": 0.05501,
+            "z": -0.46,
+            "ratio_obs_over_null": 0.819
+          },
+          "punct": {
+            "pairs": 70,
+            "observed": 1,
+            "rate": 0.01429,
+            "null_mean": 4.03,
+            "null_sd": 1.94,
+            "null_rate": 0.05763,
+            "z": -1.56,
+            "ratio_obs_over_null": 0.248
+          },
+          "ALL": {
+            "pairs": 2769,
+            "observed": 70,
+            "rate": 0.02528,
+            "null_mean": 154.11,
+            "null_sd": 11.58,
+            "z": -7.26,
+            "ratio_obs_over_null": 0.454
+          }
+        },
+        "2": {
+          "none": {
+            "pairs": 2011,
+            "observed": 77,
+            "rate": 0.03829,
+            "null_mean": 111.58,
+            "null_sd": 10.45,
+            "null_rate": 0.05548,
+            "z": -3.31,
+            "ratio_obs_over_null": 0.69
+          },
+          "sep": {
+            "pairs": 563,
+            "observed": 49,
+            "rate": 0.08703,
+            "null_mean": 31.38,
+            "null_sd": 5.37,
+            "null_rate": 0.05574,
+            "z": 3.28,
+            "ratio_obs_over_null": 1.561
+          },
+          "brk": {
+            "pairs": 110,
+            "observed": 4,
+            "rate": 0.03636,
+            "null_mean": 6.15,
+            "null_sd": 2.33,
+            "null_rate": 0.05588,
+            "z": -0.92,
+            "ratio_obs_over_null": 0.651
+          },
+          "punct": {
+            "pairs": 70,
+            "observed": 7,
+            "rate": 0.1,
+            "null_mean": 3.95,
+            "null_sd": 1.87,
+            "null_rate": 0.05639,
+            "z": 1.63,
+            "ratio_obs_over_null": 1.773
+          },
+          "ALL": {
+            "pairs": 2754,
+            "observed": 137,
+            "rate": 0.04975,
+            "null_mean": 153.05,
+            "null_sd": 11.77,
+            "z": -1.36,
+            "ratio_obs_over_null": 0.895
+          }
+        },
+        "3": {
+          "none": {
+            "pairs": 1997,
+            "observed": 111,
+            "rate": 0.05558,
+            "null_mean": 110.73,
+            "null_sd": 10.19,
+            "null_rate": 0.05545,
+            "z": 0.03,
+            "ratio_obs_over_null": 1.002
+          },
+          "sep": {
+            "pairs": 563,
+            "observed": 21,
+            "rate": 0.0373,
+            "null_mean": 30.98,
+            "null_sd": 5.37,
+            "null_rate": 0.05502,
+            "z": -1.86,
+            "ratio_obs_over_null": 0.678
+          },
+          "brk": {
+            "pairs": 110,
+            "observed": 7,
+            "rate": 0.06364,
+            "null_mean": 6.08,
+            "null_sd": 2.37,
+            "null_rate": 0.0553,
+            "z": 0.39,
+            "ratio_obs_over_null": 1.151
+          },
+          "punct": {
+            "pairs": 69,
+            "observed": 3,
+            "rate": 0.04348,
+            "null_mean": 3.93,
+            "null_sd": 1.94,
+            "null_rate": 0.05694,
+            "z": -0.48,
+            "ratio_obs_over_null": 0.764
+          },
+          "ALL": {
+            "pairs": 2739,
+            "observed": 142,
+            "rate": 0.05184,
+            "null_mean": 151.72,
+            "null_sd": 11.88,
+            "z": -0.82,
+            "ratio_obs_over_null": 0.936
+          }
+        }
+      }
+    },
+    {
+      "corpus": "fixture_pages_71_72",
+      "splits": [
+        71,
+        72
+      ],
+      "pages": 2,
+      "runes": 180,
+      "ioc": 0.04753,
+      "lags": {
+        "1": {
+          "none": {
+            "pairs": 129,
+            "observed": 2,
+            "rate": 0.0155,
+            "null_mean": 6.51,
+            "null_sd": 2.36,
+            "null_rate": 0.05043,
+            "z": -1.91,
+            "ratio_obs_over_null": 0.307
+          },
+          "sep": {
+            "pairs": 38,
+            "observed": 1,
+            "rate": 0.02632,
+            "null_mean": 1.7,
+            "null_sd": 1.27,
+            "null_rate": 0.0448,
+            "z": -0.55,
+            "ratio_obs_over_null": 0.587
+          },
+          "brk": {
+            "pairs": 6,
+            "observed": 0,
+            "rate": 0.0,
+            "null_mean": 0.28,
+            "null_sd": 0.52,
+            "null_rate": 0.04608,
+            "z": -0.53,
+            "ratio_obs_over_null": 0.0
+          },
+          "punct": {
+            "pairs": 4,
+            "observed": 0,
+            "rate": 0.0,
+            "null_mean": 0.22,
+            "null_sd": 0.47,
+            "null_rate": 0.055,
+            "z": -0.47,
+            "ratio_obs_over_null": 0.0
+          },
+          "ALL": {
+            "pairs": 177,
+            "observed": 3,
+            "rate": 0.01695,
+            "null_mean": 8.71,
+            "null_sd": 2.73,
+            "z": -2.09,
+            "ratio_obs_over_null": 0.345
+          }
+        },
+        "2": {
+          "none": {
+            "pairs": 127,
+            "observed": 10,
+            "rate": 0.07874,
+            "null_mean": 6.29,
+            "null_sd": 2.38,
+            "null_rate": 0.0495,
+            "z": 1.56,
+            "ratio_obs_over_null": 1.591
+          },
+          "sep": {
+            "pairs": 38,
+            "observed": 2,
+            "rate": 0.05263,
+            "null_mean": 1.75,
+            "null_sd": 1.29,
+            "null_rate": 0.04597,
+            "z": 0.2,
+            "ratio_obs_over_null": 1.145
+          },
+          "brk": {
+            "pairs": 6,
+            "observed": 0,
+            "rate": 0.0,
+            "null_mean": 0.29,
+            "null_sd": 0.52,
+            "null_rate": 0.04783,
+            "z": -0.55,
+            "ratio_obs_over_null": 0.0
+          },
+          "punct": {
+            "pairs": 4,
+            "observed": 1,
+            "rate": 0.25,
+            "null_mean": 0.23,
+            "null_sd": 0.46,
+            "null_rate": 0.057,
+            "z": 1.69,
+            "ratio_obs_over_null": 4.386
+          },
+          "ALL": {
+            "pairs": 175,
+            "observed": 13,
+            "rate": 0.07429,
+            "null_mean": 8.55,
+            "null_sd": 2.73,
+            "z": 1.63,
+            "ratio_obs_over_null": 1.521
+          }
+        },
+        "3": {
+          "none": {
+            "pairs": 125,
+            "observed": 4,
+            "rate": 0.032,
+            "null_mean": 6.19,
+            "null_sd": 2.36,
+            "null_rate": 0.0495,
+            "z": -0.93,
+            "ratio_obs_over_null": 0.646
+          },
+          "sep": {
+            "pairs": 38,
+            "observed": 1,
+            "rate": 0.02632,
+            "null_mean": 1.75,
+            "null_sd": 1.31,
+            "null_rate": 0.04609,
+            "z": -0.57,
+            "ratio_obs_over_null": 0.571
+          },
+          "brk": {
+            "pairs": 6,
+            "observed": 1,
+            "rate": 0.16667,
+            "null_mean": 0.28,
+            "null_sd": 0.52,
+            "null_rate": 0.04675,
+            "z": 1.39,
+            "ratio_obs_over_null": 3.565
+          },
+          "punct": {
+            "pairs": 4,
+            "observed": 0,
+            "rate": 0.0,
+            "null_mean": 0.21,
+            "null_sd": 0.44,
+            "null_rate": 0.0515,
+            "z": -0.47,
+            "ratio_obs_over_null": 0.0
+          },
+          "ALL": {
+            "pairs": 173,
+            "observed": 6,
+            "rate": 0.03468,
+            "null_mean": 8.43,
+            "null_sd": 2.79,
+            "z": -0.87,
+            "ratio_obs_over_null": 0.712
+          }
+        }
+      }
+    }
+  ],
+  "part2_delta_shape": {
+    "n_pairs": 12891,
+    "delta_observed": [
+      86,
+      456,
+      503,
+      436,
+      435,
+      445,
+      429,
+      470,
+      425,
+      510,
+      497,
+      454,
+      442,
+      499,
+      469,
+      468,
+      446,
+      401,
+      431,
+      470,
+      467,
+      460,
+      420,
+      485,
+      466,
+      464,
+      455,
+      472,
+      430
+    ],
+    "delta_null_mean": [
+      439.02,
+      445.31,
+      445.02,
+      442.03,
+      446.23,
+      442.67,
+      444.29,
+      447.1,
+      447.32,
+      443.09,
+      445.12,
+      443.11,
+      446.33,
+      446.13,
+      443.51,
+      443.74,
+      446.28,
+      446.51,
+      443.13,
+      445.07,
+      443.1,
+      446.65,
+      446.75,
+      443.26,
+      442.33,
+      445.55,
+      441.91,
+      445.02,
+      445.41
+    ],
+    "delta_z": [
+      -16.65,
+      0.52,
+      2.83,
+      -0.29,
+      -0.56,
+      0.11,
+      -0.74,
+      1.1,
+      -1.1,
+      3.22,
+      2.56,
+      0.53,
+      -0.21,
+      2.55,
+      1.23,
+      1.17,
+      -0.01,
+      -2.19,
+      -0.6,
+      1.21,
+      1.17,
+      0.63,
+      -1.29,
+      2.03,
+      1.14,
+      0.89,
+      0.63,
+      1.31,
+      -0.73
+    ],
+    "missing_doublet_mass": 353.0,
+    "nonzero_chi2": 42.2,
+    "nonzero_chi2_df": 27,
+    "R2_nudge_sigma": -16.68,
+    "R1_keyadvance_sigma": -0.09,
+    "fixtures": [
+      {
+        "stage_id": "lp1.warning",
+        "method": "atbash",
+        "n": 184,
+        "ct_doublets": 5,
+        "pt_doublets": 5,
+        "expected_at_chance": 6.3
+      },
+      {
+        "stage_id": "lp1.wisdom",
+        "method": "direct",
+        "n": 157,
+        "ct_doublets": 7,
+        "pt_doublets": 7,
+        "expected_at_chance": 5.4
+      },
+      {
+        "stage_id": "lp2.page57_parable",
+        "method": "direct",
+        "n": 95,
+        "ct_doublets": 1,
+        "pt_doublets": 1,
+        "expected_at_chance": 3.2
+      },
+      {
+        "stage_id": "lp2.page56_an_end",
+        "method": "totient_prime_skip_4th_ct_f",
+        "n": 85,
+        "ct_doublets": 2,
+        "pt_doublets": 3,
+        "expected_at_chance": 2.9
+      }
+    ],
+    "per_page": [
+      {
+        "split": 15,
+        "runes": 262,
+        "doublets": 2
+      },
+      {
+        "split": 16,
+        "runes": 266,
+        "doublets": 1
+      },
+      {
+        "split": 17,
+        "runes": 201,
+        "doublets": 1
+      },
+      {
+        "split": 18,
+        "runes": 217,
+        "doublets": 3
+      },
+      {
+        "split": 19,
+        "runes": 261,
+        "doublets": 2
+      },
+      {
+        "split": 20,
+        "runes": 263,
+        "doublets": 0
+      },
+      {
+        "split": 21,
+        "runes": 196,
+        "doublets": 1
+      },
+      {
+        "split": 22,
+        "runes": 208,
+        "doublets": 0
+      },
+      {
+        "split": 23,
+        "runes": 255,
+        "doublets": 3
+      },
+      {
+        "split": 24,
+        "runes": 268,
+        "doublets": 3
+      },
+      {
+        "split": 25,
+        "runes": 263,
+        "doublets": 1
+      },
+      {
+        "split": 26,
+        "runes": 273,
+        "doublets": 1
+      },
+      {
+        "split": 27,
+        "runes": 261,
+        "doublets": 1
+      },
+      {
+        "split": 28,
+        "runes": 272,
+        "doublets": 0
+      },
+      {
+        "split": 29,
+        "runes": 137,
+        "doublets": 0
+      },
+      {
+        "split": 30,
+        "runes": 159,
+        "doublets": 0
+      },
+      {
+        "split": 31,
+        "runes": 267,
+        "doublets": 1
+      },
+      {
+        "split": 32,
+        "runes": 273,
+        "doublets": 0
+      },
+      {
+        "split": 33,
+        "runes": 260,
+        "doublets": 1
+      },
+      {
+        "split": 34,
+        "runes": 271,
+        "doublets": 5
+      },
+      {
+        "split": 35,
+        "runes": 269,
+        "doublets": 1
+      },
+      {
+        "split": 36,
+        "runes": 273,
+        "doublets": 1
+      },
+      {
+        "split": 37,
+        "runes": 131,
+        "doublets": 1
+      },
+      {
+        "split": 38,
+        "runes": 213,
+        "doublets": 1
+      },
+      {
+        "split": 39,
+        "runes": 270,
+        "doublets": 5
+      },
+      {
+        "split": 40,
+        "runes": 273,
+        "doublets": 3
+      },
+      {
+        "split": 41,
+        "runes": 265,
+        "doublets": 2
+      },
+      {
+        "split": 42,
+        "runes": 234,
+        "doublets": 5
+      },
+      {
+        "split": 43,
+        "runes": 269,
+        "doublets": 0
+      },
+      {
+        "split": 44,
+        "runes": 277,
+        "doublets": 4
+      },
+      {
+        "split": 45,
+        "runes": 263,
+        "doublets": 2
+      },
+      {
+        "split": 46,
+        "runes": 269,
+        "doublets": 0
+      },
+      {
+        "split": 47,
+        "runes": 121,
+        "doublets": 2
+      },
+      {
+        "split": 48,
+        "runes": 214,
+        "doublets": 2
+      },
+      {
+        "split": 49,
+        "runes": 261,
+        "doublets": 3
+      },
+      {
+        "split": 50,
+        "runes": 271,
+        "doublets": 3
+      },
+      {
+        "split": 51,
+        "runes": 238,
+        "doublets": 3
+      },
+      {
+        "split": 52,
+        "runes": 228,
+        "doublets": 0
+      },
+      {
+        "split": 53,
+        "runes": 228,
+        "doublets": 0
+      },
+      {
+        "split": 54,
+        "runes": 240,
+        "doublets": 1
+      },
+      {
+        "split": 55,
+        "runes": 231,
+        "doublets": 0
+      },
+      {
+        "split": 56,
+        "runes": 273,
+        "doublets": 2
+      },
+      {
+        "split": 57,
+        "runes": 272,
+        "doublets": 1
+      },
+      {
+        "split": 58,
+        "runes": 274,
+        "doublets": 3
+      },
+      {
+        "split": 59,
+        "runes": 273,
+        "doublets": 4
+      },
+      {
+        "split": 60,
+        "runes": 270,
+        "doublets": 2
+      },
+      {
+        "split": 61,
+        "runes": 270,
+        "doublets": 1
+      },
+      {
+        "split": 62,
+        "runes": 274,
+        "doublets": 2
+      },
+      {
+        "split": 63,
+        "runes": 271,
+        "doublets": 1
+      },
+      {
+        "split": 64,
+        "runes": 66,
+        "doublets": 0
+      },
+      {
+        "split": 66,
+        "runes": 92,
+        "doublets": 1
+      },
+      {
+        "split": 67,
+        "runes": 263,
+        "doublets": 1
+      },
+      {
+        "split": 68,
+        "runes": 179,
+        "doublets": 0
+      },
+      {
+        "split": 69,
+        "runes": 232,
+        "doublets": 2
+      },
+      {
+        "split": 70,
+        "runes": 76,
+        "doublets": 1
+      }
+    ],
+    "per_page_chi2": 58.5,
+    "per_page_df": 54
+  },
+  "part3_flatness": {
+    "n_shuffle": 4000,
+    "obs_chi2_nonzero": 42.2,
+    "null_chi2_mean": 27.0,
+    "null_chi2_sd": 7.4,
+    "null_chi2_p95": 40.1,
+    "p_chi2_empirical": 0.0318,
+    "obs_max_abs_z": 3.21,
+    "obs_max_abs_z_at_d": 9,
+    "null_max_abs_z_mean": 2.29,
+    "null_max_abs_z_p95": 3.13,
+    "p_max_abs_z_familywise": 0.038,
+    "page56_control": {
+      "pairs": 84,
+      "observed_ct_doublets": 2,
+      "lambda_under_filter": 0.56,
+      "p_ge2_under_filter": 0.109,
+      "verdict": "weak evidence against the filter on page 56; not an exclusion at n=84"
+    }
+  },
+  "part4_splithalf": {
+    "half_A_splits": [
+      16,
+      18,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50,
+      52,
+      54,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70
+    ],
+    "half_B_splits": [
+      15,
+      17,
+      19,
+      21,
+      23,
+      25,
+      27,
+      29,
+      31,
+      33,
+      35,
+      37,
+      39,
+      41,
+      43,
+      45,
+      47,
+      49,
+      51,
+      53,
+      55,
+      57,
+      59,
+      61,
+      63,
+      65,
+      67,
+      69
+    ],
+    "n_shuffle": 3000,
+    "z_d0_halfA": -11.96,
+    "z_d0_halfB": -12.22,
+    "residual_corr_d1_28": 0.061,
+    "max_abs_z_halfA": 3.48,
+    "argmax_halfA": 2,
+    "max_abs_z_halfB": 3.32,
+    "argmax_halfB": 13,
+    "z_d9_halfA": 1.27,
+    "z_d9_halfB": 3.28,
+    "verdict": "the d=0 deficit replicates in both halves; the nonzero residual does not (corr +0.06, argmax moves). The part-3 chi2/max|z| marginals are scan noise, not key structure."
+  }
+}

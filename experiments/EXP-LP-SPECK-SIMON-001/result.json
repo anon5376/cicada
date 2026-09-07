@@ -1,0 +1,57 @@
+{
+  "experiment": "EXP-LP-SPECK-SIMON-001",
+  "family": "SPECK-64/128 + SIMON-64/128 CTR + xoroshiro128** (`%29` + speck hi5)",
+  "plant": {
+    "det": true,
+    "ne_simon": true,
+    "ne_xoro": true,
+    "ne_hi": true,
+    "speck64_128_rigid": true,
+    "speck64_128_beam": {
+      "agree": 0.963,
+      "ok": true
+    },
+    "speck64_128_wrong": true,
+    "simon64_128_rigid": true,
+    "simon64_128_beam": {
+      "agree": 0.8765,
+      "ok": true
+    },
+    "simon64_128_wrong": true,
+    "xoroshiro128ss_rigid": true,
+    "xoroshiro128ss_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "xoroshiro128ss_wrong": true,
+    "speck_hi5_rigid": true,
+    "speck_hi5_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "speck_hi5_wrong": true,
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 11022,
+  "tested_beam": 132,
+  "tested": 11154,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "simon64_128",
+    "seed": "int:3301",
+    "span": "split047",
+    "rel": "beau",
+    "head": "AEPGGIAIAYVIATHRBNGDMOESEOLOEIAEOCERTYEACTHSSTHFJTDSSTYSNNHNGXXTHERRDIAOEOMSNGTN",
+    "trigram_per_100": 3.8461538461538463,
+    "ioc": 0.03650137741046832
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "boundary": "not a 2^128 grind; AES-CTR / ChaCha / xoshiro256 already closed"
+}

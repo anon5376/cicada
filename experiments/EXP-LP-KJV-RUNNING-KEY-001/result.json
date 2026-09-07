@@ -1,0 +1,150 @@
+{
+  "fetches": [
+    {
+      "name": "kjv",
+      "ok": true,
+      "runes": 220000,
+      "sha": "a681fbe6e2fc77d72d8d9cdb72ec81133cbdc17ecfd1f9449fb6d9310093f42b",
+      "source": "cas"
+    },
+    {
+      "name": "shakespeare",
+      "ok": true,
+      "runes": 220000,
+      "sha": "7c87c9da9ad1c94545cd5db555ca1fc7ce982182ad9e1723dfa4f9670e0f40c4",
+      "source": "cas"
+    },
+    {
+      "name": "plost",
+      "ok": true,
+      "runes": 220000,
+      "sha": "93ec3b4c8ca9ef0ae0438823fc5ec6105029afdf4303c97779123fd80954492c"
+    }
+  ],
+  "keeps": [
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.06593406593406594,
+      "hay": "kjv",
+      "head": "MOAOELBAEAFISLATNGWINGOEEANGEAEALNGNGBIHAVJNGYWINGEASGAEEOEYOAJJNGEABRNGOEOINGJW",
+      "ioc": 0.04801720019111323,
+      "length": 123,
+      "pos": 142861,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 4.065040650406504,
+      "vowelish_ratio": 0.4715447154471545
+    },
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.054945054945054944,
+      "hay": "shakespeare",
+      "head": "FYMVEOETHEOIAENDTHVFVGGLEEODDDSIADMNIADAEFLECSNGTHAEEOOOEFEALVDIAEABBCTHDTHETHWA",
+      "ioc": 0.05207835642618251,
+      "length": 124,
+      "pos": 40610,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 4.838709677419355,
+      "vowelish_ratio": 0.3870967741935484
+    },
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.02197802197802198,
+      "hay": "shakespeare",
+      "head": "FENJDTHCEATHTAETHAENBTNOVEOEAETHTEANJEJONGTHHLTHEIAOAELGPXTHLCHJFLNGRCAECFTCVTXH",
+      "ioc": 0.053750597228858096,
+      "length": 125,
+      "pos": 54394,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 4.8,
+      "vowelish_ratio": 0.392
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.06593406593406594,
+      "hay": "shakespeare",
+      "head": "CIHNGNTHNTHRTHINSROENGNNGHHNNNCTEAGNORTNXNGLINGCRNIARNEAHEFTEOHGTHEAESBSLVTIAIAR",
+      "ioc": 0.050883898709985664,
+      "length": 115,
+      "pos": 90257,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 4.3478260869565215,
+      "vowelish_ratio": 0.28695652173913044
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.02197802197802198,
+      "hay": "shakespeare",
+      "head": "AEEOHNEAWVGPOETJXCIAYFIANDYTOIAFBJRTANTHIATHANWNYOYIAIAAYEANGNRPIAYXIAEFTATHTGEA",
+      "ioc": 0.04992833253702819,
+      "length": 117,
+      "pos": 195907,
+      "rel": "add",
+      "span": "split066",
+      "trigram_per_100": 4.273504273504273,
+      "vowelish_ratio": 0.49572649572649574
+    }
+  ],
+  "review": [
+    {
+      "hay": "kjv",
+      "head": "MOAOELBAEAFISLATNGWINGOEEANGEAEALNGNGBIHAVJNGYWINGEASGAEEOEYOAJJNGEABRNGOEOINGJW",
+      "ioc": 0.04801720019111323,
+      "pos": 142861,
+      "rel": "sub",
+      "span": "split066",
+      "th_count": 0,
+      "trigram_per_100": 4.065040650406504,
+      "verdict": "scorer artifact; unreadable; all five keeps are on short split066"
+    },
+    {
+      "hay": "shakespeare",
+      "head": "FYMVEOETHEOIAENDTHVFVGGLEEODDDSIADMNIADAEFLECSNGTHAEEOOOEFEALVDIAEABBCTHDTHETHWA",
+      "ioc": 0.05207835642618251,
+      "pos": 40610,
+      "rel": "sub",
+      "span": "split066",
+      "th_count": 6,
+      "trigram_per_100": 4.838709677419355,
+      "verdict": "scorer artifact; unreadable; all five keeps are on short split066"
+    },
+    {
+      "hay": "shakespeare",
+      "head": "FENJDTHCEATHTAETHAENBTNOVEOEAETHTEANJEJONGTHHLTHEIAOAELGPXTHLCHJFLNGRCAECFTCVTXH",
+      "ioc": 0.053750597228858096,
+      "pos": 54394,
+      "rel": "sub",
+      "span": "split066",
+      "th_count": 7,
+      "trigram_per_100": 4.8,
+      "verdict": "scorer artifact; unreadable; all five keeps are on short split066"
+    },
+    {
+      "hay": "shakespeare",
+      "head": "CIHNGNTHNTHRTHINSROENGNNGHHNNNCTEAGNORTNXNGLINGCRNIARNEAHEFTEOHGTHEAESBSLVTIAIAR",
+      "ioc": 0.050883898709985664,
+      "pos": 90257,
+      "rel": "sub",
+      "span": "split066",
+      "th_count": 4,
+      "trigram_per_100": 4.3478260869565215,
+      "verdict": "scorer artifact; unreadable; all five keeps are on short split066"
+    },
+    {
+      "hay": "shakespeare",
+      "head": "AEEOHNEAWVGPOETJXCIAYFIANDYTOIAFBJRTANTHIATHANWNYOYIAIAAYEANGNRPIAYXIAEFTATHTGEA",
+      "ioc": 0.04992833253702819,
+      "pos": 195907,
+      "rel": "add",
+      "span": "split066",
+      "th_count": 3,
+      "trigram_per_100": 4.273504273504273,
+      "verdict": "scorer artifact; unreadable; all five keeps are on short split066"
+    }
+  ],
+  "rune_cap": 220000,
+  "tested": 486
+}

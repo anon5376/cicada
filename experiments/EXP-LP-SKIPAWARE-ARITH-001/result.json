@@ -1,0 +1,46 @@
+{
+  "keeps": [],
+  "plant": {
+    "agree": 0.8889,
+    "ok": false
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.022556390977443608,
+      "head": "PHETHGBIAEAXAELCFNCAEEAJNGVWTHHBCTDSOEEONMEAWAGHFWBNIAEOTWEOIVDMAEXTNGEOTAEFPGIA",
+      "ioc": 0.0349874686716792,
+      "length": 522,
+      "offset": 0,
+      "span": "prefix400",
+      "stream": "mu_plus1",
+      "trigram_per_100": 1.3409961685823755,
+      "vowelish_ratio": 0.43486590038314177
+    },
+    {
+      "common_trigram_hits": 3,
+      "doublet_rate": 0.01532567049808429,
+      "head": "PHETHGBIAEAXAELCFNCAEEAJNGVWTHHBCTDSOEEONMEAWAGHFWBNIAEOTWEOIVDMAEXTNGEOTAEFPGIA",
+      "ioc": 0.03383931443947238,
+      "length": 330,
+      "offset": 0,
+      "span": "split015",
+      "stream": "mu_plus1",
+      "trigram_per_100": 0.9090909090909091,
+      "vowelish_ratio": 0.4303030303030303
+    },
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.02506265664160401,
+      "head": "SHBORMYEAPYBNGOFIGAFILVNVHTGTASOEJHMEAHAERHVHBNYEOSNJIVOELYPSOEJTIAEAXREAXJTFEOE",
+      "ioc": 0.03458646616541353,
+      "length": 516,
+      "offset": 1,
+      "span": "prefix400",
+      "stream": "mu_plus1",
+      "trigram_per_100": 1.3565891472868217,
+      "vowelish_ratio": 0.43992248062015504
+    }
+  ],
+  "tested": 42
+}

@@ -1,0 +1,221 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-SECTIONS-001",
+  "family": "same-start skip-aware depth on n>=400 sections and 400-rune blocks",
+  "keep_bar": "detection only; not a Latin decrypt",
+  "plant": [
+    {
+      "n": 400,
+      "true": -0.59,
+      "shuffle_max": -1.897,
+      "sep": 2.34,
+      "beats": true
+    },
+    {
+      "n": 400,
+      "true": -2.104,
+      "shuffle_max": -3.674,
+      "sep": 2.5,
+      "beats": true
+    },
+    {
+      "n": 400,
+      "true": 5.927,
+      "shuffle_max": -1.897,
+      "sep": 7.41,
+      "beats": true
+    },
+    {
+      "n": 400,
+      "true": -1.11,
+      "shuffle_max": -2.117,
+      "sep": 2.46,
+      "beats": true
+    },
+    {
+      "n": 400,
+      "true": -0.423,
+      "shuffle_max": -2.015,
+      "sep": 2.77,
+      "beats": true
+    },
+    {
+      "n": 400,
+      "true": 4.151,
+      "shuffle_max": -2.535,
+      "sep": 5.24,
+      "beats": true
+    }
+  ],
+  "scans": {
+    "sections": {
+      "n_streams": 16,
+      "scores": 240,
+      "observed_max": 2.233,
+      "surrogate_max": 5.041,
+      "exceeds_surrogate": false,
+      "top_local": [
+        {
+          "a": "s33_head",
+          "b": "s33_tail",
+          "dir": "fwd",
+          "score": 2.233,
+          "shuffle_max": -1.915,
+          "sep": 4.25,
+          "beats": true
+        },
+        {
+          "a": "s3_head",
+          "b": "s8_head",
+          "dir": "rev",
+          "score": 1.545,
+          "shuffle_max": -1.631,
+          "sep": 3.55,
+          "beats": true
+        },
+        {
+          "a": "s0_tail",
+          "b": "s8_head",
+          "dir": "fwd",
+          "score": 1.019,
+          "shuffle_max": -2.453,
+          "sep": 3.94,
+          "beats": true
+        },
+        {
+          "a": "s23_head",
+          "b": "s33_tail",
+          "dir": "fwd",
+          "score": 0.486,
+          "shuffle_max": -2.542,
+          "sep": 3.1,
+          "beats": true
+        },
+        {
+          "a": "s27_head",
+          "b": "s33_head",
+          "dir": "fwd",
+          "score": 0.174,
+          "shuffle_max": -3.196,
+          "sep": 4.48,
+          "beats": true
+        },
+        {
+          "a": "s27_tail",
+          "b": "s33_head",
+          "dir": "rev",
+          "score": -0.498,
+          "shuffle_max": -2.91,
+          "sep": 3.65,
+          "beats": true
+        },
+        {
+          "a": "s3_head",
+          "b": "s3_tail",
+          "dir": "rev",
+          "score": -0.666,
+          "shuffle_max": -0.8,
+          "sep": 1.54,
+          "beats": true
+        },
+        {
+          "a": "s0_tail",
+          "b": "s40_head",
+          "dir": "rev",
+          "score": -0.874,
+          "shuffle_max": -1.617,
+          "sep": 2.1,
+          "beats": true
+        }
+      ],
+      "flag": false
+    },
+    "chunks400": {
+      "n_streams": 32,
+      "scores": 992,
+      "observed_max": 2.588,
+      "surrogate_max": 3.465,
+      "exceeds_surrogate": false,
+      "top_local": [
+        {
+          "a": "c11200",
+          "b": "c12400",
+          "dir": "fwd",
+          "score": 2.588,
+          "shuffle_max": -3.127,
+          "sep": 5.27,
+          "beats": true
+        },
+        {
+          "a": "c02000",
+          "b": "c12000",
+          "dir": "fwd",
+          "score": 2.043,
+          "shuffle_max": -2.182,
+          "sep": 3.9,
+          "beats": true
+        },
+        {
+          "a": "c03200",
+          "b": "c06000",
+          "dir": "fwd",
+          "score": 1.086,
+          "shuffle_max": -0.656,
+          "sep": 3.53,
+          "beats": true
+        },
+        {
+          "a": "c09600",
+          "b": "c10800",
+          "dir": "rev",
+          "score": 0.816,
+          "shuffle_max": 1.565,
+          "sep": 1.46,
+          "beats": false
+        },
+        {
+          "a": "c03600",
+          "b": "c10400",
+          "dir": "fwd",
+          "score": 0.6,
+          "shuffle_max": -1.269,
+          "sep": 2.92,
+          "beats": true
+        },
+        {
+          "a": "c01600",
+          "b": "c03600",
+          "dir": "rev",
+          "score": 0.526,
+          "shuffle_max": -0.707,
+          "sep": 2.51,
+          "beats": true
+        },
+        {
+          "a": "c00000",
+          "b": "c00400",
+          "dir": "fwd",
+          "score": 0.498,
+          "shuffle_max": -1.567,
+          "sep": 3.16,
+          "beats": true
+        },
+        {
+          "a": "c00800",
+          "b": "c02800",
+          "dir": "fwd",
+          "score": 0.325,
+          "shuffle_max": -3.021,
+          "sep": 4.26,
+          "beats": true
+        }
+      ],
+      "flag": false
+    }
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false,
+    "note": "Family-wise surrogates win (sections 5.041>2.233, chunks 3.465>2.588). Pair-local sep on the top-8 is look-elsewhere — same cherry-pick ALIGN discarded. Not a decrypt."
+  },
+  "verified_new_unsolved_runes": 0
+}

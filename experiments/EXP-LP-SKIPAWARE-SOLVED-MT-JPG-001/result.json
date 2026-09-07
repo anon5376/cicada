@@ -1,0 +1,59 @@
+{
+  "keeps": [],
+  "plant": {
+    "agree": 1.0,
+    "family": "mt_init_genrand",
+    "ok": true
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.03007518796992481,
+      "head": "LVDEAYIAIJATFLTOEHRRFWMPWNGDVRXMYHWNGHXTHBJDCCTREIIOENDPHBAEAEVCIATHAEJNYYHAOEDA",
+      "ioc": 0.03407268170426065,
+      "length": 494,
+      "mode": "repeat_pad",
+      "span": "prefix400",
+      "src": "lp1.warning",
+      "trigram_per_100": 1.8218623481781377,
+      "vowelish_ratio": 0.4089068825910931
+    },
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.02506265664160401,
+      "head": "XOEJXWMDNEOWOEEEIIAHOENTHNGAEEAOEBJFIAETHTHLBGTPMLEXDTPBGVRCDRFAOADTHJVCAIEOTHJE",
+      "ioc": 0.03558897243107769,
+      "length": 497,
+      "mode": "sha256_ctr",
+      "span": "prefix400",
+      "src": "lp1.warning",
+      "trigram_per_100": 1.8108651911468814,
+      "vowelish_ratio": 0.3782696177062374
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.034482758620689655,
+      "head": "LVDEAYIAIJATFLTOEHRRFWMPWNGDVRXMYHWNGHXTHBJDCCTREIIOENDPHBAEAEVCIATHAEJNYYHAOEDA",
+      "ioc": 0.033663829662776756,
+      "length": 319,
+      "mode": "repeat_pad",
+      "span": "split015",
+      "src": "lp1.warning",
+      "trigram_per_100": 1.567398119122257,
+      "vowelish_ratio": 0.3981191222570533
+    },
+    {
+      "common_trigram_hits": 8,
+      "doublet_rate": 0.02756892230576441,
+      "head": "RAETVHIPAEEOMEOMEANTEAEOOGHHBEARTGAEPYSFOEOATHBPJIAIAEATNJIAITHNLNJMTHAVXHYXDLES",
+      "ioc": 0.03431077694235589,
+      "length": 509,
+      "mode": "init_genrand",
+      "span": "prefix400",
+      "src": "mt:3301",
+      "trigram_per_100": 1.5717092337917484,
+      "vowelish_ratio": 0.449901768172888
+    }
+  ],
+  "tested": 54
+}

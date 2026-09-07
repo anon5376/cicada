@@ -1,0 +1,510 @@
+{
+  "experiment": "EXP-LP-WORD-SKIP-001",
+  "family": "word-parse skip-aware beam on attested SHA-CTR seeds + totient stream",
+  "plant": {
+    "sha_ctr_warning": {
+      "agree": 1.0,
+      "score": 110.0,
+      "head": "AWARNNGBELIEVENOTHNGFROMTHISBOOCEXCEPTWHATYOVCNOWTOBETRVETESTTHE",
+      "ok": true
+    },
+    "page56_totient_wordbeam": {
+      "agree": 0.6588,
+      "score": 27.0,
+      "head": "ANENDWITHINTHEDEEPWEBTHEREEXISTSAPAGETHATHASHESTOITISTHEDVTYOOET",
+      "true_head": "ANENDWITHINTHEDEEPWEBTHEREEXISTSAPAGETHATHASHESTOITISTHEDVTYOFEV",
+      "ok": true,
+      "note": "known-page control only; skip-4th-F is not encrypt_reject, so agree~0.66 is expected. Does not count."
+    }
+  },
+  "tested": 48,
+  "beats_shuffle": 10,
+  "sep_ge_3": [],
+  "tests": [
+    {
+      "span": "split015",
+      "key": "sha:CICADA3301",
+      "score": -80.0,
+      "shuffle_max": -69.0,
+      "shuffle_mean": -77.375,
+      "beats_shuffle": false,
+      "sep": -0.56,
+      "head": "SWFFGWMOELIAAYEBYFNGEADOEOERCHOPVDLYRIVTIGNGDITJPAEOEDEOOCYJBLEOIAPODVOEJAESFNGI"
+    },
+    {
+      "span": "split015",
+      "key": "sha:3301",
+      "score": -80.0,
+      "shuffle_max": -68.0,
+      "shuffle_mean": -77.75,
+      "beats_shuffle": false,
+      "sep": -0.33,
+      "head": "RTOMAENGOCOOEPFOEJSEOEOTHWEAAETGAEOELYBNTOWNGFXOENGJRPAEBGJTHRIAVJRIAALOSANGJGIB"
+    },
+    {
+      "span": "split015",
+      "key": "sha:DIVINITY",
+      "score": -75.0,
+      "shuffle_max": -71.0,
+      "shuffle_mean": -80.625,
+      "beats_shuffle": false,
+      "sep": 0.86,
+      "head": "NOOSEEAJBTREAXBYEAOESVAHGIAXOEWXYMEOXGASHVGEOEHCDROTHEOOELLREOAGNEAWROTHROEXEAFO"
+    },
+    {
+      "span": "split015",
+      "key": "sha:AN END",
+      "score": -85.0,
+      "shuffle_max": -82.0,
+      "shuffle_mean": -83.25,
+      "beats_shuffle": false,
+      "sep": -1.02,
+      "head": "IAHYDEAAEIANWJFLPAHXCJLRHPAEGAEIAWSTHIAIAGLAEGIAOGTHXHGIAOEOENGEHIVAENFAEIAAEWBP"
+    },
+    {
+      "span": "split015",
+      "key": "sha:TOTIENT",
+      "score": -70.0,
+      "shuffle_max": -71.0,
+      "shuffle_mean": -78.25,
+      "beats_shuffle": true,
+      "sep": 1.66,
+      "head": "CGDMIMRWITJOEEHEYEANGLTJLGPDXGSREASNGCTWMRCIAVXWMXGNLBEAWJAEOATPAFMDFYTHIAYAINGM"
+    },
+    {
+      "span": "split015",
+      "key": "sha:LIBERPRIMUS",
+      "score": -90.0,
+      "shuffle_max": -64.0,
+      "shuffle_mean": -73.75,
+      "beats_shuffle": false,
+      "sep": -2.38,
+      "head": "EOEBGFRSVTHESEIANDELTHVNGVHMEAJPBTSNGPSTNLBLYINDHPVOOEAOXEAXEJBEAVMVMEMWJLDEAEVN"
+    },
+    {
+      "span": "split015",
+      "key": "totient0",
+      "score": -79.0,
+      "shuffle_max": -63.0,
+      "shuffle_mean": -76.75,
+      "beats_shuffle": false,
+      "sep": -0.27,
+      "head": "XGXYAEWJJOEIABXDEDEOAEIAOIEEWHNDTHCDYTHAEVHGLAOEIIPOJAAXCNGHEANGLGEAEAEOJEXAXIAE"
+    },
+    {
+      "span": "split015",
+      "key": "totient1",
+      "score": -81.0,
+      "shuffle_max": -74.0,
+      "shuffle_mean": -77.5,
+      "beats_shuffle": false,
+      "sep": -1.22,
+      "head": "PREOOEDONWTAEJINGXBGDNGEAHEOXVFCNGIAOMEOIAMEAIARXEERRJOENLOETHOEBGASEAEOEOEGNEOI"
+    },
+    {
+      "span": "split017",
+      "key": "sha:CICADA3301",
+      "score": -58.0,
+      "shuffle_max": -43.0,
+      "shuffle_mean": -47.25,
+      "beats_shuffle": false,
+      "sep": -2.88,
+      "head": "OEEEOCTCRPEANDAEOMOORTVGTHEDGYRYTHPOELWMMJETSTCOESSBTNGSDTCRTRBJXEALRNMNAEXACEOT"
+    },
+    {
+      "span": "split017",
+      "key": "sha:3301",
+      "score": -46.0,
+      "shuffle_max": -37.0,
+      "shuffle_mean": -44.0,
+      "beats_shuffle": false,
+      "sep": -0.43,
+      "head": "JIASAGMBAEJREOIATPNGSAMXEOCVADTJOEAETHEOMRINWDTHRPCBOESLGEALVHOSHANMOESYVBDRTEOO"
+    },
+    {
+      "span": "split017",
+      "key": "sha:DIVINITY",
+      "score": -46.0,
+      "shuffle_max": -35.0,
+      "shuffle_mean": -47.75,
+      "beats_shuffle": false,
+      "sep": 0.22,
+      "head": "TXSLEAYAEHASIASNGTEOYAWMMIAYNMAETLEOOSLVAIABFJHTOGLEOJFXATHHEJMNNGMPNBOTFEOGAPOB"
+    },
+    {
+      "span": "split017",
+      "key": "sha:AN END",
+      "score": -51.0,
+      "shuffle_max": -42.0,
+      "shuffle_mean": -46.375,
+      "beats_shuffle": false,
+      "sep": -1.2,
+      "head": "CMNEANDEOFSOEEAEWYXBBEAIABBIABIATHEFHDXIAVMXTHVCAECAEBEAOEMLLWWHEAROELHCVNGOEOEB"
+    },
+    {
+      "span": "split017",
+      "key": "sha:TOTIENT",
+      "score": -47.0,
+      "shuffle_max": -42.0,
+      "shuffle_mean": -46.25,
+      "beats_shuffle": false,
+      "sep": -0.25,
+      "head": "EOBTPONGEOYVOWRNGCVSSHNGIANGBEAADTHBHSWMAETWNGNGTFTHARIIONCTHIEAHSWVPAEMJTBBFEOE"
+    },
+    {
+      "span": "split017",
+      "key": "sha:LIBERPRIMUS",
+      "score": -50.0,
+      "shuffle_max": -36.0,
+      "shuffle_mean": -45.25,
+      "beats_shuffle": false,
+      "sep": -1.0,
+      "head": "MFFJITHFNGIFXTNGJFNGORSXVSYBOETHNAENJHIRMIOEOEOOEAVEAIAGAWJCFMTIAOEBNGWTSETIEOJH"
+    },
+    {
+      "span": "split017",
+      "key": "totient0",
+      "score": -53.0,
+      "shuffle_max": -40.0,
+      "shuffle_mean": -45.25,
+      "beats_shuffle": false,
+      "sep": -1.51,
+      "head": "NGBYTHGCAETHVNTEOBLFSHSIDIAOAEGOXIAPTOEEOEMJWOMXTEACHVBEEDTHCRNRICOLYXTHNGGLOMWM"
+    },
+    {
+      "span": "split017",
+      "key": "totient1",
+      "score": -43.0,
+      "shuffle_max": -38.0,
+      "shuffle_mean": -46.375,
+      "beats_shuffle": false,
+      "sep": 0.69,
+      "head": "LSAIARVDIAAWIGJIBWFCRSJXWNGOEGBOEDIAAETHEATEORASMRTHADIJCEOYIAOEFAEATHAECPVLFIAM"
+    },
+    {
+      "span": "split023",
+      "key": "sha:CICADA3301",
+      "score": -76.0,
+      "shuffle_max": -72.0,
+      "shuffle_mean": -75.75,
+      "beats_shuffle": false,
+      "sep": -0.06,
+      "head": "XNAETVTHJIAWXNOEJATHOEIEOTYOEFTHEGEOIAMGAETHTEOYVTHVRBTHYDICIYIAIGEOEAEPGTHAEMAE"
+    },
+    {
+      "span": "split023",
+      "key": "sha:3301",
+      "score": -62.0,
+      "shuffle_max": -68.0,
+      "shuffle_mean": -78.25,
+      "beats_shuffle": true,
+      "sep": 2.96,
+      "head": "OEEAGLTAIMNIAAESELCVSFOAEEOOGAEMDPASVPOICEVNGJEAJIALDEEOEGLJFHPTHEOITAEAEVCFDIDR"
+    },
+    {
+      "span": "split023",
+      "key": "sha:DIVINITY",
+      "score": -74.0,
+      "shuffle_max": -69.0,
+      "shuffle_mean": -75.375,
+      "beats_shuffle": false,
+      "sep": 0.39,
+      "head": "HCEATHPDOOEOLPPLNGRSRXBEOGDJOIPDSIAPRVIOIIADYGFIAHPGPEONAETHCADWVLRLTEORPBEAMTYX"
+    },
+    {
+      "span": "split023",
+      "key": "sha:AN END",
+      "score": -78.0,
+      "shuffle_max": -72.0,
+      "shuffle_mean": -74.625,
+      "beats_shuffle": false,
+      "sep": -1.44,
+      "head": "YIOEIDLMXDIAXTGTHPWDAPHHNOETEAYRJBYAEEOTHCNTHWPPBFELINWTDBBGVIHEAOOEDITRICVNLOEV"
+    },
+    {
+      "span": "split023",
+      "key": "sha:TOTIENT",
+      "score": -75.0,
+      "shuffle_max": -64.0,
+      "shuffle_mean": -74.0,
+      "beats_shuffle": false,
+      "sep": -0.18,
+      "head": "RHFABEMJNHOETHLIFCNGRWEEOEAWWOIEAEHIVCNXJCVEONGIASCOETHSHCJIOEAIASATOEWOEDVDNGEA"
+    },
+    {
+      "span": "split023",
+      "key": "sha:LIBERPRIMUS",
+      "score": -79.0,
+      "shuffle_max": -71.0,
+      "shuffle_mean": -76.0,
+      "beats_shuffle": false,
+      "sep": -0.94,
+      "head": "JLPOEAEAWGECFXLTEAJNFVCNGYCFTHIIPTHXMMYYFTYVRAEAROEAEBBBFEONGRMMMLRIAGDOEJDRJAEA"
+    },
+    {
+      "span": "split023",
+      "key": "totient0",
+      "score": -69.0,
+      "shuffle_max": -62.0,
+      "shuffle_mean": -73.0,
+      "beats_shuffle": false,
+      "sep": 0.83,
+      "head": "PHIPLTHOTNXTHITAEEACXJAEXEOIIAIGTOEALWMDFGERDOECBTVMVYRPLJAEEPLAMNFAVSEOPMTIPSOI"
+    },
+    {
+      "span": "split023",
+      "key": "totient1",
+      "score": -65.0,
+      "shuffle_max": -71.0,
+      "shuffle_mean": -77.125,
+      "beats_shuffle": true,
+      "sep": 2.52,
+      "head": "EOGRWXAEYGVGNGRISTYGVMGHRMGGTOEALWMDFGERDOECBTVMVYRPLJAEEPLAMNFAVSEOPMTIPSOIARGP"
+    },
+    {
+      "span": "split040",
+      "key": "sha:CICADA3301",
+      "score": -85.0,
+      "shuffle_max": -75.0,
+      "shuffle_mean": -80.625,
+      "beats_shuffle": false,
+      "sep": -0.87,
+      "head": "HHBRXOEGMLXJIABOEOCBBOENAEMFCCDXIHAEGXRREEOFJEOAFJNATOMROEEBOTMMOEFDFBTSAOENRVVO"
+    },
+    {
+      "span": "split040",
+      "key": "sha:3301",
+      "score": -79.0,
+      "shuffle_max": -72.0,
+      "shuffle_mean": -78.375,
+      "beats_shuffle": false,
+      "sep": -0.11,
+      "head": "YBLDRWMTHONFVNGYVBHLGSEATHVOEAVIRYSCJABOEEAFEAGNGXSMPAAXFWJASTAVXOETHOLTSWINGCYE"
+    },
+    {
+      "span": "split040",
+      "key": "sha:DIVINITY",
+      "score": -69.0,
+      "shuffle_max": -70.0,
+      "shuffle_mean": -81.5,
+      "beats_shuffle": true,
+      "sep": 1.65,
+      "head": "THRLMYXIAXTLSEYFNGEAHHJOENGIASERGHLIAEGHNEOADAREOOEOPGLEAVOELWLDENEOIAAJDLIILADN"
+    },
+    {
+      "span": "split040",
+      "key": "sha:AN END",
+      "score": -84.0,
+      "shuffle_max": -69.0,
+      "shuffle_mean": -77.0,
+      "beats_shuffle": false,
+      "sep": -1.51,
+      "head": "LNXIAWJXGWIATNGEOIDMVFMLJEALOIAHLTHMYFIDEOYEOGLHIOGMFSPHBRBVHPNGTHBYIAXDIAIAAEOS"
+    },
+    {
+      "span": "split040",
+      "key": "sha:TOTIENT",
+      "score": -74.0,
+      "shuffle_max": -79.0,
+      "shuffle_mean": -84.375,
+      "beats_shuffle": true,
+      "sep": 2.97,
+      "head": "IAWNGEOVNXOOEHAWYEIBEANPVSECDTHNGCTIICOVNGEASFAEIAXVOREOHNGFEAIAIIAGVEAIAVYJYVWH"
+    },
+    {
+      "span": "split040",
+      "key": "sha:LIBERPRIMUS",
+      "score": -82.0,
+      "shuffle_max": -72.0,
+      "shuffle_mean": -77.125,
+      "beats_shuffle": false,
+      "sep": -1.23,
+      "head": "CMCIHMTHIATHCTHMYANDTCWBIAVWTAPDEOAEVBHIEEOPAOEGHLBJEARIEOFCMAEOEOAEOALDNTOOEEAO"
+    },
+    {
+      "span": "split040",
+      "key": "totient0",
+      "score": -82.0,
+      "shuffle_max": -69.0,
+      "shuffle_mean": -83.375,
+      "beats_shuffle": false,
+      "sep": 0.18,
+      "head": "WWTHVROEIAHOEXRSOERNBNGTTHYNGRTHCJRSNGJAERFRAEXYOIEOETHVAYBCNGLRGNGOILCTHEONJCPT"
+    },
+    {
+      "span": "split040",
+      "key": "totient1",
+      "score": -82.0,
+      "shuffle_max": -73.0,
+      "shuffle_mean": -80.25,
+      "beats_shuffle": false,
+      "sep": -0.29,
+      "head": "GCFYTHEAERTEOIAJLFOJMIIAASFAEYWTHJMWJFDTHSEOLYGGEOFLOEOESOENTTHTHSVFXEAAEIOWOOTH"
+    },
+    {
+      "span": "split056",
+      "key": "sha:CICADA3301",
+      "score": -99.0,
+      "shuffle_max": -80.0,
+      "shuffle_mean": -90.25,
+      "beats_shuffle": false,
+      "sep": -1.8,
+      "head": "EANNGSXJTTHTDEAANEOEOMBAJEANWLBLEAFCRDAECEOLWNOENGEABYTHVLVRIEATHTHPOEBWIEOAEGYO"
+    },
+    {
+      "span": "split056",
+      "key": "sha:3301",
+      "score": -82.0,
+      "shuffle_max": -79.0,
+      "shuffle_mean": -90.375,
+      "beats_shuffle": false,
+      "sep": 1.17,
+      "head": "BENTHTNGEATHOPEMJEOPOEWWLIAYPEOOESLNBAGXPMISEJSSINGWVOETHCAECNGSJNGIRONGHOEAHGEA"
+    },
+    {
+      "span": "split056",
+      "key": "sha:DIVINITY",
+      "score": -97.0,
+      "shuffle_max": -85.0,
+      "shuffle_mean": -92.625,
+      "beats_shuffle": false,
+      "sep": -0.79,
+      "head": "OECNIANEAWXTARWTSRRWAAECMNYEAAEWRAENSIRCBPGLNGJICBFGJRAENGAIAOVSNGEAYMICCTXNOEAD"
+    },
+    {
+      "span": "split056",
+      "key": "sha:AN END",
+      "score": -86.0,
+      "shuffle_max": -86.0,
+      "shuffle_mean": -94.0,
+      "beats_shuffle": false,
+      "sep": 1.51,
+      "head": "JIOGMAEDGWTHCITHAEGAFTRONITHOEIAMSBBNEOECLPEEWTHEOWWFVMBNGIASWIAFTHWTNAFGAEXSXEG"
+    },
+    {
+      "span": "split056",
+      "key": "sha:TOTIENT",
+      "score": -91.0,
+      "shuffle_max": -85.0,
+      "shuffle_mean": -93.125,
+      "beats_shuffle": false,
+      "sep": 0.35,
+      "head": "EHILPDDOOEEOPAETROEOEIAAEIAPPFTDOEJRFHVXCAEXNGCJEOWOHASNGSTHJREOXXEOABSIAXXAEVTH"
+    },
+    {
+      "span": "split056",
+      "key": "sha:LIBERPRIMUS",
+      "score": -94.0,
+      "shuffle_max": -88.0,
+      "shuffle_mean": -94.0,
+      "beats_shuffle": false,
+      "sep": 0.0,
+      "head": "AENIANJWAPWXLRVSNGJWTHOPITEIWFVBRGNTXOELTIAGIASPEOTCVJFOEFITHNIAINVEORSTIAWLPEOR"
+    },
+    {
+      "span": "split056",
+      "key": "totient0",
+      "score": -90.0,
+      "shuffle_max": -82.0,
+      "shuffle_mean": -91.25,
+      "beats_shuffle": false,
+      "sep": 0.29,
+      "head": "IAHLNTWWHOEETFISNXHLRYOYOETMJMIIMLJHDEDNGHYTLRSCDXINRBPXCETHISMNRWGSIYNRWPIAJNGJ"
+    },
+    {
+      "span": "split056",
+      "key": "totient1",
+      "score": -90.0,
+      "shuffle_max": -73.0,
+      "shuffle_mean": -87.75,
+      "beats_shuffle": false,
+      "sep": -0.29,
+      "head": "YGECXOCRTTTFISNXHLRYOYOETMJMIIMLJHDEDNGHYTLRSCDXINRBPXCETHISMNRWGSIYNRWPIAJNGJLD"
+    },
+    {
+      "span": "split063",
+      "key": "sha:CICADA3301",
+      "score": -84.0,
+      "shuffle_max": -87.0,
+      "shuffle_mean": -94.125,
+      "beats_shuffle": true,
+      "sep": 2.07,
+      "head": "HRNGEAJDPJGEAOESREMWAEDAEPEALLANGMCPCFYHOLXHGAONFTHXTNXLNAEPAETHWJEOYTHOEDTEOEPW"
+    },
+    {
+      "span": "split063",
+      "key": "sha:3301",
+      "score": -93.0,
+      "shuffle_max": -81.0,
+      "shuffle_mean": -91.5,
+      "beats_shuffle": false,
+      "sep": -0.2,
+      "head": "YPAEVHYDEDJEHEOHMTYNFYAAEYMMNTHWDHMTHNRNGPBJIIVTJOSJEONEAVIASIABPFJSAEEXAESPAPYD"
+    },
+    {
+      "span": "split063",
+      "key": "sha:DIVINITY",
+      "score": -94.0,
+      "shuffle_max": -83.0,
+      "shuffle_mean": -92.75,
+      "beats_shuffle": false,
+      "sep": -0.17,
+      "head": "THFAXDSCGTHCYGOIANGFMAEYNWGRDRPNRINGJWAEBLCRASTHHBPTHMXGTHENGWEOLMDPRDIAAAOESIAD"
+    },
+    {
+      "span": "split063",
+      "key": "sha:AN END",
+      "score": -91.0,
+      "shuffle_max": -80.0,
+      "shuffle_mean": -88.25,
+      "beats_shuffle": false,
+      "sep": -0.45,
+      "head": "LCEOEREONGIAOEEOIANEAAEVNGNGOECNNGSWOEYMFFCOEVRHCMLOTHVVOEETHIATHHNEOERMGNVTEABA"
+    },
+    {
+      "span": "split063",
+      "key": "sha:TOTIENT",
+      "score": -84.0,
+      "shuffle_max": -86.0,
+      "shuffle_mean": -94.75,
+      "beats_shuffle": true,
+      "sep": 1.7,
+      "head": "IAOAEWIAINGAHOEGAPRBMWSTSPJFIAYIRXLEHJHPIHPXOOYEVITEOYJFIAREFJFMGOEEOAEAOEHEARAL"
+    },
+    {
+      "span": "split063",
+      "key": "sha:LIBERPRIMUS",
+      "score": -84.0,
+      "shuffle_max": -88.0,
+      "shuffle_mean": -94.375,
+      "beats_shuffle": true,
+      "sep": 2.28,
+      "head": "CSNCCLNMBMPWPITAEAJITHOENIALAEIAETHXOEYAEAEAEEAMNYJYTOHYEOVNDMWTHSJWXPFCANXVOWAE"
+    },
+    {
+      "span": "split063",
+      "key": "totient0",
+      "score": -83.0,
+      "shuffle_max": -87.0,
+      "shuffle_mean": -95.625,
+      "beats_shuffle": true,
+      "sep": 2.07,
+      "head": "WOGAEVDCFHEASONMTMFOECJMYYNGOEXMNGRWHJBAEMTEABWIATNGAAEAEEOGDIASNOWLNGLYFVVEOOEB"
+    },
+    {
+      "span": "split063",
+      "key": "totient1",
+      "score": -84.0,
+      "shuffle_max": -91.0,
+      "shuffle_mean": -96.0,
+      "beats_shuffle": true,
+      "sep": 2.57,
+      "head": "GVRNGEAMOAETHYNEAWSIPIATVNPOELVTHLIBBMOTHNWDPIAJVAEGMLDPGEARMNGPEAYVXMXOEIALTHLP"
+    }
+  ],
+    "skeptic_review": {
+      "verdict": "null",
+      "why": "SHA-CTR word-hybrid plant agree 1.0. 10/48 tests beat 8 shuffles by a fraction of a point (sep<3, expected under noise). Heads are salad. Length-1 word cribs under atbash/totient/skip-F are chance (z<=0.97 on 99 sites). No rune uniquely determined."
+    },
+  "verified_new_unsolved_runes": 0
+}

@@ -1,0 +1,178 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-ALIGN-001",
+  "family": "banded match/gap forward+Viterbi pair depth (HANDOFF 5c)",
+  "keep_bar": "detection only; not a Latin decrypt",
+  "plant": {
+    "ok": true,
+    "rows": [
+      {
+        "n": 400,
+        "filtered": false,
+        "shift": 0,
+        "lens": [
+          400,
+          400
+        ],
+        "true_fwd": -0.131,
+        "shuffle_fwd_max": -0.958,
+        "sep_fwd": 2.46,
+        "true_z": 4.041,
+        "n_match": 400,
+        "shuffle_z_max": 5.962,
+        "sep_z": 0.75,
+        "beats_fwd": true,
+        "beats_z": false,
+        "beats": true
+      },
+      {
+        "n": 400,
+        "filtered": true,
+        "shift": 0,
+        "lens": [
+          400,
+          400
+        ],
+        "true_fwd": -2.104,
+        "shuffle_fwd_max": -3.674,
+        "sep_fwd": 2.5,
+        "true_z": 0.137,
+        "n_match": 400,
+        "shuffle_z_max": 3.04,
+        "sep_z": -1.34,
+        "beats_fwd": true,
+        "beats_z": false,
+        "beats": true
+      },
+      {
+        "n": 800,
+        "filtered": true,
+        "shift": 0,
+        "lens": [
+          800,
+          800
+        ],
+        "true_fwd": -0.573,
+        "shuffle_fwd_max": -1.598,
+        "sep_fwd": 2.86,
+        "true_z": 4.248,
+        "n_match": 798,
+        "shuffle_z_max": 4.475,
+        "sep_z": 0.88,
+        "beats_fwd": true,
+        "beats_z": false,
+        "beats": true
+      },
+      {
+        "n": 1500,
+        "filtered": true,
+        "shift": 0,
+        "lens": [
+          1500,
+          1500
+        ],
+        "true_fwd": 4.114,
+        "shuffle_fwd_max": -1.744,
+        "sep_fwd": 4.04,
+        "true_z": 7.357,
+        "n_match": 1494,
+        "shuffle_z_max": 8.773,
+        "sep_z": 1.34,
+        "beats_fwd": true,
+        "beats_z": false,
+        "beats": true
+      },
+      {
+        "n": 800,
+        "filtered": true,
+        "shift": 37,
+        "lens": [
+          800,
+          800
+        ],
+        "true_fwd": -6.366,
+        "shuffle_fwd_max": -0.911,
+        "sep_fwd": -0.05,
+        "true_z": 3.574,
+        "n_match": 797,
+        "shuffle_z_max": 5.367,
+        "sep_z": 0.1,
+        "beats_fwd": false,
+        "beats_z": false,
+        "beats": false
+      }
+    ],
+    "n_shuffle": 12,
+    "note": "filtered rows 400/800/1500 must beat 12 shuffles on fwd or viterbi-z"
+  },
+  "pairwise_unsolved": {
+    "pages": 53,
+    "pair_directions": 2756,
+    "observed_max_fwd": 2.479,
+    "surrogate_max_fwd": 1.682,
+    "exceeds_surrogate": true,
+    "top_pair_local": {
+      "pair": "split057 vs rev(split059)",
+      "n": [272, 273],
+      "fwd": 2.479,
+      "pair_local_80shuffle_max": 0.358,
+      "pair_local_z": 3.92,
+      "rigid_rev_offset0_llr_z": 1.268,
+      "raw_LCS_run": 4,
+      "note": "Viterbi almost-diagonal (272 matches). Rigid reverse is already inside DEPTH-KAPPA pairwise (family max z 4.55 < 5.47). Not a decrypt."
+    },
+    "top": [
+      {
+        "a": "split057",
+        "b": "split059",
+        "dir": "rev",
+        "z": 2.479
+      },
+      {
+        "a": "split035",
+        "b": "split041",
+        "dir": "fwd",
+        "z": 1.391
+      },
+      {
+        "a": "split060",
+        "b": "split063",
+        "dir": "fwd",
+        "z": 1.183
+      },
+      {
+        "a": "split031",
+        "b": "split035",
+        "dir": "fwd",
+        "z": 0.85
+      },
+      {
+        "a": "split046",
+        "b": "split058",
+        "dir": "rev",
+        "z": 0.567
+      },
+      {
+        "a": "split024",
+        "b": "split057",
+        "dir": "rev",
+        "z": 0.41
+      },
+      {
+        "a": "split039",
+        "b": "split061",
+        "dir": "fwd",
+        "z": 0.249
+      },
+      {
+        "a": "split056",
+        "b": "split060",
+        "dir": "rev",
+        "z": -0.054
+      }
+    ]
+  },
+  "skeptic_review": {
+    "verdict": "depth flag \u2014 not a decrypt"
+  },
+  "verified_new_unsolved_runes": 0
+}

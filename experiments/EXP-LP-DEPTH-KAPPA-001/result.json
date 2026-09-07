@@ -1,0 +1,426 @@
+{
+  "experiment": "EXP-LP-DEPTH-KAPPA-001",
+  "family": "ciphertext depth: coincidence / optimal-LLR search for pad reuse",
+  "instrument_control_splits_0_14": {
+    "alignments": 44926,
+    "fires": true,
+    "observed_max_llr_z": 10.78,
+    "pages": 15,
+    "surrogate_max_llr_z": 7.33,
+    "top": [
+      {
+        "a": "split004",
+        "b": "split006",
+        "dir": "fwd",
+        "kappa": 0.288,
+        "kappa_z": 15.534,
+        "llr_z": 10.779,
+        "longest_common_run": 40,
+        "matches": 36,
+        "offset": -93,
+        "overlap": 125
+      },
+      {
+        "a": "split004",
+        "b": "split005",
+        "dir": "fwd",
+        "kappa": 0.24309,
+        "kappa_z": 15.381,
+        "llr_z": 9.582,
+        "longest_common_run": 37,
+        "matches": 44,
+        "offset": -29,
+        "overlap": 181
+      },
+      {
+        "a": "split005",
+        "b": "split006",
+        "dir": "fwd",
+        "kappa": 0.24026,
+        "kappa_z": 13.995,
+        "llr_z": 9.35,
+        "longest_common_run": 29,
+        "matches": 37,
+        "offset": -64,
+        "overlap": 154
+      },
+      {
+        "a": "split009",
+        "b": "split010",
+        "dir": "fwd",
+        "kappa": 0.23881,
+        "kappa_z": 12.963,
+        "llr_z": 7.662,
+        "longest_common_run": 17,
+        "matches": 32,
+        "offset": 73,
+        "overlap": 134
+      },
+      {
+        "a": "split004",
+        "b": "split006",
+        "dir": "rev",
+        "kappa": 0.10615,
+        "kappa_z": 5.255,
+        "llr_z": 6.657,
+        "longest_common_run": 5,
+        "matches": 19,
+        "offset": 30,
+        "overlap": 179
+      }
+    ]
+  },
+  "keep_bar": "n>=80, trigram_per_100>=3.5, ioc>=0.045, vowelish 0.28-0.55, then readable English",
+  "known_plaintext_depth": {
+    "alignments_tested": 47564,
+    "best_by_trigram": {
+      "common_trigram_hits": 7,
+      "dir": "rev",
+      "doublet_rate": 0.0,
+      "head": "HAEOEOTHEFCGRSINGMTOETWTHARVIAAELTHECTAENGFEEARMGLAFNGGIMAPNGTHEINGAPFTEOIPYINGE",
+      "ioc": 0.03753501400560224,
+      "length": 107,
+      "n": 85,
+      "offset": 68,
+      "solved": "lp2.page56_an_end",
+      "span": "split046",
+      "trigram_per_100": 6.542056074766355,
+      "vowelish_ratio": 0.35514018691588783
+    },
+    "excluded_degenerate": [
+      {
+        "method": "direct",
+        "stage_id": "lp1.wisdom",
+        "why": "plaintext == ciphertext, so the drag re-scores raw ciphertext"
+      },
+      {
+        "method": "direct",
+        "stage_id": "lp2.page57_parable",
+        "why": "plaintext == ciphertext, so the drag re-scores raw ciphertext"
+      }
+    ],
+    "keeps": [
+      {
+        "common_trigram_hits": 4,
+        "dir": "rev",
+        "doublet_rate": 0.06097560975609756,
+        "full_latin": "EOVLNGEOFPAEGTHHEOEORRTHEOWVRNGAOETHAESBEAIEOFAEYTHIAHBPAEITHGESJBEONPIVTHLIANBRTHEIAFEEBSPEEIAFFEOEACLTHEOIAEGBEA",
+        "head": "EOVLNGEOFPAEGTHHEOEORRTHEOWVRNGAOETHAESBEAIEOFAEYTHIAHBPAEITHGESJBEONPIVTHLIANBR",
+        "ioc": 0.04642962092271525,
+        "length": 114,
+        "n": 83,
+        "offset": 155,
+        "solved": "lp1.warning",
+        "span": "split051",
+        "trigram_per_100": 3.508771929824561,
+        "vowelish_ratio": 0.49122807017543857
+      },
+      {
+        "common_trigram_hits": 4,
+        "dir": "rev",
+        "doublet_rate": 0.0,
+        "full_latin": "POETMVRFDAPNNGXSTMTHNPNAEEOPBTCWCPTHAECEOVCSPABOXDTHEOOEONENTHYEONGPIEASTHPGAECOEONLITNPEOJOTBTWPEAEOPCJIA",
+        "head": "POETMVRFDAPNNGXSTMTHNPNAEEOPBTCWCPTHAECEOVCSPABOXDTHEOOEONENTHYEONGPIEASTHPGAECO",
+        "ioc": 0.04677871148459384,
+        "length": 106,
+        "n": 85,
+        "offset": 97,
+        "solved": "lp2.page56_an_end",
+        "span": "split060",
+        "trigram_per_100": 3.7735849056603774,
+        "vowelish_ratio": 0.37735849056603776
+      }
+    ]
+  },
+  "model": {
+    "chance_kappa": 0.03448,
+    "depth_kappa_expected": 0.06301,
+    "llr_h0_mean_per_rune": -0.02726,
+    "llr_h1_mean_per_rune": 0.02846
+  },
+  "pairwise_unsolved": {
+    "alignments": 894452,
+    "exceeds_surrogate": false,
+    "max_longest_common_run": 5,
+    "observed_max_llr_z": 4.55,
+    "pages": 53,
+    "surrogate_max_llr_z": 5.47,
+    "surrogate_mean_max": 5.01,
+    "tail_counts_vs_surrogate": {
+      "3.0": {
+        "observed": 1450,
+        "surrogate_mean": 1443.2,
+        "surrogate_sd": 44.4,
+        "z": 0.15
+      },
+      "3.5": {
+        "observed": 275,
+        "surrogate_mean": 281.4,
+        "surrogate_sd": 18.1,
+        "z": -0.35
+      },
+      "4.0": {
+        "observed": 36,
+        "surrogate_mean": 46.0,
+        "surrogate_sd": 6.5,
+        "z": -1.53
+      },
+      "4.5": {
+        "observed": 4,
+        "surrogate_mean": 5.2,
+        "surrogate_sd": 2.4,
+        "z": -0.47
+      }
+    },
+    "top": [
+      {
+        "a": "split036",
+        "b": "split044",
+        "dir": "fwd",
+        "kappa": 0.06857,
+        "kappa_z": 2.471,
+        "llr_z": 4.552,
+        "longest_common_run": 3,
+        "matches": 12,
+        "offset": -102,
+        "overlap": 175
+      },
+      {
+        "a": "split016",
+        "b": "split035",
+        "dir": "fwd",
+        "kappa": 0.07853,
+        "kappa_z": 3.337,
+        "llr_z": 4.526,
+        "longest_common_run": 3,
+        "matches": 15,
+        "offset": 75,
+        "overlap": 191
+      },
+      {
+        "a": "split046",
+        "b": "split058",
+        "dir": "rev",
+        "kappa": 0.07663,
+        "kappa_z": 3.732,
+        "llr_z": 4.522,
+        "longest_common_run": 3,
+        "matches": 20,
+        "offset": -13,
+        "overlap": 261
+      },
+      {
+        "a": "split030",
+        "b": "split033",
+        "dir": "fwd",
+        "kappa": 0.08176,
+        "kappa_z": 3.267,
+        "llr_z": 4.505,
+        "longest_common_run": 3,
+        "matches": 13,
+        "offset": -48,
+        "overlap": 159
+      },
+      {
+        "a": "split024",
+        "b": "split049",
+        "dir": "rev",
+        "kappa": 0.07336,
+        "kappa_z": 3.429,
+        "llr_z": 4.45,
+        "longest_common_run": 3,
+        "matches": 19,
+        "offset": 9,
+        "overlap": 259
+      },
+      {
+        "a": "split042",
+        "b": "split060",
+        "dir": "fwd",
+        "kappa": 0.07595,
+        "kappa_z": 2.857,
+        "llr_z": 4.403,
+        "longest_common_run": 3,
+        "matches": 12,
+        "offset": 76,
+        "overlap": 158
+      },
+      {
+        "a": "split034",
+        "b": "split043",
+        "dir": "rev",
+        "kappa": 0.06796,
+        "kappa_z": 2.633,
+        "llr_z": 4.395,
+        "longest_common_run": 3,
+        "matches": 14,
+        "offset": 65,
+        "overlap": 206
+      },
+      {
+        "a": "split027",
+        "b": "split061",
+        "dir": "fwd",
+        "kappa": 0.08,
+        "kappa_z": 3.528,
+        "llr_z": 4.382,
+        "longest_common_run": 3,
+        "matches": 16,
+        "offset": 61,
+        "overlap": 200
+      }
+    ]
+  },
+  "plant": {
+    "brute_force_llr_ok": true,
+    "brute_force_matches_ok": true,
+    "ok": true,
+    "periodic_pad": {
+      "top3_all_multiples": true,
+      "top_lag_is_multiple_of_period": true,
+      "top_lags": [
+        388,
+        194,
+        291
+      ],
+      "top_z": 16.19,
+      "true_period": 97
+    },
+    "reject_filter_cost": {
+      "filtered_llr_z": 3.277,
+      "filtered_offset": -743,
+      "n": 1500,
+      "note": "same pad, same plaintexts. Independent rejections desynchronise the two key pointers, so a null from this instrument does NOT exclude depth that ran through the anti-repeat filter.",
+      "unfiltered_llr_z": 8.551,
+      "unfiltered_offset": 0
+    },
+    "shared_pad_pair": {
+      "expected_offset": -37,
+      "found_offset": -37,
+      "kappa": 0.11656,
+      "llr_z": 5.253,
+      "offset_ok": true,
+      "pad_shift": 37,
+      "recovered_head": "AWARNNGBELIEVENOTHNGFROMTHISBOOCEXCEPTWHATYOVCNOWTOBETRVETESTTHE",
+      "recovered_runes": 163,
+      "recovery_agree": 1.0
+    }
+  },
+  "pooled_page_aligned": {
+    "left": {
+      "difference_ioc": 0.03448,
+      "expected_llr_z_if_depth": 134.3,
+      "kappa": 0.0346,
+      "kappa_z": 0.35,
+      "llr_z": -0.45,
+      "matches": 10502,
+      "n": 303540
+    },
+    "right": {
+      "difference_ioc": 0.03448,
+      "expected_llr_z_if_depth": 134.3,
+      "kappa": 0.03427,
+      "kappa_z": -0.65,
+      "llr_z": 0.45,
+      "matches": 10402,
+      "n": 303540
+    }
+  },
+  "power": [
+    {
+      "kappa_separation_sigma": 1.4,
+      "llr_separation_sigma": 2.18,
+      "overlap": 80
+    },
+    {
+      "kappa_separation_sigma": 1.71,
+      "llr_separation_sigma": 2.67,
+      "overlap": 120
+    },
+    {
+      "kappa_separation_sigma": 2.21,
+      "llr_separation_sigma": 3.45,
+      "overlap": 200
+    },
+    {
+      "kappa_separation_sigma": 2.6,
+      "llr_separation_sigma": 4.06,
+      "overlap": 277
+    },
+    {
+      "kappa_separation_sigma": 3.13,
+      "llr_separation_sigma": 4.88,
+      "overlap": 400
+    },
+    {
+      "kappa_separation_sigma": 4.94,
+      "llr_separation_sigma": 7.71,
+      "overlap": 1000
+    },
+    {
+      "kappa_separation_sigma": 8.56,
+      "llr_separation_sigma": 13.35,
+      "overlap": 3000
+    },
+    {
+      "kappa_separation_sigma": 17.79,
+      "llr_separation_sigma": 27.75,
+      "overlap": 12956
+    }
+  ],
+  "scope": "rtkd splits 15-70 (12956 runes), plus splits 0-14 as instrument control",
+  "self_lag_scan": {
+    "exceeds_surrogate": false,
+    "lags_tested": 6000,
+    "observed_max_llr_z": 4.36,
+    "surrogate_max_llr_z": 4.71,
+    "surrogate_mean_max": 3.86,
+    "top": [
+      {
+        "lag": 4865,
+        "llr_z": 4.36
+      },
+      {
+        "lag": 5882,
+        "llr_z": 3.48
+      },
+      {
+        "lag": 3806,
+        "llr_z": 3.47
+      },
+      {
+        "lag": 5516,
+        "llr_z": 3.45
+      },
+      {
+        "lag": 4715,
+        "llr_z": 3.32
+      },
+      {
+        "lag": 3972,
+        "llr_z": 3.25
+      }
+    ]
+  },
+  "skeptic_review": {
+    "keep_bar_hits": 2,
+    "verdict": "artifact",
+    "why": "both hits are 'rev'-direction drags with no cipher mechanism behind them, and their Latin is not English. trigram_per_100 clears the bar only because the multigraph runes EO/TH/IA/AE/NG each expand to two Latin letters and manufacture THE/ING/ENT at their joins -- the same scorer artifact recorded for split066 running-key hits."
+  },
+  "unsolved_runes_total": 12956,
+  "unsolved_splits_below_min_overlap": [
+    {
+      "runes": 66,
+      "split": 64
+    },
+    {
+      "runes": 0,
+      "split": 65
+    },
+    {
+      "runes": 76,
+      "split": 70
+    }
+  ],
+  "verified_new_unsolved_runes": 0
+}

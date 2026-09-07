@@ -1,0 +1,46 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-DEPTH-001",
+  "family": "skip-aware pair depth: walking-offset forward HMM on C_a-C_b (HANDOFF 5c)",
+  "aborted": "plant failed on the reject-filtered case the instrument exists to catch",
+  "keep_bar": "detection only; English keep-bar does not apply to P_a-P_b",
+  "discarded": {
+    "banded_needleman_wunsch": {
+      "why": "max-path theoretical z is ~22 on shuffled pages; the path cherry-picks high-LLR cells",
+      "example": {"true_warp_z": 23.19, "shuffled_warp_z": 21.66, "n": 400, "band": 12}
+    }
+  },
+  "plant": {
+    "ok": false,
+    "clean_n800": {
+      "beats_all_shuffles": true,
+      "sep_sigma": 7.62,
+      "note": "redundant with EXP-LP-DEPTH-KAPPA-001 rigid depth"
+    },
+    "filtered_n800_six_seeds": [
+      {"seed": 1000, "beats": true, "sep_sigma": 2.16},
+      {"seed": 1001, "beats": false, "sep_sigma": 0.48},
+      {"seed": 1002, "beats": true, "sep_sigma": 1.88},
+      {"seed": 1003, "beats": false, "sep_sigma": -0.67},
+      {"seed": 1004, "beats": false, "sep_sigma": 0.05},
+      {"seed": 1005, "beats": false, "sep_sigma": -0.36}
+    ],
+    "filtered_n1500": {"beats_all_shuffles": false, "sep_sigma": -0.5},
+    "filtered_n3000": {"beats_all_shuffles": false, "sep_sigma": 1.63},
+    "oracle_n800_filtered": {
+      "shared_keys": 773,
+      "drift_range": [-8, 2],
+      "matched_llr_z": 7.57,
+      "note": "the matching exists and is scored 7.6σ if the key indices are known. The HMM does not find that matching."
+    }
+  },
+  "pairwise_unsolved": {
+    "scanned": false,
+    "why": "will not score real pages with an instrument that fails plant-and-recover"
+  },
+  "skeptic_review": {
+    "verdict": "instrument failure, not a page null",
+    "why": "walking-offset HMM recovers clean shared pads and fails reject-filtered shared pads. That does not exclude skip-aware depth on splits 15-70. It excludes this decoder."
+  },
+  "unsolved_runes_total": 12956,
+  "verified_new_unsolved_runes": 0
+}

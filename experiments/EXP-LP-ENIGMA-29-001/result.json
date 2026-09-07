@@ -1,0 +1,73 @@
+{
+  "keeps": [],
+  "plant": {
+    "agree": 1.0,
+    "ok": true
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.03759398496240601,
+      "head": "EARTWTHAEDWHVCIISEABSCSEOAEOHIAVAEIMASCNYAEMEAIOHDREADRSWGYTHXIRTWWDHVMOFEOEOWMG",
+      "ioc": 0.03494987468671679,
+      "length": 502,
+      "notch": 0,
+      "rotors": [
+        "DIVINITY",
+        "CICADA3301",
+        "FIRFUMFERENFE"
+      ],
+      "span": "prefix400",
+      "start": [
+        0,
+        0,
+        0
+      ],
+      "trigram_per_100": 0.9960159362549801,
+      "vowelish_ratio": 0.4800796812749004
+    },
+    {
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.05363984674329502,
+      "head": "EARTWTHAEDWHVCIISEABSCSEOAEOHIAVAEIMASCNYAEMEAIOHDREADRSWGYTHXIRTWWDHVMOFEOEOWMG",
+      "ioc": 0.03381006697668977,
+      "length": 329,
+      "notch": 0,
+      "rotors": [
+        "DIVINITY",
+        "CICADA3301",
+        "FIRFUMFERENFE"
+      ],
+      "span": "split015",
+      "start": [
+        0,
+        0,
+        0
+      ],
+      "trigram_per_100": 1.21580547112462,
+      "vowelish_ratio": 0.48024316109422494
+    },
+    {
+      "common_trigram_hits": 3,
+      "doublet_rate": 0.03508771929824561,
+      "head": "EARTWTHAEDWHVCIISEAVAOGNGDBWAEJDYBASCNYAEMEAIOHDREADBOEPEOAFVDJFLXNGHVMOFEOEOWMG",
+      "ioc": 0.03606516290726817,
+      "length": 490,
+      "notch": 16,
+      "rotors": [
+        "DIVINITY",
+        "CICADA3301",
+        "FIRFUMFERENFE"
+      ],
+      "span": "prefix400",
+      "start": [
+        0,
+        0,
+        0
+      ],
+      "trigram_per_100": 0.6122448979591837,
+      "vowelish_ratio": 0.44693877551020406
+    }
+  ],
+  "tested": 120
+}

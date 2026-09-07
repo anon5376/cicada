@@ -1,0 +1,62 @@
+{
+  "experiment_id": "EXP-LP-CAESAR-TOTIENT-OFFSET-001",
+  "hypothesis_id": "LP-HYP-000003",
+  "target": "rtkd.split_015",
+  "tested_count": 88,
+  "hits": [],
+  "top": [
+    {
+      "family": "totient_off",
+      "param": 16,
+      "trigram_per_100": 2.147239263803681,
+      "head": "SGILNGEAOEAGPOTHPGVNGCWHBNGNGIJXVVGOEIAC"
+    },
+    {
+      "family": "caesar",
+      "param": 7,
+      "trigram_per_100": 1.8404907975460123,
+      "head": "OESAEIPYCWOERAEEAEONEPOWEFITNTAEXATHOEFM"
+    },
+    {
+      "family": "atbash+caesar",
+      "param": 0,
+      "trigram_per_100": 1.834862385321101,
+      "head": "PLIAEOENVEAPTHIWDYBOEOEABGAEMYMINGJRPGTE"
+    },
+    {
+      "family": "caesar",
+      "param": 0,
+      "trigram_per_100": 1.8126888217522659,
+      "head": "SHEOGMIAFSYENGCTHJGAEFJOEONTHNEWBASOEEOI"
+    },
+    {
+      "family": "caesar",
+      "param": 25,
+      "trigram_per_100": 1.7857142857142858,
+      "head": "JRXEATHSDAEJOEXBVIAWTHNGAEWEEACIACXOPLJE"
+    },
+    {
+      "family": "caesar",
+      "param": 24,
+      "trigram_per_100": 1.5822784810126582,
+      "head": "IOPIAVXOEAINGPTFYGVLAGBIARYRPTHEOMIBWCTA"
+    },
+    {
+      "family": "caesar",
+      "param": 23,
+      "trigram_per_100": 1.5772870662460567,
+      "head": "NTHEOYFPNGDNLEOSEAAECFMDCTYOAEOEOVJENTGR"
+    },
+    {
+      "family": "atbash+caesar",
+      "param": 24,
+      "trigram_per_100": 1.5197568389057752,
+      "head": "HSCLBRAEDHYCTHENGEOBIADEOVLXNGXCTGEAHVJP"
+    }
+  ],
+  "interpretation": "No caesar, atbash+caesar, or totient-prime offset 0-29 crossed the uncalibrated threshold on split_015.",
+  "does_not_exclude": "other families, Vigenere beyond listed keys, multi-layer, wrong page segmentation",
+  "start_time": "2026-09-07T04:26:36Z",
+  "end_time": "2026-09-07T04:26:36Z",
+  "execution_status": "COMPLETED"
+}

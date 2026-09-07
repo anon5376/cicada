@@ -1,0 +1,30 @@
+{
+  "experiment": "EXP-LP-TRIFID-PHILLIPS-001",
+  "family": "Trifid-27 (period 3/5/7/15) + Phillips-29 (group 5/6)",
+  "plant": {
+    "trifid_p3": true,
+    "trifid_p5": true,
+    "trifid_p7": true,
+    "trifid_p15": true,
+    "trifid_wrong_period": true,
+    "phillips": true,
+    "phillips_wrong": true,
+    "ok": true
+  },
+  "tested": 2268,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "family": "trifid",
+    "key": "WELCOME",
+    "period": 7,
+    "span": "split018",
+    "head": "FWOEREOYJDVEOBDNPWTNAEJJBRIOASFNFYCDEAIAEOAPXHFBIAEAIAPGEOCRHEAHFWWOAEWXLAECIAWA",
+    "trigram_per_100": 2.9197080291970803,
+    "ioc": 0.03422085680150196
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

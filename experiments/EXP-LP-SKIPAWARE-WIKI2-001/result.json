@@ -1,0 +1,103 @@
+{
+  "experiment": "EXP-LP-SKIPAWARE-WIKI2-001",
+  "family": "skip-aware unused Wikipedia raw pads (Kabbalah/Thelema/Enochian) + file-SHA CTR",
+  "plant": {
+    "pad_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "sha_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ok": true
+  },
+  "docs": {
+    "Kabbalah": {
+      "url": "https://en.wikipedia.org/wiki/Kabbalah?action=raw",
+      "sha256": "f3d23e7b15fb3b271d0dba6ad9cabccf95cc30f4182868bb168755c14881cc45",
+      "runes": 107261,
+      "bytes": 155309
+    },
+    "Tree_of_life_(Kabbalah)": {
+      "url": "https://en.wikipedia.org/wiki/Tree_of_life_(Kabbalah)?action=raw",
+      "sha256": "306dfa6960aef126183b3d939853d0b7b335bbb4377fd25fc2ca8f2a9674d3bc",
+      "runes": 20413,
+      "bytes": 29758
+    },
+    "Thelema": {
+      "url": "https://en.wikipedia.org/wiki/Thelema?action=raw",
+      "sha256": "27db952a09b58fd1461927fef2a1a43c7f703062ddd28ad9717756e385cacf03",
+      "runes": 47662,
+      "bytes": 71105
+    },
+    "Enochian": {
+      "url": "https://en.wikipedia.org/wiki/Enochian?action=raw",
+      "sha256": "840a8c951d550448dfe2c4123cfa04fcfafa4aa3c78682734480f04eb2edbcd4",
+      "runes": 20079,
+      "bytes": 31553
+    },
+    "Zohar": {
+      "url": "https://en.wikipedia.org/wiki/Zohar?action=raw",
+      "sha256": "14691a6803a824533cea6e75ea6ccc936609d99b3f89a538a91c5abbb8e039f6",
+      "runes": 43417,
+      "bytes": 66107
+    },
+    "Aleister_Crowley": {
+      "url": "https://en.wikipedia.org/wiki/Aleister_Crowley?action=raw",
+      "sha256": "6e353f09956d2fa9d34016300d7fe6fda6916b582cc45bb7b193d654a0f44e71",
+      "runes": 81009,
+      "bytes": 128655
+    },
+    "Tetragrammaton": {
+      "url": "https://en.wikipedia.org/wiki/Tetragrammaton?action=raw",
+      "sha256": "d1ffcbb6effe0ac2d24e499b79871074e36efe86ed6fd848d660b4922ee6f9bf",
+      "runes": 87313,
+      "bytes": 136308
+    },
+    "Bahir": {
+      "url": "https://en.wikipedia.org/wiki/Bahir?action=raw",
+      "sha256": "ac546537dca768d55baf3d08cd0eb1782ed8874c46f679af4700a6e7dc42c221",
+      "runes": 11783,
+      "bytes": 17040
+    },
+    "Enochian_magic": {
+      "url": "https://en.wikipedia.org/wiki/Enochian_magic?action=raw",
+      "sha256": "b8b0ee74a8b2246d5b7cc4039ef89a963e18ba1698d7d315b2df2a04d80892d6",
+      "runes": 26212,
+      "bytes": 37942
+    },
+    "Golden_ratio": {
+      "url": "https://en.wikipedia.org/wiki/Golden_ratio?action=raw",
+      "sha256": "de0ab5140d284be7cc15ede1f8e02fadd78bb7998b8bde35f5e429648cf7f997",
+      "runes": 76288,
+      "bytes": 120743
+    }
+  },
+  "errors": [
+    {
+      "title": "Liber_AL_vel_Legis",
+      "error": "only 60 runes"
+    },
+    {
+      "title": "Qabalah",
+      "error": "only 21 runes"
+    }
+  ],
+  "tested": 40,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "family": "sha",
+    "key": "Enochian",
+    "span": "split015",
+    "head": "HFOYIPJECPSOIASJDCGNATHTHLBEXIATAEODRYYEEOWBIAVYAEEOYOOTDSLTHAEEEWVOTBXMYDTHEAYX",
+    "trigram_per_100": 2.4242424242424243,
+    "ioc": 0.03419028399286362
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0
+}

@@ -1,0 +1,60 @@
+{
+  "cgrid_keeps": [],
+  "cgrid_tested": 1512,
+  "fetches": [
+    {
+      "name": "faust",
+      "ok": true,
+      "runes": 167851,
+      "sha": "29fcc1c9ac6816c456ea8365629f9c87e45c4fb9776f15406c9d4a91afe91cb2"
+    },
+    {
+      "name": "alice",
+      "ok": true,
+      "runes": 114234,
+      "sha": "0f9ea0b148d553177962a25edd2f56d36342c22576a3253a127b4fbeffa5687d"
+    },
+    {
+      "name": "beowulf",
+      "ok": false,
+      "status": 404
+    },
+    {
+      "name": "inferno",
+      "ok": true,
+      "runes": 164084,
+      "sha": "be0cbb09f8090dc9f182a7f2f834f3d6068fced67d11271045edcc7a1149d66c"
+    }
+  ],
+  "primer_keeps": [],
+  "primer_tested": 2115,
+  "running_key_keeps": [
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.016666666666666666,
+      "hay": "faust",
+      "head": "SJMTHCOTHBATHAEXTHNGHTHBHPMEOHWTVIBWLTHENGOEDCTHAJRTHHETHTHYGBSEAPEPXVCIAFYBLATH",
+      "ioc": 0.049449035812672175,
+      "length": 160,
+      "pos": 127811,
+      "rel": "add",
+      "span": "split047",
+      "trigram_per_100": 3.75,
+      "vowelish_ratio": 0.3125
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.04395604395604396,
+      "hay": "inferno",
+      "head": "TEOTHHTJHJEOEOEATEADTHMXOIABTHEATHYOETHYSTEPTHEVPTHHEOTPTHAHNYEOALTXFNGMIAEIAENG",
+      "ioc": 0.04801720019111323,
+      "length": 124,
+      "pos": 137792,
+      "rel": "add",
+      "span": "split066",
+      "trigram_per_100": 4.032258064516129,
+      "vowelish_ratio": 0.31451612903225806
+    }
+  ],
+  "running_key_tested": 486
+}

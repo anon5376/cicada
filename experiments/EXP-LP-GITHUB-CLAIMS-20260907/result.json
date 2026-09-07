@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-07",
+  "verified_new_runes": 0,
+  "repos": [
+    {
+      "repo": "Leo-Y-Zhang/LiberPrimusAnalysis",
+      "pushed": "2026-09-07T02:39:26Z",
+      "verdict": "exclusion ledger; author states book not solved; agrees on 12956/86-doublet fingerprint"
+    },
+    {
+      "repo": "2retooz270703/Liber-Primus-27x27-Map-3-Rune-Nodes-Totient-Decryption",
+      "pushed": "2026-09-07T01:38:12Z",
+      "claimed": "AS I GO, THE WEATHER TURNS COLD. I MAY CRY...",
+      "verdict": "10-word cherry-picked 27x27 route; state machine not formalized; not 648 runes; not counted"
+    },
+    {
+      "repo": "vionorromanov/liber-primus-full",
+      "pushed": "2026-09-06T20:51:24Z",
+      "verdict": "BOOK.MD empty (1 byte)"
+    },
+    {
+      "repo": "cicada3301gsPGP/cicada3301",
+      "pushed": "2026-01-26T00:05:30Z",
+      "verdict": "empty git repository"
+    }
+  ]
+}

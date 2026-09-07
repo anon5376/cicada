@@ -1,0 +1,117 @@
+{
+  "hay_n": {
+    "shake_head": 67822,
+    "shake_mid": 67434,
+    "quran": 4638
+  },
+  "keeps": [],
+  "top": [
+    {
+      "run": 8,
+      "split": 66,
+      "hay": "shake_mid",
+      "pos": 66949,
+      "needle_n": 20
+    },
+    {
+      "run": 8,
+      "split": 55,
+      "hay": "shake_mid",
+      "pos": 10141,
+      "needle_n": 55
+    },
+    {
+      "run": 7,
+      "split": 63,
+      "hay": "shake_mid",
+      "pos": 1492,
+      "needle_n": 67
+    },
+    {
+      "run": 7,
+      "split": 63,
+      "hay": "shake_head",
+      "pos": 12863,
+      "needle_n": 67
+    },
+    {
+      "run": 7,
+      "split": 51,
+      "hay": "shake_head",
+      "pos": 50341,
+      "needle_n": 50
+    },
+    {
+      "run": 7,
+      "split": 49,
+      "hay": "shake_mid",
+      "pos": 45333,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 44,
+      "hay": "shake_mid",
+      "pos": 38238,
+      "needle_n": 71
+    },
+    {
+      "run": 7,
+      "split": 44,
+      "hay": "shake_head",
+      "pos": 2448,
+      "needle_n": 71
+    },
+    {
+      "run": 7,
+      "split": 39,
+      "hay": "shake_mid",
+      "pos": 1286,
+      "needle_n": 64
+    },
+    {
+      "run": 7,
+      "split": 39,
+      "hay": "shake_head",
+      "pos": 11991,
+      "needle_n": 64
+    },
+    {
+      "run": 7,
+      "split": 30,
+      "hay": "shake_head",
+      "pos": 16778,
+      "needle_n": 37
+    },
+    {
+      "run": 7,
+      "split": 27,
+      "hay": "shake_mid",
+      "pos": 10881,
+      "needle_n": 65
+    },
+    {
+      "run": 7,
+      "split": 27,
+      "hay": "shake_head",
+      "pos": 17235,
+      "needle_n": 65
+    },
+    {
+      "run": 6,
+      "split": 68,
+      "hay": "shake_mid",
+      "pos": 42257,
+      "needle_n": 40
+    },
+    {
+      "run": 6,
+      "split": 64,
+      "hay": "shake_mid",
+      "pos": 14095,
+      "needle_n": 18
+    }
+  ],
+  "wisdom_tested": 4,
+  "wisdom_hits": []
+}

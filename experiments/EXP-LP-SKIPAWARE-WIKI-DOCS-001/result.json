@@ -1,0 +1,150 @@
+{
+  "docs": {
+    "Aeneid": {
+      "runes": 51426,
+      "sha256": "8733a87b863ffabaecf487167826d0fec84335410913bf49d9409fec6883a2af",
+      "url": "https://en.wikipedia.org/wiki/Aeneid?action=raw"
+    },
+    "Beowulf": {
+      "runes": 67218,
+      "sha256": "a542cfd62b0e3050d5179c42a1141fffa6ec833483685dac791199fc976a2ad3",
+      "url": "https://en.wikipedia.org/wiki/Beowulf?action=raw"
+    },
+    "Book_of_Enoch": {
+      "runes": 73458,
+      "sha256": "b7e576469fb8fdeec90a104ba2ec612c4ecd3a414351ae1894ded836128db2d2",
+      "url": "https://en.wikipedia.org/wiki/Book_of_Enoch?action=raw"
+    },
+    "Cicada_3301": {
+      "runes": 15023,
+      "sha256": "ade52e6f3e1849089803d46269731b7302f0fe651783c02152aca92c219f371e",
+      "url": "https://en.wikipedia.org/wiki/Cicada_3301?action=raw"
+    },
+    "Emerald_Tablet": {
+      "runes": 77627,
+      "sha256": "46934309fd976512d34d7ce5feb1bd94c0e70a62b7de691f78a0e33fb280231c",
+      "url": "https://en.wikipedia.org/wiki/Emerald_Tablet?action=raw"
+    },
+    "Euler%27s_totient_function": {
+      "runes": 25593,
+      "sha256": "f42ef424a2bbfb0ca40a5f200a33d9bab460090bed87ba7e847d8f29bb2ce5b2",
+      "url": "https://en.wikipedia.org/wiki/Euler%27s_totient_function?action=raw"
+    },
+    "Hermetica": {
+      "runes": 51563,
+      "sha256": "042ae39cb8cc721519d50423ae7265062f7216eb753f960af93035de8c677556",
+      "url": "https://en.wikipedia.org/wiki/Hermetica?action=raw"
+    },
+    "Nag_Hammadi_library": {
+      "runes": 26416,
+      "sha256": "ab164db506b7c25cbd3af474fc2024e47c46e1f5017e33b30144cfcd2a6e9975",
+      "url": "https://en.wikipedia.org/wiki/Nag_Hammadi_library?action=raw"
+    },
+    "Principia_Discordia": {
+      "runes": 15549,
+      "sha256": "ad944410517de3a940a908e1a4c7ec206b169140be5e6fb5bee6941c907bf300",
+      "url": "https://en.wikipedia.org/wiki/Principia_Discordia?action=raw"
+    },
+    "Tao_Te_Ching": {
+      "runes": 43303,
+      "sha256": "4a5b94daa9bdd321bf0d00345630b6d79e3d1958525dfd8cfac6c82d70267e01",
+      "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching?action=raw"
+    },
+    "hints_never_used.md": {
+      "runes": 4205,
+      "sha256": "1b1faf879278a7cb2537216d9efc41ff4d817bf353f29e3d1d9b61ed6000a779",
+      "url": "https://raw.githubusercontent.com/scream314/cicada3301/master/hints_never_used.md"
+    },
+    "liber_primus.md": {
+      "runes": 34821,
+      "sha256": "0f7545d470f2056b45b5de2c8c116ecdea66969fdca6be57ccbd8e591e40ee92",
+      "url": "https://raw.githubusercontent.com/scream314/cicada3301/master/liber_primus.md"
+    },
+    "pages_and_ciphers.md": {
+      "runes": 11221,
+      "sha256": "093a43424a06269500f3fc2dd0dd89f80bf40b04ef74843ef8cb46c7c0b3d9e6",
+      "url": "https://raw.githubusercontent.com/scream314/cicada3301/master/pages_and_ciphers.md"
+    }
+  },
+  "keeps": [],
+  "plant": {
+    "agree": 1.0,
+    "n_docs": 13,
+    "ok": true
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 10,
+      "doc": "pages_and_ciphers.md",
+      "doublet_rate": 0.042606516290726815,
+      "head": "AATHHSVOENLJOCIXLBIPWEOMLSXVTEAMEOPENGEOSLTHMOEEAXLOEDJPXLOEFOEYGRJXHFEPAETHACFH",
+      "ioc": 0.034423558897243106,
+      "length": 505,
+      "mode": "pad0",
+      "span": "prefix400",
+      "trigram_per_100": 1.9801980198019802,
+      "vowelish_ratio": 0.403960396039604
+    },
+    {
+      "common_trigram_hits": 9,
+      "doc": "pages_and_ciphers.md",
+      "doublet_rate": 0.02506265664160401,
+      "head": "VOEYNGHACMFFSCXWNGVEAVMNAEHWTIHAEAXGFEOTNFANYFAEGOXORWTVHEAOENAEMAEIWEONVWXNTEOS",
+      "ioc": 0.03527568922305764,
+      "length": 510,
+      "mode": "sha256_ctr",
+      "span": "prefix400",
+      "trigram_per_100": 1.7647058823529411,
+      "vowelish_ratio": 0.44509803921568625
+    },
+    {
+      "common_trigram_hits": 5,
+      "doc": "pages_and_ciphers.md",
+      "doublet_rate": 0.0421455938697318,
+      "head": "AATHHSVOENLJOCIXLBIPWEOMLSXVTEAMEOPENGEOSLTHMOEEAXLOEDJPXLOEFOEYGRJXHFEPAETHACFH",
+      "ioc": 0.03413178906729841,
+      "length": 332,
+      "mode": "pad0",
+      "span": "split015",
+      "trigram_per_100": 1.5060240963855422,
+      "vowelish_ratio": 0.39759036144578314
+    },
+    {
+      "common_trigram_hits": 5,
+      "doc": "pages_and_ciphers.md",
+      "doublet_rate": 0.02681992337164751,
+      "head": "VOEYNGHACMFFSCXWNGVEAVMNAEHWTIHAEAXGFEOTNFANYFAEGOXORWTVHEAOENAEMAEIWEONVWXNTEOS",
+      "ioc": 0.03609136907373285,
+      "length": 338,
+      "mode": "sha256_ctr",
+      "span": "split015",
+      "trigram_per_100": 1.4792899408284024,
+      "vowelish_ratio": 0.4408284023668639
+    },
+    {
+      "common_trigram_hits": 8,
+      "doc": "Cicada_3301",
+      "doublet_rate": 0.017543859649122806,
+      "head": "FFSEAMAENXIOEHHERTHAETPOEEDLSAEBNGTHRTPELASOEWTHPTHCPWNYOEANTHEAAJBEAEAEYOOEMNJG",
+      "ioc": 0.035238095238095235,
+      "length": 510,
+      "mode": "pad0",
+      "span": "prefix400",
+      "trigram_per_100": 1.5686274509803921,
+      "vowelish_ratio": 0.48823529411764705
+    },
+    {
+      "common_trigram_hits": 5,
+      "doc": "Cicada_3301",
+      "doublet_rate": 0.03258145363408521,
+      "head": "XNHVPAEIONGRMDIIIABMAEETHROEEOLCSEAXLBXENGTPAEIIEOAEEPAEAANGAENGGGTHDTDEAWCYCBEO",
+      "ioc": 0.03459899749373434,
+      "length": 496,
+      "mode": "sha256_ctr",
+      "span": "prefix400",
+      "trigram_per_100": 1.0080645161290323,
+      "vowelish_ratio": 0.4435483870967742
+    }
+  ],
+  "tested": 52
+}

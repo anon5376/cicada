@@ -1,0 +1,43 @@
+{
+  "experiment": "EXP-LP-HASH-DRBG-001",
+  "family": "NIST Hash_DRBG SHA-256 (`%29` + hi5); rigid + skip-aware beam",
+  "plant": {
+    "det": true,
+    "ne_hi": true,
+    "hash_drbg_rigid": true,
+    "hash_drbg_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "hash_drbg_wrong": true,
+    "hash_drbg_hi5_rigid": true,
+    "hash_drbg_hi5_beam": {
+      "agree": 0.9877,
+      "ok": true
+    },
+    "hash_drbg_hi5_wrong": true,
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 3894,
+  "tested_beam": 44,
+  "tested": 3938,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "rigid",
+    "gen": "hash_drbg",
+    "seed": "int:2050296079",
+    "span": "split047",
+    "rel": "sub",
+    "head": "NGVTHEAGVNGEOEALJVOAODDOOEPASEAGEOMEOEOPHLEOSFTCTYCDIINGIAAEVAENTOOEAAWJAEOEIATH",
+    "trigram_per_100": 3.7267080745341614,
+    "ioc": 0.03650137741046832
+  },
+  "skeptic_review": {
+    "verdict": "null",
+    "english": false
+  },
+  "verified_new_unsolved_runes": 0,
+  "boundary": "HMAC-DRBG and HKDF already closed; not a 2^256 grind"
+}

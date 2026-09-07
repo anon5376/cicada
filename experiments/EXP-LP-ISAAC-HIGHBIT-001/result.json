@@ -1,0 +1,52 @@
+{
+  "experiment": "EXP-LP-ISAAC-HIGHBIT-001",
+  "family": "ISAAC CSPRNG + high-bit extracts of xorshift32/PCG/Galois",
+  "plant": {
+    "isaac_mod_rigid": true,
+    "isaac_mod_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "isaac_hi_rigid": true,
+    "isaac_hi_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "xs32_hi_rigid": true,
+    "xs32_hi_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "pcg32_hi_rigid": true,
+    "pcg32_hi_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "galois32_hi_rigid": true,
+    "galois32_hi_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 1320,
+  "tested_beam": 110,
+  "tested": 1430,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "beam",
+    "gen": "isaac_mod",
+    "seed": "int:2012",
+    "span": "prefix400",
+    "rel": "sub",
+    "head": "PNVSAEDYTHENGFRMBDTHJRAGNIATHNGBWXYHVNSXYOEHFVEAAEAEJIAJROEAMWTHDMTTHBNXMEJTNVAE",
+    "trigram_per_100": 2.9411764705882355,
+    "ioc": 0.03582706766917293
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

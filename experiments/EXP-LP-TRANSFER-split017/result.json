@@ -1,0 +1,160 @@
+{
+  "attempt_id": "att-8c916458a93a",
+  "definition_hash": "f1531739ef067b288a8345e3d7ffd4695df714c3832c63dce8132c42e6e8e6ac",
+  "does_not_exclude": "other keys, other families, other offsets, other F-skip rules, other transcriptions",
+  "end_time": "2026-09-07T04:26:17Z",
+  "execution_status": "COMPLETED",
+  "expected_count": 12,
+  "experiment_id": "EXP-LP-TRANSFER-split017",
+  "input_rune_count": 201,
+  "interesting": [],
+  "interpretation": "No tested transfer crossed the uncalibrated English-like threshold",
+  "results": [
+    {
+      "latin_head": "OEMVHTBEOLDHBMEARBNHBEGEODLWEOIAPOHEEAWIRIHVTHHYNXBGJPVNGEAFNIEDIANGRDBJIAOEMIFT",
+      "method": "direct",
+      "scores": {
+        "common_trigram_hits": 2,
+        "doublet_rate": 0.005,
+        "ioc": 0.03562189054726368,
+        "length": 241,
+        "trigram_per_100": 0.8298755186721992,
+        "vowelish_ratio": 0.3651452282157676
+      }
+    },
+    {
+      "latin_head": "GNIALEOJTHCLJNFAJMLJIOETCHNGTVSAELIFNGEAELIAYLTHMXJOEBSIAWFEAMEICVWACJBVGNEEAEOB",
+      "method": "atbash",
+      "scores": {
+        "common_trigram_hits": 0,
+        "doublet_rate": 0.005,
+        "ioc": 0.03562189054726368,
+        "length": 246,
+        "trigram_per_100": 0.0,
+        "vowelish_ratio": 0.4268292682926829
+      }
+    },
+    {
+      "latin_head": "NEOVDSXMJHDXEOOIAXOEDXPAEMHJAMREEADPOANGIANGDVFDCOEBXAELEVIOTHOENGPHRIIAHXLRNEON",
+      "method": "atbash_plus_3",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.005,
+        "ioc": 0.03562189054726368,
+        "length": 244,
+        "trigram_per_100": 0.4098360655737705,
+        "vowelish_ratio": 0.38114754098360654
+      }
+    },
+    {
+      "latin_head": "NGBYTHGCAETHVNTEOBLFSHSIDIAOAEGOXIAPTOEEOEMJWOMXTEACHVBEEDTHCRNRICOLYXTHNGGLOMWM",
+      "method": "totient_prime",
+      "scores": {
+        "common_trigram_hits": 2,
+        "doublet_rate": 0.02,
+        "ioc": 0.03666666666666667,
+        "length": 250,
+        "trigram_per_100": 0.8,
+        "vowelish_ratio": 0.456
+      }
+    },
+    {
+      "latin_head": "EANFIAWWAEDFIATNMDVEOXWBAEOPRIEBEOOEEAHEOITDNIANGNGNGFSRTAETHOXACMHFNPJAIPTVEEOO",
+      "method": "vigenere:DIVINITY",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.04,
+        "ioc": 0.03502487562189055,
+        "length": 243,
+        "trigram_per_100": 0.411522633744856,
+        "vowelish_ratio": 0.39094650205761317
+      }
+    },
+    {
+      "latin_head": "OENYHSIAEOTHMMHMIRWCHTEAGDMTHIAEONPOEREIABISGMNGTHMYEAIBCNGPEOBILNNGEPDNGORBOEDR",
+      "method": "vigenere:FIRFUMFERENFE",
+      "scores": {
+        "common_trigram_hits": 0,
+        "doublet_rate": 0.02,
+        "ioc": 0.03502487562189055,
+        "length": 245,
+        "trigram_per_100": 0.0,
+        "vowelish_ratio": 0.39183673469387753
+      }
+    },
+    {
+      "latin_head": "EOISNGNGPTHJHNGOESEATHOEPPHYYWAEOTHEIATPXEIAABSRLOEOEIXIWYAEYGBELDDDMBEOEWOEWBPR",
+      "method": "vigenere:INSTAR",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.045,
+        "ioc": 0.03407960199004975,
+        "length": 239,
+        "trigram_per_100": 0.41841004184100417,
+        "vowelish_ratio": 0.3682008368200837
+      }
+    },
+    {
+      "latin_head": "BNYOSIAEOTHMMHXIEAWCOTEAGDMTHIAWNHOERPIABISGMNGYMNGEAIEOCNGPEOBILRNGPPDTORBOEDRI",
+      "method": "vigenere:CIRCUMFERENCE",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.035,
+        "ioc": 0.033383084577114426,
+        "length": 248,
+        "trigram_per_100": 0.4032258064516129,
+        "vowelish_ratio": 0.4032258064516129
+      }
+    },
+    {
+      "latin_head": "NNITHEOWOEWPBJSEXREABJXAEOEIITGDOPAHHVGDLALJTHOEEAARAELWYJNTEAMEOMBTHLPYCDEOFYMA",
+      "method": "vigenere:PILGRIM",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.045,
+        "ioc": 0.031840796019900496,
+        "length": 248,
+        "trigram_per_100": 0.4032258064516129,
+        "vowelish_ratio": 0.4475806451612903
+      }
+    },
+    {
+      "latin_head": "NSLEIATHEATPEEARSFWMMTHCTHTHRTHNGEADOPMOSOFXNGOEBIAIAWLEARTHVDEOGSAEEALFHXBDREAA",
+      "method": "vigenere:PRIMES",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.055,
+        "ioc": 0.03537313432835821,
+        "length": 254,
+        "trigram_per_100": 0.3937007874015748,
+        "vowelish_ratio": 0.3700787401574803
+      }
+    },
+    {
+      "latin_head": "EANFWGHTHRYXWEEAWOEJDHCTHXILSROTHIANELPIFIAFVIABEAIALEOVEOLEOEPEOTHOEBEODWLBBNGN",
+      "method": "vigenere_skip_pt_f:DIVINITY",
+      "scores": {
+        "common_trigram_hits": 2,
+        "doublet_rate": 0.045,
+        "ioc": 0.03353233830845771,
+        "length": 246,
+        "trigram_per_100": 0.8130081300813008,
+        "vowelish_ratio": 0.43089430894308944
+      }
+    },
+    {
+      "latin_head": "OENYHSIAEOTHMMHMIRWCHTEAGDMTHIAEONPOEREIABISGMNGTHMYEAIBCNGPEOBILNNGEPDNGORBOEDR",
+      "method": "vigenere_skip_pt_f:FIRFUMFERENFE",
+      "scores": {
+        "common_trigram_hits": 1,
+        "doublet_rate": 0.035,
+        "ioc": 0.03383084577114428,
+        "length": 249,
+        "trigram_per_100": 0.40160642570281124,
+        "vowelish_ratio": 0.40562248995983935
+      }
+    }
+  ],
+  "start_time": "2026-09-07T04:26:17Z",
+  "tested_count": 12
+}

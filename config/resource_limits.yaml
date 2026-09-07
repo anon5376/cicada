@@ -1,0 +1,5 @@
+max_http_bytes: 83886080
+http_timeout_seconds: 45
+max_redirects: 5
+gpg_isolated_home: true
+allow_paid_services: false

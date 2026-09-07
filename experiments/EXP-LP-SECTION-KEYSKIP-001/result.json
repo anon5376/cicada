@@ -1,0 +1,34 @@
+{
+  "experiment": "EXP-LP-SECTION-KEYSKIP-001",
+  "family": "extra key consume at red-section / page-join boundaries",
+  "plant": {
+    "sub_e1": true,
+    "add_e1": true,
+    "beau_e1": true,
+    "sub_e2": true,
+    "add_e2": true,
+    "beau_e2": true,
+    "sub_e3": true,
+    "add_e3": true,
+    "beau_e3": true,
+    "wrong": true,
+    "ok": true
+  },
+  "tested": 7632,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "split": 22,
+    "stream": "tot1",
+    "burn": "allpages",
+    "extra": 1,
+    "rel": "add",
+    "head": "MRSWJJCSAETFANGRJFEFHOAETHHWTHNTHEAVRTHERHTHOXSSVJVNIDXHAOYYGIOERPOEFTEOGNGTXVTH",
+    "trigram_per_100": 4.743083003952569,
+    "ioc": 0.03409513192121888
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

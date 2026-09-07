@@ -1,0 +1,18 @@
+{
+  "source_image_sha256": "2db94921ae5216d8a589890495fa5432446cd3227c45fbeb4934cbb0525112f7",
+  "trailer_sha256": "3e95593e226980e3bf743ce9d12f38cf41b96dc7797587f9ff7470788719803f",
+  "trailer_len": 72700,
+  "entropy_bits": 6.897298884611867,
+  "first_magic_hits": {
+    "jpeg": 72697,
+    "png": -1,
+    "zip": -1,
+    "gzip": 602,
+    "pdf": -1,
+    "rar": -1,
+    "7z": -1,
+    "elf": -1,
+    "pgp": -1
+  },
+  "status": "DISCOVERY CANDIDATE \u2014 community derivative file; not treated as original Cicada payload"
+}

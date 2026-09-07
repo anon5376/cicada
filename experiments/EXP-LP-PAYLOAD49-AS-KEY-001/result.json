@@ -1,0 +1,8 @@
+{
+  "n_tokens": 256,
+  "min": 0,
+  "max": 255,
+  "tested": 12,
+  "hits": [],
+  "note": "base-60 0-9A-Za-x on rtkd splits 64-66; additive use as key over unsolved runes"
+}

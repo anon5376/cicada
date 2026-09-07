@@ -1,0 +1,9 @@
+# Filled from GnuPG inspect_key on recovered bytes, 2026-09-07.
+candidate_primary_fingerprint: "6D854CD7933322A601C3286D181F01E57A35090F"
+short_key_id: "7A35090F"
+short_key_id_collision_warning: "7A35090F is not an identity. iBotPeaches filename 67F363C6... is not this fingerprint."
+krisyotam_key_sha256: "6e397c5c6ceeeb4da08535db74874989f193c914b8d2d87972dd282b24ea809f"
+ibotpeaches_keyring_sha256: "8ff42a7f4089e2be2de14cf83717d6027bae2bbfe919fa668e45934b2289dd2b"
+user_id_on_object: "Cicada 3301 (845145127)"
+key_packet_created_unix: 1325734783
+historical_binding: STRONGLY_SUPPORTED_from_signed_2012_announcement_on_2026_mirrors

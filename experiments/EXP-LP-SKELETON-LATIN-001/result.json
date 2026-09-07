@@ -1,0 +1,176 @@
+{
+  "latin_chars": 1594847,
+  "hay_lw": 224709,
+  "hay_gr": 203138,
+  "keeps": [],
+  "top": [
+    {
+      "run": 7,
+      "split": 61,
+      "enc": "lw",
+      "pos": 2949,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 61,
+      "enc": "gr",
+      "pos": 2722,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 48,
+      "enc": "gr",
+      "pos": 202841,
+      "needle_n": 53
+    },
+    {
+      "run": 6,
+      "split": 69,
+      "enc": "lw",
+      "pos": 177801,
+      "needle_n": 50
+    },
+    {
+      "run": 6,
+      "split": 66,
+      "enc": "gr",
+      "pos": 5615,
+      "needle_n": 20
+    },
+    {
+      "run": 6,
+      "split": 56,
+      "enc": "lw",
+      "pos": 202024,
+      "needle_n": 62
+    },
+    {
+      "run": 6,
+      "split": 56,
+      "enc": "gr",
+      "pos": 182724,
+      "needle_n": 62
+    },
+    {
+      "run": 6,
+      "split": 55,
+      "enc": "lw",
+      "pos": 82231,
+      "needle_n": 55
+    },
+    {
+      "run": 6,
+      "split": 55,
+      "enc": "gr",
+      "pos": 74628,
+      "needle_n": 55
+    },
+    {
+      "run": 6,
+      "split": 52,
+      "enc": "gr",
+      "pos": 158483,
+      "needle_n": 53
+    },
+    {
+      "run": 6,
+      "split": 48,
+      "enc": "lw",
+      "pos": 110089,
+      "needle_n": 53
+    },
+    {
+      "run": 6,
+      "split": 44,
+      "enc": "gr",
+      "pos": 26117,
+      "needle_n": 71
+    },
+    {
+      "run": 6,
+      "split": 43,
+      "enc": "lw",
+      "pos": 140062,
+      "needle_n": 59
+    },
+    {
+      "run": 6,
+      "split": 43,
+      "enc": "gr",
+      "pos": 49049,
+      "needle_n": 59
+    },
+    {
+      "run": 6,
+      "split": 38,
+      "enc": "lw",
+      "pos": 18632,
+      "needle_n": 46
+    },
+    {
+      "run": 6,
+      "split": 30,
+      "enc": "lw",
+      "pos": 7797,
+      "needle_n": 37
+    },
+    {
+      "run": 6,
+      "split": 30,
+      "enc": "gr",
+      "pos": 111771,
+      "needle_n": 37
+    },
+    {
+      "run": 6,
+      "split": 27,
+      "enc": "lw",
+      "pos": 32067,
+      "needle_n": 65
+    },
+    {
+      "run": 6,
+      "split": 26,
+      "enc": "gr",
+      "pos": 19725,
+      "needle_n": 55
+    },
+    {
+      "run": 6,
+      "split": 16,
+      "enc": "lw",
+      "pos": 62113,
+      "needle_n": 63
+    }
+  ],
+  "null80k": 4,
+  "sources": [
+    "livy1",
+    "gall1",
+    "aen1",
+    "livy2",
+    "gall2",
+    "aen2",
+    "livy3",
+    "gall3",
+    "aen3",
+    "livy4",
+    "gall4",
+    "aen4",
+    "livy5",
+    "gall5",
+    "aen5",
+    "livy6",
+    "gall6",
+    "aen6",
+    "livy7",
+    "gall7",
+    "aen7",
+    "livy8",
+    "gall8",
+    "aen8",
+    "ovid.met1"
+  ]
+}

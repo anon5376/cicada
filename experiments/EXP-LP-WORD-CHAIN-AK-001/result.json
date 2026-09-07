@@ -1,0 +1,23 @@
+{
+  "experiment": "EXP-LP-WORD-CHAIN-AK-001",
+  "family": "previous-word running key; first word totient/atbash/direct",
+  "plant": {
+    "agree": 1.0,
+    "ok": true,
+    "n": 184
+  },
+  "tested": 159,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "split": 33,
+    "first": "tot0",
+    "head": "IAOEWGEHGPHVMNRIASEOHPGJLFPBOENSYXAPYIWDGFVTIAHDXOEDEABWJXROEBTGVEAYCOEYXTHEMBLT",
+    "trigram_per_100": 2.4390243902439024,
+    "ioc": 0.03471933471933472
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

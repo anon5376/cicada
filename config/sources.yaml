@@ -1,0 +1,10 @@
+allowlist_hosts:
+  - github.com
+  - raw.githubusercontent.com
+  - api.github.com
+  - archive.org
+  - web.archive.org
+  - uncovering-cicada.fandom.com
+  - pastebin.com
+method: GET
+note: "Acquisition is passive HTTPS only. See src/cicada/acquisition.py."

@@ -1,0 +1,67 @@
+{
+  "fetch_errors": [],
+  "fetched": [
+    {
+      "byte_length": 202162,
+      "name": "liber_primus",
+      "sha256": "254efc56e7d32611e92925d367518675cf62f20da9e8324d1a110b4b23ef5039"
+    },
+    {
+      "byte_length": 236413,
+      "name": "how_solved",
+      "sha256": "ca92a05a645c4007904adc76cf1bf1c62609c4e44391fe3e9fabe96fe182c104"
+    }
+  ],
+  "keeps": [],
+  "plant": {
+    "agree": 0.7901,
+    "ok": false
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 8,
+      "doublet_rate": 0.02506265664160401,
+      "head": "NGCPTNGNNGEAWIAPEEOLSVHOEPNEAIAETHOEORFWRJIAJLNJTHSNGRLYOTRNTHSGEOIIALIAPALIABLE",
+      "ioc": 0.03553884711779449,
+      "length": 523,
+      "span": "prefix400",
+      "src": "liber_primus",
+      "trigram_per_100": 1.5296367112810707,
+      "vowelish_ratio": 0.4722753346080306
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.022988505747126436,
+      "head": "NGCPTNGNNGEAWIAPEEOLSVHOEPNEAIAETHOEORFWRJIAJLNJTHSNGRLYOTRNTHSGEOIIALIAPALIABLE",
+      "ioc": 0.03477523324851569,
+      "length": 337,
+      "span": "split015",
+      "src": "liber_primus",
+      "trigram_per_100": 1.4836795252225519,
+      "vowelish_ratio": 0.45103857566765576
+    },
+    {
+      "common_trigram_hits": 8,
+      "doublet_rate": 0.02506265664160401,
+      "head": "NGCPTNGNNGEAWIAPEEOLSVHOEPNEAIAETHOEORFWRJIAJLNJTHSNGRLYOTRNTHSGEOIIALIAPALIABLE",
+      "ioc": 0.03575187969924812,
+      "length": 513,
+      "span": "prefix400",
+      "src": "how_solved",
+      "trigram_per_100": 1.5594541910331383,
+      "vowelish_ratio": 0.442495126705653
+    },
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.01532567049808429,
+      "head": "NGCPTNGNNGEAWIAPEEOLSVHOEPNEAIAETHOEORFWRJIAJLNJTHSNGRLYOTRNTHSGEOIIALIAPALIABLE",
+      "ioc": 0.03413178906729841,
+      "length": 339,
+      "span": "split015",
+      "src": "how_solved",
+      "trigram_per_100": 1.7699115044247788,
+      "vowelish_ratio": 0.44542772861356933
+    }
+  ],
+  "tested": 4
+}

@@ -1,0 +1,402 @@
+{
+  "cipher_keeps": [],
+  "cipher_tested": 13305,
+  "fetch_log": [
+    {
+      "name": "beowulf",
+      "ok": false,
+      "status": 404
+    },
+    {
+      "name": "divine_comedy",
+      "ok": false,
+      "status": 404
+    },
+    {
+      "chars": 240071,
+      "name": "faust",
+      "ok": true,
+      "sha": "29fcc1c9ac6816c456ea8365629f9c87e45c4fb9776f15406c9d4a91afe91cb2",
+      "words": 41108
+    },
+    {
+      "name": "mormon",
+      "ok": false,
+      "status": 404
+    },
+    {
+      "chars": 66403,
+      "name": "tao",
+      "ok": true,
+      "sha": "4a5b94daa9bdd321bf0d00345630b6d79e3d1958525dfd8cfac6c82d70267e01",
+      "words": 9554
+    },
+    {
+      "chars": 39232,
+      "name": "nag_hammadi",
+      "ok": true,
+      "sha": "ab164db506b7c25cbd3af474fc2024e47c46e1f5017e33b30144cfcd2a6e9975",
+      "words": 5600
+    }
+  ],
+  "quixote_skeptic": {
+    "ks_ioc": 0.033,
+    "n_runes": 37,
+    "ok": true,
+    "period_agree": {
+      "1": 0.0,
+      "10": 0.037,
+      "11": 0.038,
+      "12": 0.04,
+      "2": 0.057,
+      "3": 0.059,
+      "4": 0.091,
+      "5": 0.031,
+      "6": 0.032,
+      "7": 0.0,
+      "8": 0.069,
+      "9": 0.0
+    },
+    "phrase": "WAR HANDED DOWN FROM THAT TIME THEN THIS ORDER OF",
+    "totient_agree": 0.054,
+    "verdict": "chance-length alignment; unstructured keystream; not a decrypt"
+  },
+  "sample": [
+    {
+      "cipher": "trithemius0",
+      "head": "SWTFTHXNGOEWBHIOEEYLNEOOEOEOBNSDJLYTOEJHEYRMEATHOEIAGYXEATHOEAOEEORFRLOEIATLEAFP",
+      "ioc": 0.034411074032876035,
+      "key": "-",
+      "span": "prefix900",
+      "trigram_per_100": 0.7149240393208222
+    },
+    {
+      "cipher": "beaufort",
+      "head": "HTHEOWOLEYHPEOERHCLIAIMBGVXBCOPSDBRTTHNNGXOFXEGVOYNGVRSNGSNPAOEOEPCEOVAEOIVPWIBN",
+      "ioc": 0.03457174638487208,
+      "key": "DIVINITY",
+      "span": "prefix900",
+      "trigram_per_100": 0.6381039197812215
+    },
+    {
+      "cipher": "autokey_pt",
+      "head": "NGIABOEYNJODEAVEAHOEFOTHVIDATTHGTGWVLGIRCATHASRNGREOXAEETHCLWMIAEHEOEOOGEABRGDBE",
+      "ioc": 0.03420837968112718,
+      "key": "DIVINITY",
+      "span": "prefix900",
+      "trigram_per_100": 0.8137432188065099
+    },
+    {
+      "cipher": "porta29",
+      "head": "GEOIASNJYGTHOJXYIAETHAYEOYMENGNBTHFGEOXOEEOAEAVSLELHMEODHMXDAEFGTHCWWAENOSRSAPAE",
+      "ioc": 0.03416882956371277,
+      "key": "DIVINITY",
+      "span": "prefix900",
+      "trigram_per_100": 1.3392857142857142
+    },
+    {
+      "cipher": "nicodemus",
+      "head": "ADXEEOONGOETEAWNGAENGXOJGBOELRSAEMSTHWFONGLEACCEOOEIAFTETOEEOEWJLYATHYIAIASIAEAM",
+      "ioc": 0.03467309356074651,
+      "key": "DIVINITY",
+      "span": "prefix900",
+      "trigram_per_100": 0.18050541516245489
+    },
+    {
+      "cipher": "trithemius0",
+      "head": "SWTFTHXNGOEWBHIOEEYLNEOOEOEOBNSDJLYTOEJHEYRMEATHOEIAGYXEATHOEAOEEORFRLOEIATLEAFP",
+      "ioc": 0.03425586758920092,
+      "key": "-",
+      "span": "sec0-2",
+      "trigram_per_100": 0.5574136008918618
+    },
+    {
+      "cipher": "beaufort",
+      "head": "HTHEOWOLEYHPEOERHCLIAIMBGVXBCOPSDBRTTHNNGXOFXEGVOYNGVRSNGSNPAOEOEPCEOVAEOIVPWIBN",
+      "ioc": 0.03439530291382143,
+      "key": "DIVINITY",
+      "span": "sec0-2",
+      "trigram_per_100": 0.671892497200448
+    },
+    {
+      "cipher": "autokey_pt",
+      "head": "NGIABOEYNJODEAVEAHOEFOTHVIDATTHGTGWVLGIRCATHASRNGREOXAEETHCLWMIAEHEOEOOGEABRGDBE",
+      "ioc": 0.03444052518126592,
+      "key": "DIVINITY",
+      "span": "sec0-2",
+      "trigram_per_100": 0.7874015748031497
+    },
+    {
+      "cipher": "porta29",
+      "head": "GEOIASNJYGTHOJXYIAETHAYEOYMENGNBTHFGEOXOEEOAEAVSLELHMEODHMXDAEFGTHCWWAENOSRSAPAE",
+      "ioc": 0.033946848761663574,
+      "key": "DIVINITY",
+      "span": "sec0-2",
+      "trigram_per_100": 1.1074197120708749
+    },
+    {
+      "cipher": "nicodemus",
+      "head": "ARXILJEOMEOMWBEOOEOEAEIBEOAETHLIFYTHXTHOEXJYTHCSOEHEOLPGEJSXLHESYCIAEPORMEAPVSLT",
+      "ioc": 0.03444806222584,
+      "key": "DIVINITY",
+      "span": "sec0-2",
+      "trigram_per_100": 0.4410143329658214
+    },
+    {
+      "cipher": "trithemius0",
+      "head": "SWTFTHXNGOEWBHIOEEYLNEOOEOEOBNSDJLYTOEJHEYRMEATHOEIAGYXEATHOEAOEEORFRLOEIATLEAFP",
+      "ioc": 0.03445924924296217,
+      "key": "-",
+      "span": "unsolved",
+      "trigram_per_100": 0.7450176941702366
+    },
+    {
+      "cipher": "beaufort",
+      "head": "HTHEOWOLEYHPEOERHCLIAIMBGVXBCOPSDBRTTHNNGXOFXEGVOYNGVRSNGSNPAOEOEPCEOVAEOIVPWIBN",
+      "ioc": 0.03447525210465038,
+      "key": "DIVINITY",
+      "span": "unsolved",
+      "trigram_per_100": 0.6360688450985283
+    },
+    {
+      "cipher": "autokey_pt",
+      "head": "NGIABOEYNJODEAVEAHOEFOTHVIDATTHGTGWVLGIRCATHASRNGREOXAEETHCLWMIAEHEOEOOGEABRGDBE",
+      "ioc": 0.03445827215088589,
+      "key": "DIVINITY",
+      "span": "unsolved",
+      "trigram_per_100": 0.7561671005330358
+    },
+    {
+      "cipher": "porta29",
+      "head": "GEOIASNJYGTHOJXYIAETHAYEOYMENGNBTHFGEOXOEEOAEAVSLELHMEODHMXDAEFGTHCWWAENOSRSAPAE",
+      "ioc": 0.03447319067868458,
+      "key": "DIVINITY",
+      "span": "unsolved",
+      "trigram_per_100": 0.8138667992047713
+    },
+    {
+      "cipher": "nicodemus",
+      "head": "YGXEOEHYXFOEWSTHEOTHPNRBXRGYIAYTTHTHIPAWTNCRXBTCLMEAGILWCRYELHXNGIAHEAMIOEONGAOE",
+      "ioc": 0.03446944913097788,
+      "key": "DIVINITY",
+      "span": "unsolved",
+      "trigram_per_100": 0.6531069229333831
+    },
+    {
+      "cipher": "beaufort",
+      "head": "HTHEOWOLEYHPEOERHCLIAIMBGVXBCOPSDBRTTHNNGXOFXEGVOYNGVRSNGSNPAOEOEPCEOVAEOIVPWIBN",
+      "ioc": 0.03427802638121143,
+      "key": "DIVINITY",
+      "span": "split015",
+      "trigram_per_100": 0.9493670886075949
+    },
+    {
+      "cipher": "autokey_pt",
+      "head": "NGIABOEYNJODEAVEAHOEFOTHVIDATTHGTGWVLGIRCATHASRNGREOXAEETHCLWMIAEHEOEOOGEABRGDBE",
+      "ioc": 0.03477523324851569,
+      "key": "DIVINITY",
+      "span": "split015",
+      "trigram_per_100": 0.9146341463414634
+    },
+    {
+      "cipher": "porta29",
+      "head": "GEOIASNJYGTHOJXYIAETHAYEOYMENGNBTHFGEOXOEEOAEAVSLELHMEODHMXDAEFGTHCWWAENOSRSAPAE",
+      "ioc": 0.03357608727442894,
+      "key": "DIVINITY",
+      "span": "split015",
+      "trigram_per_100": 1.5384615384615385
+    },
+    {
+      "cipher": "nicodemus",
+      "head": "AEOXJNGRAEFGLWFFJIRIJBBTYFJRTTHTYWYWVJCIAVADMNGRETHOERSJCBYGEAPWHAETEAIAHWAEIAIA",
+      "ioc": 0.034658243397385276,
+      "key": "DIVINITY",
+      "span": "split015",
+      "trigram_per_100": 0.6060606060606061
+    },
+    {
+      "cipher": "beaufort",
+      "head": "EAFJAFADOEOEOSMJBNGVTHAWYOECEOAAEGPWSHTFNFXBEAIAEDDJYWTLHWBYOEXVVPEYBSMFRLFVCPMI",
+      "ioc": 0.03257199602780536,
+      "key": "DIVINITY",
+      "span": "split016",
+      "trigram_per_100": 0.9287925696594427
+    },
+    {
+      "cipher": "autokey_pt",
+      "head": "VFECFCGWFWYSIABEENGHYIAEBSPGAELCCXXPHXAEBCSGMNGXHSBRTHFXEAFILCVHEODSIEVAEIJTHIOE",
+      "ioc": 0.03750886650588736,
+      "key": "DIVINITY",
+      "span": "split016",
+      "trigram_per_100": 0.6369426751592356
+    },
+    {
+      "cipher": "porta29",
+      "head": "VLRCECGTABFIREOHPEOCHDWSLXRXTHIAFYTFCLVEOMARSDEAMIAPNAWSDDVBMMLOEOFIETNFPSTHILJR",
+      "ioc": 0.0348418215349695,
+      "key": "DIVINITY",
+      "span": "split016",
+      "trigram_per_100": 1.8404907975460123
+    },
+    {
+      "cipher": "nicodemus",
+      "head": "GWDSVYEOJPINEOWTEAWBVEJPVIANGOJXOVMETHLIHTHLFMCFEOXOEJEAJOPSNGHDBLXJVOXLAEAIAEOE",
+      "ioc": 0.034331110795857565,
+      "key": "DIVINITY",
+      "span": "split016",
+      "trigram_per_100": 0.0
+    },
+    {
+      "cipher": "beaufort",
+      "head": "VLFTHOEOERGFTHPLIGEABSOEEORYTAEMJEOBWVNGBMPGLTHHHHFXAEPRIAYSCAINGFLTECMTPEAJBYTD",
+      "ioc": 0.03502487562189055,
+      "key": "DIVINITY",
+      "span": "split017",
+      "trigram_per_100": 0.39215686274509803
+    }
+  ],
+  "skel_keeps": [],
+  "skel_max_run": 8,
+  "skel_top": [
+    {
+      "hay": "faust",
+      "needle_n": 55,
+      "pos": 22968,
+      "run": 8,
+      "split": 55
+    },
+    {
+      "hay": "faust",
+      "needle_n": 65,
+      "pos": 30130,
+      "run": 7,
+      "split": 27
+    },
+    {
+      "hay": "faust",
+      "needle_n": 71,
+      "pos": 4296,
+      "run": 7,
+      "split": 44
+    },
+    {
+      "hay": "faust",
+      "needle_n": 50,
+      "pos": 33678,
+      "run": 7,
+      "split": 51
+    },
+    {
+      "hay": "faust",
+      "needle_n": 67,
+      "pos": 10994,
+      "run": 7,
+      "split": 63
+    },
+    {
+      "hay": "tao",
+      "needle_n": 40,
+      "pos": 5458,
+      "run": 7,
+      "split": 68
+    },
+    {
+      "hay": "faust",
+      "needle_n": 45,
+      "pos": 8155,
+      "run": 6,
+      "split": 21
+    },
+    {
+      "hay": "faust",
+      "needle_n": 50,
+      "pos": 31771,
+      "run": 6,
+      "split": 22
+    },
+    {
+      "hay": "faust",
+      "needle_n": 31,
+      "pos": 8811,
+      "run": 6,
+      "split": 29
+    },
+    {
+      "hay": "faust",
+      "needle_n": 37,
+      "pos": 36766,
+      "run": 6,
+      "split": 30
+    },
+    {
+      "hay": "faust",
+      "needle_n": 61,
+      "pos": 17151,
+      "run": 6,
+      "split": 33
+    },
+    {
+      "hay": "faust",
+      "needle_n": 46,
+      "pos": 18026,
+      "run": 6,
+      "split": 38
+    },
+    {
+      "hay": "tao",
+      "needle_n": 58,
+      "pos": 2289,
+      "run": 6,
+      "split": 40
+    },
+    {
+      "hay": "faust",
+      "needle_n": 61,
+      "pos": 18195,
+      "run": 6,
+      "split": 49
+    },
+    {
+      "hay": "tao",
+      "needle_n": 50,
+      "pos": 3103,
+      "run": 6,
+      "split": 51
+    },
+    {
+      "hay": "nag_hammadi",
+      "needle_n": 57,
+      "pos": 1633,
+      "run": 6,
+      "split": 59
+    },
+    {
+      "hay": "nag_hammadi",
+      "needle_n": 20,
+      "pos": 1008,
+      "run": 6,
+      "split": 66
+    },
+    {
+      "hay": "nag_hammadi",
+      "needle_n": 40,
+      "pos": 1909,
+      "run": 6,
+      "split": 68
+    },
+    {
+      "hay": "faust",
+      "needle_n": 59,
+      "pos": 27412,
+      "run": 5,
+      "split": 15
+    },
+    {
+      "hay": "tao",
+      "needle_n": 50,
+      "pos": 9491,
+      "run": 5,
+      "split": 22
+    }
+  ]
+}

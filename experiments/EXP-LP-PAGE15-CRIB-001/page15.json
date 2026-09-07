@@ -1,0 +1,611 @@
+{
+  "pre_all_shifts": [
+    {
+      "shift": 0,
+      "caesar": "FVLMAEAYOEA",
+      "atb": "EAIAHNRFTHGR"
+    },
+    {
+      "shift": 1,
+      "caesar": "VTHNGLAEFIADAE",
+      "atb": "FEANICVOWC"
+    },
+    {
+      "shift": 2,
+      "caesar": "THOOENGYVEAAY",
+      "atb": "VFIJGTHRHG"
+    },
+    {
+      "shift": 3,
+      "caesar": "ORDOEIATHFAEIA",
+      "atb": "THVJEOWOCNW"
+    },
+    {
+      "shift": 4,
+      "caesar": "RCADEAOVYEA",
+      "atb": "OTHEOPHRGIH"
+    },
+    {
+      "shift": 5,
+      "caesar": "CGAEAFRTHIAF",
+      "atb": "ROPXNCWJN"
+    },
+    {
+      "shift": 6,
+      "caesar": "GWYAEVCOEAV",
+      "atb": "CRXSIGHEOI"
+    },
+    {
+      "shift": 7,
+      "caesar": "WHIAYTHGRFTH",
+      "atb": "GCSTJWNPJ"
+    },
+    {
+      "shift": 8,
+      "caesar": "HNEAIAOWCVO",
+      "atb": "WGTBEOHIXEO"
+    },
+    {
+      "shift": 9,
+      "caesar": "NIFEARHGTHR",
+      "atb": "HWBEPNJSP"
+    },
+    {
+      "shift": 10,
+      "caesar": "IJVFCNWOC",
+      "atb": "NHEMXIEOTX"
+    },
+    {
+      "shift": 11,
+      "caesar": "JEOTHVGIHRG",
+      "atb": "INMLSJPBS"
+    },
+    {
+      "shift": 12,
+      "caesar": "EOPOTHWJNCW",
+      "atb": "JILNGTEOXET"
+    },
+    {
+      "shift": 13,
+      "caesar": "PXROHEOIGH",
+      "atb": "EOJNGOEBPSMB"
+    },
+    {
+      "shift": 14,
+      "caesar": "XSCRNPJWN",
+      "atb": "PEOOEDEXTLE"
+    },
+    {
+      "shift": 15,
+      "caesar": "STGCIXEOHI",
+      "atb": "XPDAMSBNGM"
+    },
+    {
+      "shift": 16,
+      "caesar": "TBWGJSPNJ",
+      "atb": "SXAAELTEOEL"
+    },
+    {
+      "shift": 17,
+      "caesar": "BEHWEOTXIEO",
+      "atb": "TSAEYNGBMDNG"
+    },
+    {
+      "shift": 18,
+      "caesar": "EMNHPBSJP",
+      "atb": "BTYIAOEELAOE"
+    },
+    {
+      "shift": 19,
+      "caesar": "MLINXETEOX",
+      "atb": "EBIAEADMNGAED"
+    },
+    {
+      "shift": 20,
+      "caesar": "LNGJISMBPS",
+      "atb": "MEEAFALOEYA"
+    },
+    {
+      "shift": 21,
+      "caesar": "NGOEEOJTLEXT",
+      "atb": "LMFVAENGDIAAE"
+    },
+    {
+      "shift": 22,
+      "caesar": "OEDPEOBNGMSB",
+      "atb": "NGLVTHYOEAEAY"
+    },
+    {
+      "shift": 23,
+      "caesar": "DAXPEOELTE",
+      "atb": "OENGTHOIADAEFIA"
+    },
+    {
+      "shift": 24,
+      "caesar": "AAESXMDNGBM",
+      "atb": "DOEOREAAYVEA"
+    },
+    {
+      "shift": 25,
+      "caesar": "AEYTSLAOEEL",
+      "atb": "ADRCFAEIATHF"
+    },
+    {
+      "shift": 26,
+      "caesar": "YIABTNGAEDMNG",
+      "atb": "AEACGVYEAOV"
+    },
+    {
+      "shift": 27,
+      "caesar": "IAEAEBOEYALOE",
+      "atb": "YAEGWTHIAFRTH"
+    },
+    {
+      "shift": 28,
+      "caesar": "EAFMEDIAAENGD",
+      "atb": "IAYWHOEAVCO"
+    }
+  ],
+  "key_interesting": [
+    {
+      "label": "pre/col_major/add",
+      "latin": "ITHTHJIANGXIS",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.125,
+      "length": 13,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.3076923076923077,
+      "order": "col_major",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        10,
+        1,
+        11,
+        21,
+        3,
+        22,
+        17,
+        17,
+        20,
+        21,
+        19,
+        12,
+        22,
+        25,
+        7,
+        22
+      ]
+    },
+    {
+      "label": "pre/row_rev/sub",
+      "latin": "WIBNEAWRNGB",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.0,
+      "length": 11,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.2727272727272727,
+      "order": "row_rev",
+      "target": "pre",
+      "rel": "sub",
+      "key_mod29": [
+        22,
+        20,
+        3,
+        10,
+        25,
+        21,
+        22,
+        1,
+        7,
+        19,
+        17,
+        11,
+        22,
+        12,
+        17,
+        21
+      ]
+    },
+    {
+      "label": "pre/row_rev/add",
+      "latin": "OENGDFLLMDTH",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.125,
+      "length": 12,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.16666666666666666,
+      "order": "row_rev",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        22,
+        20,
+        3,
+        10,
+        25,
+        21,
+        22,
+        1,
+        7,
+        19,
+        17,
+        11,
+        22,
+        12,
+        17,
+        21
+      ]
+    },
+    {
+      "label": "pre/row_rev/beau",
+      "latin": "OEMEOLVOEAEHEO",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.0,
+      "length": 14,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.7142857142857143,
+      "order": "row_rev",
+      "target": "pre",
+      "rel": "beau",
+      "key_mod29": [
+        22,
+        20,
+        3,
+        10,
+        25,
+        21,
+        22,
+        1,
+        7,
+        19,
+        17,
+        11,
+        22,
+        12,
+        17,
+        21
+      ]
+    },
+    {
+      "label": "pre/fib_gen/add",
+      "latin": "OEOEIWGFWAES",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.125,
+      "length": 12,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.5833333333333334,
+      "order": "fib_gen",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        22,
+        21,
+        19,
+        17,
+        11,
+        1,
+        10,
+        3,
+        20,
+        22,
+        25,
+        7,
+        22,
+        12,
+        17,
+        21
+      ]
+    },
+    {
+      "label": "pre/spiral_F_cw/add",
+      "latin": "OEOETYBJXXG",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.25,
+      "length": 11,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.45454545454545453,
+      "order": "spiral_F_cw",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        22,
+        21,
+        25,
+        7,
+        22,
+        12,
+        17,
+        21,
+        11,
+        1,
+        10,
+        3,
+        20,
+        22,
+        25,
+        21
+      ]
+    },
+    {
+      "label": "pre/spiral_F_ccw/add",
+      "latin": "OETHTHJEOJMFL",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.125,
+      "length": 13,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.3076923076923077,
+      "order": "spiral_F_ccw",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        22,
+        1,
+        11,
+        21,
+        17,
+        12,
+        22,
+        7,
+        25,
+        22,
+        20,
+        3,
+        10,
+        1,
+        22,
+        21
+      ]
+    },
+    {
+      "label": "pre/diag/add",
+      "latin": "IDIEOBLXXC",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.125,
+      "length": 10,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.4,
+      "order": "diag",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        10,
+        22,
+        19,
+        22,
+        22,
+        21,
+        17,
+        21
+      ]
+    },
+    {
+      "label": "pre/diag/beau",
+      "latin": "INGEAOIAOELEAS",
+      "n": 9,
+      "ioc": 0.027777777777777776,
+      "doublet_rate": 0.0,
+      "length": 14,
+      "common_trigram_hits": 1,
+      "trigram_per_100": 7.142857142857143,
+      "vowelish_ratio": 0.7142857142857143,
+      "order": "diag",
+      "target": "pre",
+      "rel": "beau",
+      "key_mod29": [
+        10,
+        22,
+        19,
+        22,
+        22,
+        21,
+        17,
+        21
+      ]
+    },
+    {
+      "label": "pre/inf_left_right/add",
+      "latin": "OETHVOEBTXXG",
+      "n": 9,
+      "ioc": 0.05555555555555555,
+      "doublet_rate": 0.125,
+      "length": 12,
+      "common_trigram_hits": 0,
+      "trigram_per_100": 0.0,
+      "vowelish_ratio": 0.3333333333333333,
+      "order": "inf_left_right",
+      "target": "pre",
+      "rel": "add",
+      "key_mod29": [
+        22,
+        1,
+        10,
+        3,
+        22,
+        17,
+        17,
+        21,
+        11,
+        21,
+        20,
+        22,
+        25,
+        7,
+        22,
+        12
+      ]
+    }
+  ],
+  "orders": {
+    "row_major": [
+      3258,
+      3222,
+      3152,
+      3038,
+      3278,
+      3299,
+      3298,
+      2838,
+      3288,
+      3294,
+      3296,
+      2472,
+      4516,
+      1206,
+      708,
+      1820
+    ],
+    "col_major": [
+      3258,
+      3278,
+      3288,
+      4516,
+      3222,
+      3299,
+      3294,
+      1206,
+      3152,
+      3298,
+      3296,
+      708,
+      3038,
+      2838,
+      2472,
+      1820
+    ],
+    "row_rev": [
+      3038,
+      3152,
+      3222,
+      3258,
+      2838,
+      3298,
+      3299,
+      3278,
+      2472,
+      3296,
+      3294,
+      3288,
+      1820,
+      708,
+      1206,
+      4516
+    ],
+    "fib_gen": [
+      3299,
+      3298,
+      3296,
+      3294,
+      3288,
+      3278,
+      3258,
+      3222,
+      3152,
+      3038,
+      2838,
+      2472,
+      1820,
+      708,
+      1206,
+      4516
+    ],
+    "spiral_F_cw": [
+      3299,
+      3298,
+      2838,
+      2472,
+      1820,
+      708,
+      1206,
+      4516,
+      3288,
+      3278,
+      3258,
+      3222,
+      3152,
+      3038,
+      2838,
+      3298
+    ],
+    "spiral_F_ccw": [
+      3299,
+      3278,
+      3288,
+      4516,
+      1206,
+      708,
+      1820,
+      2472,
+      2838,
+      3038,
+      3152,
+      3222,
+      3258,
+      3278,
+      3299,
+      3298
+    ],
+    "spiral_00_cw": [
+      3258,
+      3222,
+      3152,
+      3038,
+      2838,
+      2472,
+      1820,
+      708,
+      1206,
+      4516,
+      3288,
+      3278,
+      3299,
+      3298,
+      3296,
+      3294
+    ],
+    "diag": [
+      3258,
+      3299,
+      3296,
+      1820,
+      3038,
+      3298,
+      3294,
+      4516
+    ],
+    "inf_left_right": [
+      3299,
+      3278,
+      3258,
+      3222,
+      3299,
+      3294,
+      1206,
+      4516,
+      3288,
+      3298,
+      3152,
+      3038,
+      2838,
+      2472,
+      1820,
+      708
+    ]
+  }
+}

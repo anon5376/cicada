@@ -1,0 +1,692 @@
+{
+  "crib_locations": [
+    {
+      "start_split": 68,
+      "start_flat": 12597,
+      "n": 51
+    }
+  ],
+  "tested": 2731568,
+  "hits": [
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        0,
+        28,
+        16,
+        12
+      ],
+      "latin": "JPGOEEAXEAEOOEIAINGDENTHATHSCTBMSEBFTHTEXAEPTSEEAYHFLITHNGAEYTHATHAE",
+      "ioc": 0.03428571428571429,
+      "doublet_rate": 0.0,
+      "length": 68,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 8.823529411764707,
+      "vowelish_ratio": 0.4411764705882353
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        2,
+        7,
+        28,
+        27
+      ],
+      "latin": "BXGLOEFNRYYFYOETAECTLNCJJTHERPPAEONEOOESINGHPCVHAFEAENTHREOAEI",
+      "ioc": 0.02857142857142857,
+      "doublet_rate": 0.061224489795918366,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.43548387096774194
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        2,
+        12,
+        13,
+        11
+      ],
+      "latin": "SDSSITHAEMHDEOEROEDAENHNGPMOEHANGEOXEOYEASOENTHAERWTHEOERFRTHAEEOA",
+      "ioc": 0.03836734693877551,
+      "doublet_rate": 0.02040816326530612,
+      "length": 66,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.090909090909092,
+      "vowelish_ratio": 0.48484848484848486
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        2,
+        24,
+        12,
+        1
+      ],
+      "latin": "PTHAXIATHEOPMPAHSIANGOTHWRLIALXYNWSELFEEOTFNGVDSGJENTHEAEABFIN",
+      "ioc": 0.029387755102040815,
+      "doublet_rate": 0.04081632653061224,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.3548387096774194
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        3,
+        12,
+        26,
+        28
+      ],
+      "latin": "SFPWYTHAEFTVNAEWRRDNFOEJNGNJFVVTHAWOEMOEIAXAOXOENTHETTTHWOMEL",
+      "ioc": 0.03918367346938775,
+      "doublet_rate": 0.061224489795918366,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3442622950819672
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        4,
+        0,
+        16,
+        21
+      ],
+      "latin": "RINTHJOYWSETHAEICXWXGGEONGEMOBXAEIMVNAEFINGHHFPEOIATHEOHXDGVR",
+      "ioc": 0.031020408163265307,
+      "doublet_rate": 0.04081632653061224,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3770491803278688
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        4,
+        18,
+        21,
+        17
+      ],
+      "latin": "VLSEAINGXENTPTECTHEEOGFNGAENTHSWOAEHDIIAXAEJOPSCSPOJIAOEPVNGBM",
+      "ioc": 0.029387755102040815,
+      "doublet_rate": 0.0,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.3870967741935484
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        4,
+        19,
+        23,
+        6
+      ],
+      "latin": "CEOIEOTHHELTHEYIAENTHVOPMJEONGCETJPBRSTHEOXPTHLOEDTEEXINTNSLWX",
+      "ioc": 0.04081632653061224,
+      "doublet_rate": 0.02040816326530612,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.3548387096774194
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        5,
+        14,
+        15,
+        23
+      ],
+      "latin": "PJMTHNTHEOEAINTHRHFBFTHANGBTHAETHNGFCYOSEONGEANGITOELLNGWDEIYDNGLTRO",
+      "ioc": 0.03918367346938775,
+      "doublet_rate": 0.02040816326530612,
+      "length": 68,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 8.823529411764707,
+      "vowelish_ratio": 0.3088235294117647
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        5,
+        27,
+        15,
+        18
+      ],
+      "latin": "GWDAEPAEITHEAJINGHFBFNGIYADHSTIMODICMTHEONTHXTHEGSVOERGWTDYID",
+      "ioc": 0.03510204081632653,
+      "doublet_rate": 0.0,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3442622950819672
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        6,
+        1,
+        27,
+        6
+      ],
+      "latin": "GNPTGHISIFANDENTHNGBTHEOTHFLINGTHAEOEFJAEEAMSCIJAEHAEXGVYNGFCIAT",
+      "ioc": 0.030204081632653063,
+      "doublet_rate": 0.0,
+      "length": 64,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.375,
+      "vowelish_ratio": 0.359375
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        6,
+        3,
+        24,
+        23
+      ],
+      "latin": "DIAEOBYJMTGHEAAEOEAJTHOEFHWMJTHAXWAAETHERWFTHMIIINTHEOESEAOXOEOC",
+      "ioc": 0.029387755102040815,
+      "doublet_rate": 0.04081632653061224,
+      "length": 64,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.375,
+      "vowelish_ratio": 0.484375
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        7,
+        2,
+        14,
+        3
+      ],
+      "latin": "VMBTHHDNGOEIAMIPEATHEDCNTHEAHHWAETVIXOGVOOEVBFLBXREAOEAMDNTHA",
+      "ioc": 0.03346938775510204,
+      "doublet_rate": 0.02040816326530612,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3770491803278688
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        7,
+        5,
+        19,
+        5
+      ],
+      "latin": "WCIAINTHTHEOTHAYYEMTHIODMEEOSCJTWPWRATHAEXAETHOEOEVTDEDIETMSHW",
+      "ioc": 0.04081632653061224,
+      "doublet_rate": 0.061224489795918366,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.41935483870967744
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        7,
+        11,
+        11,
+        20
+      ],
+      "latin": "LDCHIAFXMOOEHOEDENTHEOHNGTHETDPVJPIINGFOHRRNETHMNJFEPFADEASR",
+      "ioc": 0.03428571428571429,
+      "doublet_rate": 0.04081632653061224,
+      "length": 60,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.333333333333334,
+      "vowelish_ratio": 0.31666666666666665
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        7,
+        16,
+        26,
+        26
+      ],
+      "latin": "EOOCLGJLCBNTHAECPWAPAEFTSAEWAEIFSGHEAOETSTAEYNENTAEEOOENTHEOVEDNG",
+      "ioc": 0.035918367346938776,
+      "doublet_rate": 0.0,
+      "length": 65,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.23076923076923,
+      "vowelish_ratio": 0.46153846153846156
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        7,
+        18,
+        22,
+        22
+      ],
+      "latin": "DFEOWYTHMFGVEAAEEORJDHFFJWGJJAVWTHAEWEMWIATHAIXINTHEETEAWXMOL",
+      "ioc": 0.03918367346938775,
+      "doublet_rate": 0.061224489795918366,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3770491803278688
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        7,
+        18,
+        27,
+        15
+      ],
+      "latin": "PLGMYTHEOXRCYFPTHAYTHEOPXAVDTDOXBTHADNRRBDDBAEHTHEVNGIXOEOFY",
+      "ioc": 0.03918367346938775,
+      "doublet_rate": 0.04081632653061224,
+      "length": 60,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.333333333333334,
+      "vowelish_ratio": 0.31666666666666665
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        9,
+        14,
+        16,
+        19
+      ],
+      "latin": "WWOECLJTHTHDRTHLMVSPIIJCOEAOYTHEOENTHXIAXXDEOLEOWWIGEOAIPAEOENTHEA",
+      "ioc": 0.03918367346938775,
+      "doublet_rate": 0.10204081632653061,
+      "length": 66,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.090909090909092,
+      "vowelish_ratio": 0.4393939393939394
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        10,
+        26,
+        27,
+        24
+      ],
+      "latin": "DDSNTHNGMMDEENOETHAEYHHPTOENGAIAEOWEOTHEAOEOEXTHEORFTRETHESFWTHAEEIAJ",
+      "ioc": 0.03918367346938775,
+      "doublet_rate": 0.10204081632653061,
+      "length": 69,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 8.695652173913043,
+      "vowelish_ratio": 0.4492753623188406
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        13,
+        17,
+        3,
+        9
+      ],
+      "latin": "DYSGTHPMADOEXOEGAELHRPFOEEALEOEOEOEEAIAOENTHERVTCECEVFNTHXEWAT",
+      "ioc": 0.035918367346938776,
+      "doublet_rate": 0.04081632653061224,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.4838709677419355
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        14,
+        14,
+        25,
+        1
+      ],
+      "latin": "LGEYIEXINTPFEETHTHEONGFIAENTHEAWIAAEHDPIADAEWORSHSXOBIASPINGIAMTH",
+      "ioc": 0.03346938775510204,
+      "doublet_rate": 0.04081632653061224,
+      "length": 65,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.23076923076923,
+      "vowelish_ratio": 0.4461538461538462
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        15,
+        23,
+        16,
+        20
+      ],
+      "latin": "ANTHEAEEAJSHINGIAOEFAEFYBRGMTHERDEOWPHDXSAAGETHMTJBLCTAERVNGMP",
+      "ioc": 0.022040816326530613,
+      "doublet_rate": 0.02040816326530612,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.3548387096774194
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        16,
+        20,
+        20,
+        7
+      ],
+      "latin": "PTHGYYOEEOPRDYYPNAVTHWPXAOEDLDBXNTHEODCRAEBFDEAENTHAVBIJOETFG",
+      "ioc": 0.03836734693877551,
+      "doublet_rate": 0.04081632653061224,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3770491803278688
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        17,
+        13,
+        4,
+        26
+      ],
+      "latin": "MNGTHEDNOEGAFINGEPTHADVNEAEAFHRAEAVOXTGBOGVRFIABNRDOEEOMLNTHAE",
+      "ioc": 0.03183673469387755,
+      "doublet_rate": 0.02040816326530612,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.3870967741935484
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        17,
+        13,
+        21,
+        27
+      ],
+      "latin": "CBIEOTHOENTHTHYNEPTHAOTMGEOEOCEATNPDRNTHLXCTHAEOEAETBEIAINGTSSEOWN",
+      "ioc": 0.04,
+      "doublet_rate": 0.061224489795918366,
+      "length": 66,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.090909090909092,
+      "vowelish_ratio": 0.4090909090909091
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        17,
+        16,
+        27,
+        13
+      ],
+      "latin": "FVNNSXFNGOEPEAWVAEPGFEINTLIEOOEISOENTHEOTHXAGWEVAEMIRENTEOOECR",
+      "ioc": 0.037551020408163265,
+      "doublet_rate": 0.02040816326530612,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.45161290322580644
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        18,
+        23,
+        17,
+        11
+      ],
+      "latin": "HTHEOVEOMDPAEWAOFOFIEAWSEOCPIEVVEGXTDLTHEATOERYPINGYJOEISNTHEC",
+      "ioc": 0.025306122448979593,
+      "doublet_rate": 0.02040816326530612,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.45161290322580644
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        18,
+        24,
+        28,
+        25
+      ],
+      "latin": "OAENTHEOBCOAEADFSBNGEAESWOEADTLSJWXBVJRSCNWAEXGINGHBMVOPJTHE",
+      "ioc": 0.029387755102040815,
+      "doublet_rate": 0.0,
+      "length": 60,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.333333333333334,
+      "vowelish_ratio": 0.3333333333333333
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        19,
+        6,
+        18,
+        25
+      ],
+      "latin": "LWIPTCXTHEOVVOVEPTHEOIRVXGGOEINTHOSOEYSMFBGEADPEOEATBLCRLINGY",
+      "ioc": 0.030204081632653063,
+      "doublet_rate": 0.04081632653061224,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3770491803278688
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        19,
+        20,
+        25,
+        21
+      ],
+      "latin": "WPBMTHNTHEOXINTHEOHJBITHEANGYTHLTHOEFFYYSVNGONGEATTHLPNGEDAEIHDAELAER",
+      "ioc": 0.03836734693877551,
+      "doublet_rate": 0.04081632653061224,
+      "length": 69,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 8.695652173913043,
+      "vowelish_ratio": 0.34782608695652173
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        19,
+        22,
+        3,
+        23
+      ],
+      "latin": "AELOENTHAOXGTVXTBCESEOOEMWNINGEXEAINGXNGSLJVYAEYSLEPSDDREANPX",
+      "ioc": 0.030204081632653063,
+      "doublet_rate": 0.02040816326530612,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.3770491803278688
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        21,
+        6,
+        15,
+        17
+      ],
+      "latin": "PLOINGTEOXTEOWVOVIPTHEOFRNXIGGINTHEASMYNMSBBEABPSEAMBWCELHNG",
+      "ioc": 0.03183673469387755,
+      "doublet_rate": 0.04081632653061224,
+      "length": 60,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.333333333333334,
+      "vowelish_ratio": 0.3333333333333333
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        24,
+        10,
+        17,
+        6
+      ],
+      "latin": "HDOHYFDMOOEAEOEEAETTHEAHCTHETFPHJOICNGJOBRINSTHENTHFWPVAYEAPR",
+      "ioc": 0.03183673469387755,
+      "doublet_rate": 0.0,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.39344262295081966
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        24,
+        11,
+        18,
+        13
+      ],
+      "latin": "JBGGEAOEEANOEYIFDOENAEATSNTJMTHERFPTOXEOPSSNGEAPHVLATHEAAENTHRTHAE",
+      "ioc": 0.031020408163265307,
+      "doublet_rate": 0.04081632653061224,
+      "length": 66,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.090909090909092,
+      "vowelish_ratio": 0.42424242424242425
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        25,
+        13,
+        0,
+        11
+      ],
+      "latin": "SBPNYIAAENTXNMWORINTOEOENYNSFNGVEAGOETOEIXDOMOENTHJTITHEOOHEB",
+      "ioc": 0.04081632653061224,
+      "doublet_rate": 0.02040816326530612,
+      "length": 61,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.19672131147541,
+      "vowelish_ratio": 0.4426229508196721
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        25,
+        13,
+        16,
+        2
+      ],
+      "latin": "SBTHMIACAENTHOWCNBVENTPBEOEFISITHAEPTBINGOYLIIEOYJTAHLOEIATHEAF",
+      "ioc": 0.03183673469387755,
+      "doublet_rate": 0.02040816326530612,
+      "length": 63,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 9.523809523809524,
+      "vowelish_ratio": 0.4444444444444444
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        25,
+        17,
+        20,
+        23
+      ],
+      "latin": "LNGCCIAYXGODHTDENTHEOVNGLEOEDAEVEPLIOFMHERCEVMPJTHEOFWDRSX",
+      "ioc": 0.03346938775510204,
+      "doublet_rate": 0.02040816326530612,
+      "length": 58,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.620689655172415,
+      "vowelish_ratio": 0.3275862068965517
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        26,
+        9,
+        8,
+        6
+      ],
+      "latin": "WBOENGLETHNDATHHMXSHITJTOEEAONTHTHENTHEIAOXMEOTHEOXWEOGBAAEPAOEATHX",
+      "ioc": 0.04163265306122449,
+      "doublet_rate": 0.02040816326530612,
+      "length": 67,
+      "common_trigram_hits": 6,
+      "trigram_per_100": 8.955223880597014,
+      "vowelish_ratio": 0.417910447761194
+    },
+    {
+      "target": "p53_shape_crib",
+      "kind": "hill2",
+      "A": [
+        26,
+        13,
+        21,
+        0
+      ],
+      "latin": "THAPHIEAPJBPNGVXPHAWYGVSLEOSJEAYBEAXWOEHXVINGXPOOLHIAIATHENTHO",
+      "ioc": 0.035918367346938776,
+      "doublet_rate": 0.04081632653061224,
+      "length": 62,
+      "common_trigram_hits": 5,
+      "trigram_per_100": 8.064516129032258,
+      "vowelish_ratio": 0.3870967741935484
+    }
+  ]
+}

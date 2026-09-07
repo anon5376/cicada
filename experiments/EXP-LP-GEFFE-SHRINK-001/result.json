@@ -1,0 +1,39 @@
+{
+  "experiment": "EXP-LP-GEFFE-SHRINK-001",
+  "family": "marked-seed Geffe combiner + shrinking LFSR",
+  "plant": {
+    "geffe_rigid": true,
+    "geffe_beam": {
+      "agree": 1.0,
+      "ok": true
+    },
+    "geffe_wrong": true,
+    "shrink_rigid": true,
+    "shrink_beam": {
+      "agree": 0.8889,
+      "ok": true
+    },
+    "shrink_wrong": true,
+    "ok": true
+  },
+  "n_seeds": 22,
+  "tested_rigid": 528,
+  "tested_beam": 44,
+  "tested": 572,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "pass": "beam",
+    "gen": "shrink",
+    "seed": "int:1158959399",
+    "span": "prefix400",
+    "rel": "sub",
+    "head": "BTEAOEOIAFSAVSWJAEIGAEBEAAEEOGIANGWEYAOJMTHESAGNTHWPOEMIABFEASLBLTHAJELIIANGEOAJ",
+    "trigram_per_100": 2.7131782945736433,
+    "ioc": 0.03477443609022556
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

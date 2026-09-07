@@ -1,0 +1,85 @@
+{
+  "fetches": [
+    {
+      "name": "ulysses",
+      "ok": true,
+      "runes": 220000,
+      "sha": "d432d18d2535a28e1d448d9a91d25a167acf82ce19ea4fec9dc57d4949a8e169"
+    },
+    {
+      "name": "canterbury",
+      "ok": true,
+      "runes": 220000,
+      "sha": "433661fd210e035153a0121e2cc3bc8ac467f94ab8cbebe42054cf56220ab4ed"
+    }
+  ],
+  "keeps": [
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.03296703296703297,
+      "hay": "ulysses",
+      "head": "WLAAEMIATHVTHEOTHAEVRPCCTHEAMVOTHSLGMDEOVTHOXGYFTNSOEMEOLHCTHTHYWTMJACXREOHDXCJT",
+      "ioc": 0.048494983277591976,
+      "length": 118,
+      "pos": 180732,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 4.237288135593221,
+      "vowelish_ratio": 0.3050847457627119
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.0,
+      "hay": "ulysses",
+      "head": "AENTHDOEAMYIALCMPNGYEOFEOHGPLNGVNGAEJDPLEHYMGDOEEOYMAETHMEOAENGDAAEINGMPIDAIYMAN",
+      "ioc": 0.0482560917343526,
+      "length": 125,
+      "pos": 43882,
+      "rel": "add",
+      "span": "split066",
+      "trigram_per_100": 4.0,
+      "vowelish_ratio": 0.496
+    },
+    {
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.04395604395604396,
+      "hay": "canterbury",
+      "head": "ECEIAOCIASLMNOAEOCTHBCWOEETHTHCAPNAEHNGJNGYAEAEOHNWAERNFHJYSYNGENGWTHERAEIANGJNO",
+      "ioc": 0.04801720019111323,
+      "length": 114,
+      "pos": 103872,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 3.508771929824561,
+      "vowelish_ratio": 0.39473684210526316
+    },
+    {
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.06593406593406594,
+      "hay": "canterbury",
+      "head": "SAEBBTABAFHPSAEFBJAEIAFYORLAEDEPBRTHEOFTHAEAEBOESOEATHBFAIDNIINTNBFNNIAOLMMCEOJE",
+      "ioc": 0.048733874820831344,
+      "length": 111,
+      "pos": 92308,
+      "rel": "add",
+      "span": "split066",
+      "trigram_per_100": 3.6036036036036037,
+      "vowelish_ratio": 0.3963963963963964
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.04395604395604396,
+      "hay": "canterbury",
+      "head": "NAEJNAENMSVISSYAERIAEAYNTHEANNGMTHDXINGPYJSHDBEXEANEASEATHASYEANSJJLNGFOAESRNNHS",
+      "ioc": 0.04921165790731008,
+      "length": 116,
+      "pos": 99745,
+      "rel": "beau",
+      "span": "split066",
+      "trigram_per_100": 4.310344827586207,
+      "vowelish_ratio": 0.3879310344827586
+    }
+  ],
+  "rune_cap": 220000,
+  "tested": 324
+}

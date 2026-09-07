@@ -1,0 +1,36 @@
+{
+  "experiment": "EXP-LP-F-KEYSKIP-001",
+  "family": "rigid extra key consume after CT-F or CT-doublet (not skip-encrypt)",
+  "plant": {
+    "ctF_sub_extra1": true,
+    "ctF_sub_extra1_wrong0": true,
+    "ctF_add_extra1": true,
+    "ctF_add_extra1_wrong0": true,
+    "ctF_beau_extra1": true,
+    "ctF_beau_extra1_wrong0": true,
+    "ctF_sub_extra2": true,
+    "ctF_sub_extra2_wrong0": true,
+    "ctF_add_extra2": true,
+    "ctF_add_extra2_wrong0": true,
+    "ctF_beau_extra2": true,
+    "ctF_beau_extra2_wrong0": true,
+    "ok": true
+  },
+  "tested": 5088,
+  "keep_bar_hits": 0,
+  "keeps": [],
+  "best": {
+    "split": 29,
+    "stream": "sha:TOTIENT",
+    "extra": 2,
+    "rel": "sub",
+    "site": "ctF",
+    "head": "GNSWLFTVACEALEOHHPJVTHLGFMVEAETRXXCHAEABCNTHYNGTHAEEYREVOEINGARMYSCEBXFOEONGTHAE",
+    "trigram_per_100": 3.5502958579881656,
+    "ioc": 0.03553027050236153
+  },
+  "skeptic_review": {
+    "verdict": "null"
+  },
+  "verified_new_unsolved_runes": 0
+}

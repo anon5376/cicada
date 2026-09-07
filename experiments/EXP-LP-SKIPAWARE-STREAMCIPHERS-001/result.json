@@ -1,0 +1,48 @@
+{
+  "chacha20": true,
+  "keeps": [],
+  "plant": {
+    "agree": 0.9506,
+    "family": "rc4",
+    "ok": true
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.045112781954887216,
+      "head": "EOLOTPAEJEOBLDTHLVCTHINGEABVVJEOEOBBEOOEYTHPVIFOEOEHVTNGYBCNEPCYBHDEOEOOEOEAIAND",
+      "ioc": 0.03424812030075188,
+      "length": 517,
+      "mode": "rc4",
+      "seed": "CICADA3301",
+      "span": "prefix400",
+      "trigram_per_100": 1.3539651837524178,
+      "vowelish_ratio": 0.46421663442940037
+    },
+    {
+      "common_trigram_hits": 6,
+      "doublet_rate": 0.03258145363408521,
+      "head": "IAGCNOIAAEDTSWNGGYBRABAEBAEEOVBLGXOEPXLOWWLLIAGCWTHAECBEAXRGLRDNJNGMWGDBNGHEAABI",
+      "ioc": 0.0350125313283208,
+      "length": 514,
+      "mode": "hkdf",
+      "seed": "CICADA3301",
+      "span": "prefix400",
+      "trigram_per_100": 1.1673151750972763,
+      "vowelish_ratio": 0.4280155642023346
+    },
+    {
+      "common_trigram_hits": 9,
+      "doublet_rate": 0.02756892230576441,
+      "head": "OYRYLFDEASBGPRIRFCPFBOEIEOVBLIXMGVDCOEVJHIARNGSMSIAFNGIYWNNGXVTYTHNWTGOEOIAEILVW",
+      "ioc": 0.033195488721804514,
+      "length": 485,
+      "mode": "pbkdf2_3301",
+      "seed": "CICADA3301",
+      "span": "prefix400",
+      "trigram_per_100": 1.8556701030927836,
+      "vowelish_ratio": 0.4
+    }
+  ],
+  "tested": 72
+}

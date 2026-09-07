@@ -1,0 +1,46 @@
+{
+  "fetches": [
+    {
+      "name": "quixote",
+      "ok": true,
+      "runes": 220000,
+      "sha": "69ef241e632ef4fba882bde06ad31ecb395d865b11028cc046c4d253f4cf118e"
+    },
+    {
+      "name": "moby",
+      "ok": true,
+      "runes": 220000,
+      "sha": "f17ab08e0ad8c6e43d1e85e3cdae4e1b617ae35069cee7db8dcd457c87b1ec76"
+    }
+  ],
+  "keeps": [
+    {
+      "common_trigram_hits": 4,
+      "doublet_rate": 0.03296703296703297,
+      "hay": "quixote",
+      "head": "THEAIFMTHIGIXTHERAEAAHOEIOIBDGTHLNGJILHLXXHOEAOOEIATAEACGJJNGGYTHIHXIRXHAEIAGTHI",
+      "ioc": 0.05136168179646441,
+      "length": 113,
+      "pos": 99784,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 3.5398230088495577,
+      "vowelish_ratio": 0.415929203539823
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.04395604395604396,
+      "hay": "moby",
+      "head": "OTHCCEEMPSJTTHATWSOEDNOEJGTHIAAEDTEJOATXWXJSOEOOEIAOAJEPJJEAHOEXVETHEAYTHNCESETH",
+      "ioc": 0.0482560917343526,
+      "length": 116,
+      "pos": 124325,
+      "rel": "sub",
+      "span": "split066",
+      "trigram_per_100": 4.310344827586207,
+      "vowelish_ratio": 0.4482758620689655
+    }
+  ],
+  "rune_cap": 220000,
+  "tested": 324
+}

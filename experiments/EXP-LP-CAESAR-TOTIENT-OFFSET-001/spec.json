@@ -1,0 +1,8 @@
+{
+  "methods": [
+    "caesar 0-28",
+    "atbash+caesar 0-28",
+    "totient start 0-29"
+  ],
+  "target": "split_015"
+}

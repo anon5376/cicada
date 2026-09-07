@@ -1,0 +1,149 @@
+{
+  "hay_n": {
+    "kjv": 793954,
+    "plost": 83868
+  },
+  "keeps": [],
+  "top": [
+    {
+      "run": 9,
+      "split": 63,
+      "hay": "kjv",
+      "pos": 595387,
+      "needle_n": 67
+    },
+    {
+      "run": 9,
+      "split": 56,
+      "hay": "kjv",
+      "pos": 394297,
+      "needle_n": 62
+    },
+    {
+      "run": 9,
+      "split": 51,
+      "hay": "kjv",
+      "pos": 174238,
+      "needle_n": 50
+    },
+    {
+      "run": 8,
+      "split": 68,
+      "hay": "kjv",
+      "pos": 544935,
+      "needle_n": 40
+    },
+    {
+      "run": 8,
+      "split": 66,
+      "hay": "plost",
+      "pos": 35275,
+      "needle_n": 20
+    },
+    {
+      "run": 8,
+      "split": 63,
+      "hay": "plost",
+      "pos": 55571,
+      "needle_n": 67
+    },
+    {
+      "run": 8,
+      "split": 61,
+      "hay": "kjv",
+      "pos": 230838,
+      "needle_n": 61
+    },
+    {
+      "run": 8,
+      "split": 54,
+      "hay": "kjv",
+      "pos": 29845,
+      "needle_n": 55
+    },
+    {
+      "run": 8,
+      "split": 44,
+      "hay": "kjv",
+      "pos": 406722,
+      "needle_n": 71
+    },
+    {
+      "run": 8,
+      "split": 39,
+      "hay": "kjv",
+      "pos": 60773,
+      "needle_n": 64
+    },
+    {
+      "run": 8,
+      "split": 33,
+      "hay": "kjv",
+      "pos": 616293,
+      "needle_n": 61
+    },
+    {
+      "run": 8,
+      "split": 27,
+      "hay": "kjv",
+      "pos": 7988,
+      "needle_n": 65
+    },
+    {
+      "run": 8,
+      "split": 23,
+      "hay": "kjv",
+      "pos": 721889,
+      "needle_n": 51
+    },
+    {
+      "run": 7,
+      "split": 66,
+      "hay": "kjv",
+      "pos": 454805,
+      "needle_n": 20
+    },
+    {
+      "run": 7,
+      "split": 56,
+      "hay": "plost",
+      "pos": 66571,
+      "needle_n": 62
+    },
+    {
+      "run": 7,
+      "split": 50,
+      "hay": "plost",
+      "pos": 46982,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 50,
+      "hay": "kjv",
+      "pos": 428553,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 49,
+      "hay": "kjv",
+      "pos": 7658,
+      "needle_n": 61
+    },
+    {
+      "run": 7,
+      "split": 39,
+      "hay": "plost",
+      "pos": 23669,
+      "needle_n": 64
+    },
+    {
+      "run": 7,
+      "split": 38,
+      "hay": "kjv",
+      "pos": 187377,
+      "needle_n": 46
+    }
+  ]
+}

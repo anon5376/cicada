@@ -1,0 +1,584 @@
+{
+  "beam_keeps": [],
+  "beam_tested": 342,
+  "fetch_errors": [],
+  "fetched": [
+    {
+      "byte_length": 10000000,
+      "name": "bits.02",
+      "sha256": "a6a87f481cfa179ec012fcfac3afb373bf9271e816ded44ec12534e398fc1fa1",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.02"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.03",
+      "sha256": "8d37cebea2aebf303c268374b2be4fff7c5720d68666533108af3d068ec83ed8",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.03"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.04",
+      "sha256": "3cf6ef6e1d6a711696f83b3434c379ef56061195e0fdf9ee50c58b9de6ff7d2b",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.04"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.05",
+      "sha256": "e4bc7b8c505094ae452d3559a06ba02f7cf3f99e95aa3dd549c4f96f75b072e6",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.05"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.06",
+      "sha256": "2c08fe67627033e9ca38736309c819dcc7472670bec98a25c349e6022bdfe804",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.06"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.07",
+      "sha256": "d9908739de1dd535ec8c9dcc382c7e74cc952e2bdb72177ecc499563e1862ebd",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.07"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.08",
+      "sha256": "5e16a5861596fce36b218ae87108d90f7149bd6230e911311f155a7384701a22",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.08"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.09",
+      "sha256": "36359661d21bff9146595d9e48cd8f50bb5b0a36601ac40f4917410e0ee900be",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.09"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.10",
+      "sha256": "d11dd57d6dd4e697bff02d183ba5937e428db6c72a9234fea68f78ad4bbc9eda",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.10"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.11",
+      "sha256": "b4e266e09c594e2c08115c3d1ee824c9b885f3798e49df16468ba042a7f25768",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.11"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.12",
+      "sha256": "d05c20f402e3d43eb886f205726bf3e154f99adb11e295ce8bd185926eeac24d",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.12"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.13",
+      "sha256": "71eee819036b03acc7e182e77011ea7919b2f07585b52d80f5970b63ab677011",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.13"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.14",
+      "sha256": "90f3c22c1acc4affc56dca7528ba36ccfce684730a927c2558022b9bb618e511",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.14"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.16",
+      "sha256": "0b5deb562fa7593a4dcc3c3ab6a6eb6896611848f08cac7292372f26841a42a1",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.16"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.17",
+      "sha256": "ba13350b7fa019d829d32ba5c92dbebf3793a905f375862cd7ab74f4b168a08d",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.17"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.18",
+      "sha256": "1c4a2fba308e4032acd1b4fc21ca80f21b9b855a47f94b80786f66020ef32443",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.18"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.19",
+      "sha256": "651ad5523e53749a8837392c73c540d420e1bf453b5c42d1b9007cdaaaa3e0ec",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.19"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.20",
+      "sha256": "faf2ef54accc6a461e686944841f44c65325549e973e89ffd3fb8ba439a3bf08",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.20"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.21",
+      "sha256": "9a795e576c200b01c89961b2904afb0dff1c1051c5ec41d57641444de65a8d46",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.21"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.22",
+      "sha256": "475626006d8fd0adb9866e2781e33a0e78f24a42fd8589b2f6ef918489473324",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.22"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.23",
+      "sha256": "291d9c8e96f65f4605066dd551dd8e0221ccd1bb980e34013b1562a83a8a807a",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.23"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.24",
+      "sha256": "34c6ccfd5d568d81f18dae0fd85ced0c9d7be28793d60d0f9af8667ba32e898a",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.24"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.25",
+      "sha256": "f34660e76c8762ea4e6afb5504ab52afc44f3bfe8d04f74b1d199c225a82539f",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.25"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.26",
+      "sha256": "26fbbe33bd7a44731e9927135f55ee3b8cafc3b69037404eb90e3091a362794e",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.26"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.27",
+      "sha256": "19fd032b4438002f27a82609e94a9b11fdfce909caa4e142136c1f504ffa9c39",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.27"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.28",
+      "sha256": "5053bb43e74b2f24ef5de00620460d51c223ef674e8cb2f1b493ed9d1e789b09",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.28"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.29",
+      "sha256": "ab7f8ee6c1c7757e8a1fb5dce1406cd823d4e5f2c7269354803e8de6870d0284",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.29"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.30",
+      "sha256": "0cbd5f88475e652a9455bf8928194acdfc0d8c7967983e5524bc8ca83d646b5f",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.30"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.31",
+      "sha256": "86fb59f518a0df4bef8f589021e729b4910160d351be2394af71c05f63dc0aa3",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.31"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.32",
+      "sha256": "ad58c84d11f0b88779bfc19fbeb6fd389329285e0183baa5f2262935937f7b7e",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.32"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.34",
+      "sha256": "abe2451e798cd0c6a5659376d2f74a4d4fb13105170943273ead7b9f10ea5b46",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.34"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.35",
+      "sha256": "8af6b6dd26713de6e823306fc76276f8a7994a79b2408594e45efb82008c6b57",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.35"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.36",
+      "sha256": "273e4de54e1f0a5d027f0bd49568e09d84df6c5bab22d62badcea10deda732f1",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.36"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.37",
+      "sha256": "8978ad725e8db9ada5744a66dc53d5de16f72c200f72abf2b2b6bb0d3a214773",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.37"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.38",
+      "sha256": "fe18e1cc941ed537a9118e54fd8bd76506662d5f79035ad8980f9f1cf12c444d",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.38"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.39",
+      "sha256": "47241869a53050f9fae57a72e482637b72e4fb21f979fbe88c7690ab1e282897",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.39"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.40",
+      "sha256": "9968f12c0bebd12285b8e95304fb657aef69a0d1ea5d0c6aac280456c708a7bb",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.40"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.41",
+      "sha256": "5a66985f8e18feca38db7dffa97a19e82907028f43ef7837dbb8b271712a2208",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.41"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.42",
+      "sha256": "d14406ce2ca6c357df634f360b571b298e7000dd1e43a398306a68cb8fcec53d",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.42"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.43",
+      "sha256": "fbd596e339254ab9cb1dac4ae4add231f5e4145d815701e4365da15f7c0fa944",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.43"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.44",
+      "sha256": "4d5b80204f07cb10b87c5fab1601789b57b1104fcd37fff94bbb5d9bf7d34c92",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.44"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.45",
+      "sha256": "6cb97bd3e9d988f947658e17309db8c56be01806f6a7c7ed7f51a36cafe6fa7e",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.45"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.46",
+      "sha256": "eeae490ad7af428b989fc9e58643a1f67a9146648ee8a116c0190bb62a339b2d",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.46"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.47",
+      "sha256": "8fe0ab068584d91f2c3a84ccf696fd723340834dd6abf27e86da92f9dfce3206",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.47"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.48",
+      "sha256": "4e87adad4eb1f20dff09b7fae5d76e370f0bf10463265c3046ace5d2cfeca977",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.48"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.49",
+      "sha256": "eafc96131118ad7e4dfb25ed0f84c80f283f90bb80bf8c0519da560969767531",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.49"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.50",
+      "sha256": "e954f3eb03a3acd2cd0c068c8fadb68c9eda50bc7cdce56a38cf4cf2499c075b",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.50"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.51",
+      "sha256": "45a380137eb27def289629e474513f1e27889b645d1d4be3639780bf935b1404",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.51"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.52",
+      "sha256": "b609c7cbfe0b87568959d5a7d5b4862e5d409b3af63717d6b4568afba0825a28",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.52"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.53",
+      "sha256": "7edd7b65b9f3522795344e0c1c8e9f4df189c4297122682bca08988434bac092",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.53"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.54",
+      "sha256": "0afbd1439e55a55878bd47a6e1ed419680375ab67433480e169bb29c2ec91ee1",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.54"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.55",
+      "sha256": "3c1d0764ed8a70d84eeffb4433d0391884ddd494cd2f9e589d40ee7e63b1a59c",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.55"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.57",
+      "sha256": "527f3e018c1d35de940a8d090692a5a2ea51a27726fc7f1a0a504b777bb0ca74",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.57"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.58",
+      "sha256": "4cb25350f23db467b31634f4c35b690dfd6957c82142f3c08a47272b1b0608d7",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.58"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.59",
+      "sha256": "257ccc20b9194d21d94184293dab4b4ebcf810faad6be8b57baa45532e7bce6d",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.59"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.60",
+      "sha256": "0f642becfd74a77b1421be97a6b31b4f1b0dbd5d8a8ef1a0c89b417a8020c61a",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.60"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "germany.bit",
+      "sha256": "d98ebf668ab36ce1763ad0e21729d11fe7534869f502019d60a00b49ac56585f",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/germany.bit"
+    }
+  ],
+  "offsets_scanned": 1709979480,
+  "plant": {
+    "agree": 0.9877,
+    "ok": true,
+    "source": "bits.02"
+  },
+  "sieve_hits": 818975,
+  "slide_keeps": [],
+  "top_cands": [
+    {
+      "and": 0,
+      "common_trigram_hits": 19,
+      "doublet_rate": 0.02756892230576441,
+      "file": "bits.24",
+      "head": "MIANTHSAEWTIABIAYVYAAEOEGCCGWFIIADGEAIATHNNOETHEDIIAREOTHEOYEOLTLEOEOCFYFAYWHLFA",
+      "ing": 0,
+      "ioc": 0.03474937343358396,
+      "length": 492,
+      "offset": 6563569,
+      "op": "add",
+      "the": 4,
+      "trigram_per_100": 3.861788617886179,
+      "vowelish_ratio": 0.4166666666666667
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.03007518796992481,
+      "file": "bits.47",
+      "head": "PSWITHPIAEOEOLHILWAEXJITHEIACXMJJPSONGITHSAFMEOJSFFTHMTHEYAEONGGTXMMEXWEOEAWSEAR",
+      "ing": 0,
+      "ioc": 0.03598997493734336,
+      "length": 494,
+      "offset": 2970406,
+      "op": "beau",
+      "the": 3,
+      "trigram_per_100": 3.6437246963562755,
+      "vowelish_ratio": 0.34615384615384615
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.02506265664160401,
+      "file": "bits.21",
+      "head": "OCIAXEONREAWCPEJXEOJNGCFMIACPCAEWYFAEOYPAPIEOTOEEANGCOEGHJOJAETMMFYJVOEOEFDWITHE",
+      "ing": 0,
+      "ioc": 0.03432330827067669,
+      "length": 499,
+      "offset": 6350580,
+      "op": "add",
+      "the": 3,
+      "trigram_per_100": 3.6072144288577155,
+      "vowelish_ratio": 0.41082164328657317
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.03007518796992481,
+      "file": "bits.49",
+      "head": "WXTANGRHETTHEGEOCEEONGLRTHOEAEDXRDJLTCYJJNGAFHAXPXAJEAPIATHFMIPFNIEOEOJDSWTLDOEC",
+      "ing": 0,
+      "ioc": 0.03606516290726817,
+      "length": 500,
+      "offset": 4408153,
+      "op": "sub",
+      "the": 4,
+      "trigram_per_100": 3.6,
+      "vowelish_ratio": 0.378
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.042606516290726815,
+      "file": "bits.29",
+      "head": "MVOOEMRAEJTHBLFXNGPAGNTHELDWAAAINGBHEALIAHREOTHBILXNGLHAGTHEGABARTHEATHEOSAENNEA",
+      "ing": 0,
+      "ioc": 0.03531328320802005,
+      "length": 501,
+      "offset": 2120333,
+      "op": "add",
+      "the": 3,
+      "trigram_per_100": 3.592814371257485,
+      "vowelish_ratio": 0.405189620758483
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.03258145363408521,
+      "file": "bits.45",
+      "head": "NDVTPNGIBWPAOEJPVNCEJWIATHEYVPITONGWTHEJLPTHANGOAIAWBWIAJEODYEOSPNNGJHEOTHERXVMS",
+      "ing": 0,
+      "ioc": 0.03446115288220551,
+      "length": 502,
+      "offset": 4334099,
+      "op": "beau",
+      "the": 3,
+      "trigram_per_100": 3.585657370517928,
+      "vowelish_ratio": 0.4103585657370518
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.03007518796992481,
+      "file": "bits.40",
+      "head": "NGTHEYPFORXXFAEBCTTHEBTHENGMEONTHYAENGDOEIAAEJMJORAELIEORNGLFIAEOETHEAIAXMGCDIAC",
+      "ing": 0,
+      "ioc": 0.03418546365914787,
+      "length": 503,
+      "offset": 1426031,
+      "op": "sub",
+      "the": 4,
+      "trigram_per_100": 3.5785288270377733,
+      "vowelish_ratio": 0.4274353876739563
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.040100250626566414,
+      "file": "bits.28",
+      "head": "OEGXVTEOGEOFVBXNNMTHENGIALAEHRWWFXEARWIDWSLIADYPSIAIHIAHSIAEORLWHEAYRINGEOOEIAIN",
+      "ing": 0,
+      "ioc": 0.03357142857142857,
+      "length": 504,
+      "offset": 5696001,
+      "op": "sub",
+      "the": 3,
+      "trigram_per_100": 3.5714285714285716,
+      "vowelish_ratio": 0.41865079365079366
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.03258145363408521,
+      "file": "bits.30",
+      "head": "OBOIADESGEAHWRGPWTRTHEOSTHWEOMHOEEOTHEOLYGNIAVFIOENTHJWNGTHPBAEOMGTHNGPNJONGTHBN",
+      "ing": 0,
+      "ioc": 0.03769423558897243,
+      "length": 506,
+      "offset": 7045924,
+      "op": "beau",
+      "the": 3,
+      "trigram_per_100": 3.5573122529644268,
+      "vowelish_ratio": 0.36561264822134387
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.02506265664160401,
+      "file": "bits.18",
+      "head": "EORNGNTHTHEBWTAECXDTHEOXGAERJOIATHEOSHLSEOEACOIALVTOBEEAIAXBRBEOVSJLBHBFITHEIAOE",
+      "ing": 0,
+      "ioc": 0.03422305764411027,
+      "length": 508,
+      "offset": 8263104,
+      "op": "sub",
+      "the": 3,
+      "trigram_per_100": 3.543307086614173,
+      "vowelish_ratio": 0.3956692913385827
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.040100250626566414,
+      "file": "bits.18",
+      "head": "HBEAGTHEWNOIAXOTMNXEAVLIAOGICTXGLFTHOELGALDCAEJNGXVCYTHCOEFMANTHEVSLOOECPVEODOBT",
+      "ing": 0,
+      "ioc": 0.03431077694235589,
+      "length": 509,
+      "offset": 7848008,
+      "op": "sub",
+      "the": 3,
+      "trigram_per_100": 3.536345776031434,
+      "vowelish_ratio": 0.4302554027504912
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.02756892230576441,
+      "file": "bits.23",
+      "head": "OWEOOTHMNGVSIFNGJRHNGIEOROEXCNCRTHYFVTLHTHNGMTHTHOLFVPGPHMOIATGTHIAEVIATHEXEANGJ",
+      "ing": 0,
+      "ioc": 0.03518796992481203,
+      "length": 511,
+      "offset": 3920054,
+      "op": "beau",
+      "the": 3,
+      "trigram_per_100": 3.522504892367906,
+      "vowelish_ratio": 0.37181996086105673
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.040100250626566414,
+      "file": "bits.53",
+      "head": "AEEOIATHTHEABRNGMXTMTHEOAEIAEEOOYAEAEIAEANGOBEPONGFIAFTHESTHATHEJOENGTFOEOEVIACD",
+      "ing": 0,
+      "ioc": 0.03506265664160401,
+      "length": 512,
+      "offset": 2487293,
+      "op": "sub",
+      "the": 3,
+      "trigram_per_100": 3.515625,
+      "vowelish_ratio": 0.45703125
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.02506265664160401,
+      "file": "bits.27",
+      "head": "WTHLXVFTHEIAEBVGEAXWROEANEJIAVBEAYVEAIHGNCBTHSAXEJFCTHIXNCIADAEVNXIPYEJJSCRHGMGG",
+      "ing": 0,
+      "ioc": 0.03676691729323308,
+      "length": 513,
+      "offset": 1245763,
+      "op": "add",
+      "the": 3,
+      "trigram_per_100": 3.508771929824561,
+      "vowelish_ratio": 0.4269005847953216
+    },
+    {
+      "and": 0,
+      "common_trigram_hits": 18,
+      "doublet_rate": 0.03759398496240601,
+      "file": "bits.32",
+      "head": "YOEWSFWAMBYVLEOAEWIABGWFBHNGIACOEATAEOAEDFBYYTHVAHXHLALOHBOOEJLTHEXPNNGTIASEOYMW",
+      "ing": 0,
+      "ioc": 0.0343859649122807,
+      "length": 514,
+      "offset": 2391189,
+      "op": "sub",
+      "the": 3,
+      "trigram_per_100": 3.501945525291829,
+      "vowelish_ratio": 0.4494163424124514
+    }
+  ]
+}

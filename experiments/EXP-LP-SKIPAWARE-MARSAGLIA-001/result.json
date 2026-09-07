@@ -1,0 +1,112 @@
+{
+  "fetch_errors": [],
+  "fetched": [
+    {
+      "byte_length": 10000000,
+      "name": "bits.01",
+      "sha256": "32d18ec597c9bbc40791a039d1a217a0cd5db322db400b095f9e85c708e479f7",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.01"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.15",
+      "sha256": "ab20e9e98c337fbd4cee4aa3fa0ab7c765a7c9c61bb2fd966f6f7291eb8d2097",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.15"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.33",
+      "sha256": "7267739e21656180a094202e19b2d830978eebac4889989af1629107b017791b",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.33"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "bits.56",
+      "sha256": "da0dc1b7c8ebae90b7b2559489cb7e6ebc77f21e75ad51cbbe70438ae8c30683",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/bits.56"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "canada.bit",
+      "sha256": "6e4b4364cfbddb0f5ba479851ec1403771a49198775928d487f819f9ec63f735",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/canada.bit"
+    },
+    {
+      "byte_length": 10000000,
+      "name": "calif.bit",
+      "sha256": "cf58e4590e8df99e4a46f28abafea43b23fe74e429d27f24ffe698cbb63a75a6",
+      "url": "https://raw.githubusercontent.com/jeffThompson/DiehardCDROM/master/CD-ROM/calif.bit"
+    }
+  ],
+  "keeps": [],
+  "offsets": [
+    0,
+    15,
+    56,
+    57,
+    3301,
+    2012,
+    2013,
+    2014,
+    1295,
+    95729
+  ],
+  "plant": {
+    "agree": 1.0,
+    "ok": true,
+    "recovered_head": "THEPRIMESARESACREDTHETOTIENTFVNCTIANISSACREDALLTHNGSSHOVLDBEENCRYPTEDAWARNNGBELI",
+    "source": "bits.01"
+  },
+  "samples": [
+    {
+      "common_trigram_hits": 12,
+      "doublet_rate": 0.022556390977443608,
+      "file": "bits.01",
+      "head": "ISIPTSCPDAEMNFSOTNOEPLOEAIAHMEAEAVIOIHAETHNPCNGOELOEGBTHWVIALYBEEOVEALTHRDNCDWEO",
+      "ioc": 0.03479949874686717,
+      "length": 502,
+      "mode": "byte29@0",
+      "span": "prefix400",
+      "trigram_per_100": 2.3904382470119523,
+      "vowelish_ratio": 0.41434262948207173
+    },
+    {
+      "common_trigram_hits": 7,
+      "doublet_rate": 0.045112781954887216,
+      "file": "bits.01",
+      "head": "HNRRIABYPPVBNDTJGNGSCTTHVSIAMIASHXNGOXVJLXGLWTSMNTHVNEJIOETHNGTHMITHIAIAAAVNEOEO",
+      "ioc": 0.0349874686716792,
+      "length": 507,
+      "mode": "bit5@0",
+      "span": "prefix400",
+      "trigram_per_100": 1.3806706114398422,
+      "vowelish_ratio": 0.42011834319526625
+    },
+    {
+      "common_trigram_hits": 11,
+      "doublet_rate": 0.03007518796992481,
+      "file": "bits.01",
+      "head": "WETHAEHBBNGVOEBOEYPBVGIANYRNMHFIAFFEOEOVFPMACVAEACOAENIGAHLOEEOEADHNBWGRXLVDOHAE",
+      "ioc": 0.03428571428571429,
+      "length": 494,
+      "mode": "byte29@15",
+      "span": "prefix400",
+      "trigram_per_100": 2.2267206477732793,
+      "vowelish_ratio": 0.4048582995951417
+    },
+    {
+      "common_trigram_hits": 5,
+      "doublet_rate": 0.03508771929824561,
+      "file": "bits.01",
+      "head": "RNNVMEYLMGEAODTHNGJRIANGRNGOETHSESAENGLFYGEXNDTEAOTHTCMEOIMNGPVIHGIOEGTHTHNGGTHL",
+      "ioc": 0.03609022556390978,
+      "length": 519,
+      "mode": "bit5@15",
+      "span": "prefix400",
+      "trigram_per_100": 0.9633911368015414,
+      "vowelish_ratio": 0.4142581888246628
+    }
+  ],
+  "scope": "start-of-file and marked offsets; not a 600 MB offset sweep",
+  "tested": 288
+}

@@ -1,0 +1,21 @@
+{
+  "acceptance": "trigram_per_100 >= 8 and vowelish_ratio in [0.28, 0.52] and ioc >= 0.045",
+  "experiment_id": "EXP-LP-TRANSFER-split016",
+  "hypothesis_id": "LP-HYP-000001",
+  "mapping_version": "mapping-v1-wiki-2026-09-07",
+  "methods": [
+    "direct",
+    "atbash",
+    "atbash_plus_3",
+    "totient_prime",
+    "vigenere:DIVINITY",
+    "vigenere:FIRFUMFERENFE",
+    "vigenere:INSTAR",
+    "vigenere:CIRCUMFERENCE",
+    "vigenere:PILGRIM",
+    "vigenere:PRIMES",
+    "vigenere_skip_pt_f:DIVINITY",
+    "vigenere_skip_pt_f:FIRFUMFERENFE"
+  ],
+  "target": "rtkd.split_016"
+}

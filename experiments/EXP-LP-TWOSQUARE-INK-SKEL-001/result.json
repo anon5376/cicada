@@ -1,0 +1,128 @@
+{
+  "pair_tested": 180,
+  "pair_hits": [],
+  "skel_keeps": [
+    {
+      "split": 56,
+      "hay": "quixote",
+      "run": 10,
+      "pos": 50184,
+      "needle_n": 62
+    }
+  ],
+  "skel_top": [
+    {
+      "run": 10,
+      "split": 56,
+      "hay": "quixote",
+      "pos": 50184,
+      "needle_n": 62
+    },
+    {
+      "run": 8,
+      "split": 63,
+      "hay": "quixote",
+      "pos": 30272,
+      "needle_n": 67
+    },
+    {
+      "run": 8,
+      "split": 63,
+      "hay": "canterbury",
+      "pos": 39916,
+      "needle_n": 67
+    },
+    {
+      "run": 8,
+      "split": 55,
+      "hay": "ulysses",
+      "pos": 23300,
+      "needle_n": 55
+    },
+    {
+      "run": 8,
+      "split": 27,
+      "hay": "kafka_meta",
+      "pos": 17438,
+      "needle_n": 65
+    },
+    {
+      "run": 7,
+      "split": 63,
+      "hay": "ulysses",
+      "pos": 31375,
+      "needle_n": 67
+    },
+    {
+      "run": 7,
+      "split": 63,
+      "hay": "kafka_meta",
+      "pos": 12286,
+      "needle_n": 67
+    },
+    {
+      "run": 7,
+      "split": 51,
+      "hay": "ulysses",
+      "pos": 42225,
+      "needle_n": 50
+    },
+    {
+      "run": 7,
+      "split": 51,
+      "hay": "canterbury",
+      "pos": 53748,
+      "needle_n": 50
+    },
+    {
+      "run": 7,
+      "split": 44,
+      "hay": "kafka_meta",
+      "pos": 18688,
+      "needle_n": 71
+    },
+    {
+      "run": 7,
+      "split": 44,
+      "hay": "canterbury",
+      "pos": 19195,
+      "needle_n": 71
+    },
+    {
+      "run": 7,
+      "split": 39,
+      "hay": "canterbury",
+      "pos": 16401,
+      "needle_n": 64
+    },
+    {
+      "run": 7,
+      "split": 30,
+      "hay": "kafka_meta",
+      "pos": 6833,
+      "needle_n": 37
+    },
+    {
+      "run": 7,
+      "split": 29,
+      "hay": "kafka_meta",
+      "pos": 18739,
+      "needle_n": 31
+    },
+    {
+      "run": 7,
+      "split": 27,
+      "hay": "quixote",
+      "pos": 27811,
+      "needle_n": 65
+    }
+  ],
+  "hay_n": {
+    "ulysses": 62527,
+    "quixote": 63744,
+    "canterbury": 58808,
+    "kafka_meta": 25429
+  },
+  "ink_tested": 106,
+  "ink_hits": []
+}
